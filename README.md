@@ -1,7 +1,13 @@
 # Welcom to the project of team28
-## What is it?
+## What are we doing here?
 Houston311: Interactive Visualization to analyze and predict patterns in 311 data for
 better optimization of services, resource planning and to improve customer satisfaction.  
+## What is it?
+This project utilzed some of the following programming languages, tools and frameworks:  
+javascript, CSS, html, python, R, Tableau, D3, Flask, SQLite and google refine.  
+The final product presented here, is a Flask-based server, hosting our work using the verious tools.  
+It shows our final product to the end-user, on every web browser.  
+The website itself can be found here: https://houston311.herokuapp.com/
 ## How to run?
 The project is deployed and hosted on Heroku server: https://houston311.herokuapp.com/   
 If you would like to run it yourself locally, follow these steps:
