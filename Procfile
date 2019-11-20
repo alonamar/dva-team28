@@ -1,1 +1,1 @@
-web: waitress-serve —port=$PORT nuncio:app
+web: waitress-serve —port=$PORT app:app
