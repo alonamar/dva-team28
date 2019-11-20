@@ -1,7 +1,7 @@
 # Welcom to the project of team28
 ## What is it?
 Houston311: Interactive Visualization to analyze and predict patterns in 311 data for
-better optimization of services, resource planning and to improve customer satisfaction.
+better optimization of services, resource planning and to improve customer satisfaction.  
 ## How to run?
 The project is deployed and hosted on Heroku server: https://houston311.herokuapp.com/   
 If you would like to run it yourself locally, follow these steps:
