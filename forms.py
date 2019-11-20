@@ -49,6 +49,6 @@ class ForecastForm(FlaskForm):
     page = SelectField('Select Call Type',
                        choices=getChoices(),
                        render_kw={'class': 'ui dropdown',
-                                  'onchange': 'this.form.submit()'})
+                                  'onchange': 'this.form.submit(); getLoader()'})
 
 

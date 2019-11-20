@@ -5,10 +5,14 @@
     {{ super() }}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
     <script>
-    $(document).ready(function(){
-    $('.ui.dropdown').dropdown();
-});
-
+        $("#loader").addClass('disabled').removeClass('active');
+        $(document).ready(function(){
+            $('.ui.dropdown').dropdown();
+        });
+        
+        function getLoader() {
+            $("#loader").addClass('active').removeClass('disabled');
+        }
     </script>
 
 
@@ -23,7 +27,7 @@
         </div>
     </form>
 
-
+    <div id="loader" class="ui disabled loader"></div>
     <iframe src="{{ iframe }}"></iframe>
 
 {% endblock %}

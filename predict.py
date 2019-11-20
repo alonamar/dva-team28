@@ -61,9 +61,9 @@ def getResults(X_test, file=False):
         payload = b64.decode()
         return "data:text/csv;base64," + payload
     else:
-        chance = '%.2f' % (res['probability'][0]*100) + "%"
-        days = str(int(res['days'][0]))
-        answer = ["There is a chance of " + chance + " to be " + CLASS[int(res['class'][0])] + ".", "Days estimation: " + days]
+        chance = '%.2f' % (float(res['probability'][0])*100) + "%"
+        days = str(int(float(res['days'][0])))
+        answer = ["There is a chance of " + chance + " to be " + res['status'][0] + ".", "Days estimation: " + days]
         return answer
 
 

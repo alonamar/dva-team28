@@ -18,7 +18,7 @@ def predictions():
     predForm = PredictForm()
     fileForm = PredictFile()
     answer = request.args.getlist("answer") or ""
-    file_link = request.args.getlist("file_link") or ""
+    file_link = request.args.get("file_link") or ""
     if predForm.validate_on_submit():
         answer = predict.getResults(predForm.getDict())
         return redirect(url_for('predictions', predForm=predForm, fileForm=fileForm, answer=answer, file_link=file_link))
