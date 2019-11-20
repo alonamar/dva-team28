@@ -3,7 +3,7 @@
 Houston311: Interactive Visualization to analyze and predict patterns in 311 data for
 better optimization of services, resource planning and to improve customer satisfaction.
 ## How to run?
-The project is deployed and hosted on Heroku server: https://houston311.herokuapp.com/ __
+The project is deployed and hosted on Heroku server: https://houston311.herokuapp.com/   
 If you would like to run it yourself locally, follow these steps:
 1. Clone/download this repo into your local machine.
 2. Install python 3.7.x https://www.python.org/downloads/ , if not installed.
