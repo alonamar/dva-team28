@@ -2,7 +2,6 @@ from flask import Flask, render_template, redirect, url_for, request
 from config import Config
 import predict
 from forms import PredictForm, PredictFile, ForecastForm
-from waitress import serve
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -19,7 +18,7 @@ def predictions():
     predForm = PredictForm()
     fileForm = PredictFile()
     answer = request.args.getlist("answer") or ""
-    file_link = request.args.getlist("file_link") or ""
+    file_link = request.args.get("file_link") or ""
     if predForm.validate_on_submit():
         answer = predict.getResults(predForm.getDict())
         return redirect(url_for('predictions', predForm=predForm, fileForm=fileForm, answer=answer, file_link=file_link))
@@ -54,5 +53,4 @@ def embed_forecast(page):
 
 
 if __name__ == '__main__':
-    #app.run()
-	serve(app, host='0.0.0.0', port=8000)
+    app.run()
