@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Exploratory Analysis{% endblock %}
+
+{% block body %}
+    {{ super() }}
+    <link rel="stylesheet" href="/static/css/houston311_Trend.css">
+    <script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="module" src="/static/js/charts.js"></script>
+
+    <div id="vizContainer" class="ui container"></div>
+
+{% endblock %}
+
+
+

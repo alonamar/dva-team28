@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css"
+          integrity="sha256-9mbkOfVho3ZPXfM7W8sV2SndrGDuh7wuyLjtsWeTI1Q=" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+{#    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>#}
+<script src="/static/js/lib/jquery-3.4.1.min.js"></script>
+<div class="ui fixed inverted menu">
+    <div class="ui container">
+          <span class="header massive item">
+              <span class="biggerText">Team</span>
+              <img class="ui mini spaced image" src="/static/img/logo.png">
+          </span>
+        <a href="{{ url_for('index') }}" class="item">
+            <i class="home icon"></i>
+            Home
+        </a>
+        <a href="{{ url_for('exploratory') }}" class="item">
+            <i class="chart bar icon"></i>
+            Exploratory Analysis
+        </a>
+        <a href="{{ url_for('trends') }}" class="item">
+            <i class="chart line icon"></i>
+            Trend Analysis
+        </a>
+        <a href="{{ url_for('forecast') }}" class="item">
+            <i class="shekel sign icon"></i>
+            Forecasting
+        </a>
+        <a href="{{ url_for('predictions') }}" class="item">
+            <i class="quidditch icon"></i>
+            Prediction
+        </a>
+    </div>
+</div>
+<div class="ui main container">
+    {% block body %}
+
+
+    {% endblock %}
+</div>
+
+<div class="ui inverted vertical footer segment form-page">
+    <div class="ui center aligned container">
+        <span class="ui centered biggerText">Team</span>
+        <img class="ui centered mini image"
+             src="https://28magcom.files.wordpress.com/2018/06/cropped-28-logo-white.png">
+        <div class="ui horizontal inverted small divided link list">
+            <a class="item" href="mailto:aamar32@gatech.edu">Alon Amar</a>
+            <a class="item" href="mailto:dowen3@gatech.edu">Drew Owen</a>
+            <a class="item" href="mailto:ksivakumar32@gatech.edu">Kalpana Athyandam Sivakumar</a>
+            <a class="item" href="mailto:rajatkashyap@gatech.edu">Rajat Kashyap</a>
+            <a class="item" href="mailto:reema.gatech@gmail.com">Reema Gupta</a>
+            <a class="item" href="mailto:sonkusare@gatech.edu">Sapna Sonkusare</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

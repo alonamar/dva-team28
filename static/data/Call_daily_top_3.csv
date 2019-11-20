@@ -1,0 +1,3010 @@
+﻿SR CREATE DATE,SR TYPE,count_sr_type,rank_no,call_year,call_month,call_day
+2017-01-01,Sewer Wastewater,35,1,2017,1,1
+2017-01-01,Water Leak,20,2,2017,1,1
+2017-01-01,Traffic Signal Maintenance,16,3,2017,1,1
+2017-01-02,Sewer Wastewater,77,1,2017,1,2
+2017-01-02,Traffic Signal Maintenance,50,2,2017,1,2
+2017-01-02,Container Problem,44,3,2017,1,2
+2017-01-03,Sewer Wastewater,108,1,2017,1,3
+2017-01-03,Container Problem,105,2,2017,1,3
+2017-01-03,Missed Garbage Pickup,87,3,2017,1,3
+2017-01-04,Sewer Wastewater,97,1,2017,1,4
+2017-01-04,Missed Garbage Pickup,91,2,2017,1,4
+2017-01-04,Container Problem,73,3,2017,1,4
+2017-01-05,Missed Garbage Pickup,140,1,2017,1,5
+2017-01-05,Container Problem,92,2,2017,1,5
+2017-01-05,Sewer Wastewater,71,3,2017,1,5
+2017-01-06,Missed Garbage Pickup,152,1,2017,1,6
+2017-01-06,Missed Recycling Pickup,78,2,2017,1,6
+2017-01-06,Container Problem,74,3,2017,1,6
+2017-01-07,Water Service,331,1,2017,1,7
+2017-01-07,Water Leak,167,2,2017,1,7
+2017-01-07,Water Main Valve,101,3,2017,1,7
+2017-01-08,Water Leak,107,1,2017,1,8
+2017-01-08,Water Service,61,2,2017,1,8
+2017-01-08,Water Main Valve,48,3,2017,1,8
+2017-01-09,Missed Garbage Pickup,139,1,2017,1,9
+2017-01-09,Sewer Wastewater,134,2,2017,1,9
+2017-01-09,Water Leak,128,3,2017,1,9
+2017-01-10,Missed Garbage Pickup,151,1,2017,1,10
+2017-01-10,Nuisance On Property,107,2,2017,1,10
+2017-01-10,Water Leak,105,3,2017,1,10
+2017-01-11,Water Leak,112,1,2017,1,11
+2017-01-11,Sewer Wastewater,99,2,2017,1,11
+2017-01-11,Missed Garbage Pickup,55,3,2017,1,11
+2017-01-12,Sewer Wastewater,99,1,2017,1,12
+2017-01-12,Water Leak,97,2,2017,1,12
+2017-01-12,Missed Garbage Pickup,91,3,2017,1,12
+2017-01-13,Missed Garbage Pickup,104,1,2017,1,13
+2017-01-13,Sewer Wastewater,72,2,2017,1,13
+2017-01-13,Water Leak,68,3,2017,1,13
+2017-01-14,Sewer Wastewater,50,1,2017,1,14
+2017-01-14,Water Leak,47,2,2017,1,14
+2017-01-14,Traffic Signal Maintenance,27,3,2017,1,14
+2017-01-15,Sewer Wastewater,49,1,2017,1,15
+2017-01-15,Water Leak,24,2,2017,1,15
+2017-01-15,Traffic Signal Maintenance,24,3,2017,1,15
+2017-01-16,Water Leak,54,1,2017,1,16
+2017-01-16,Sewer Wastewater,53,2,2017,1,16
+2017-01-16,Traffic Signal Maintenance,36,3,2017,1,16
+2017-01-17,Container Problem,101,1,2017,1,17
+2017-01-17,Sewer Wastewater,93,2,2017,1,17
+2017-01-17,Traffic Signal Maintenance,83,3,2017,1,17
+2017-01-18,Container Problem,290,1,2017,1,18
+2017-01-18,Drainage,195,2,2017,1,18
+2017-01-18,Flooding,175,3,2017,1,18
+2017-01-19,Missed Recycling Pickup,207,1,2017,1,19
+2017-01-19,Missed Garbage Pickup,204,2,2017,1,19
+2017-01-19,Container Problem,176,3,2017,1,19
+2017-01-20,Missed Recycling Pickup,549,1,2017,1,20
+2017-01-20,Missed Garbage Pickup,150,2,2017,1,20
+2017-01-20,Sewer Wastewater,122,3,2017,1,20
+2017-01-21,Sewer Wastewater,90,1,2017,1,21
+2017-01-21,Water Leak,67,2,2017,1,21
+2017-01-21,Drainage,62,3,2017,1,21
+2017-01-22,Traffic Signal Maintenance,242,1,2017,1,22
+2017-01-22,Street Hazard,54,2,2017,1,22
+2017-01-22,Sewer Wastewater,53,3,2017,1,22
+2017-01-23,Sewer Wastewater,136,1,2017,1,23
+2017-01-23,Traffic Signal Maintenance,126,2,2017,1,23
+2017-01-23,Missed Garbage Pickup,116,3,2017,1,23
+2017-01-24,Missed Garbage Pickup,145,1,2017,1,24
+2017-01-24,Container Problem,135,2,2017,1,24
+2017-01-24,Water Leak,122,3,2017,1,24
+2017-01-25,Graffiti Private or Commercial Property,277,1,2017,1,25
+2017-01-25,Missed Recycling Pickup,118,2,2017,1,25
+2017-01-25,Sewer Wastewater,97,3,2017,1,25
+2017-01-26,Water Leak,87,1,2017,1,26
+2017-01-26,Container Problem,87,2,2017,1,26
+2017-01-26,Missed Garbage Pickup,80,3,2017,1,26
+2017-01-27,Missed Garbage Pickup,112,1,2017,1,27
+2017-01-27,Sewer Wastewater,90,2,2017,1,27
+2017-01-27,Container Problem,86,3,2017,1,27
+2017-01-28,Water Leak,65,1,2017,1,28
+2017-01-28,Traffic Signal Maintenance,35,2,2017,1,28
+2017-01-28,Sewer Wastewater,34,3,2017,1,28
+2017-01-29,Water Leak,51,1,2017,1,29
+2017-01-29,Traffic Signal Maintenance,34,2,2017,1,29
+2017-01-29,Sewer Wastewater,25,3,2017,1,29
+2017-01-30,Water Leak,116,1,2017,1,30
+2017-01-30,Sewer Wastewater,108,2,2017,1,30
+2017-01-30,Container Problem,100,3,2017,1,30
+2017-01-31,Water Leak,116,1,2017,1,31
+2017-01-31,Missed Garbage Pickup,114,2,2017,1,31
+2017-01-31,Container Problem,108,3,2017,1,31
+2017-02-01,Water Leak,93,1,2017,2,1
+2017-02-01,Sewer Wastewater,79,2,2017,2,1
+2017-02-01,Container Problem,66,3,2017,2,1
+2017-02-02,Water Leak,122,1,2017,2,2
+2017-02-02,Sewer Wastewater,93,2,2017,2,2
+2017-02-02,Missed Garbage Pickup,62,3,2017,2,2
+2017-02-03,Water Leak,92,1,2017,2,3
+2017-02-03,Sewer Wastewater,90,2,2017,2,3
+2017-02-03,Missed Garbage Pickup,73,3,2017,2,3
+2017-02-04,Sewer Wastewater,56,1,2017,2,4
+2017-02-04,Water Leak,51,2,2017,2,4
+2017-02-04,Missed Garbage Pickup,34,3,2017,2,4
+2017-02-05,Water Leak,36,1,2017,2,5
+2017-02-05,Sewer Wastewater,32,2,2017,2,5
+2017-02-05,Traffic Signal Maintenance,18,3,2017,2,5
+2017-02-06,Water Leak,118,1,2017,2,6
+2017-02-06,Sewer Wastewater,109,2,2017,2,6
+2017-02-06,Container Problem,94,3,2017,2,6
+2017-02-07,Water Leak,132,1,2017,2,7
+2017-02-07,Sewer Wastewater,99,2,2017,2,7
+2017-02-07,Missed Garbage Pickup,98,3,2017,2,7
+2017-02-08,Missed Heavy Trash Pickup,108,1,2017,2,8
+2017-02-08,Water Leak,96,2,2017,2,8
+2017-02-08,Sewer Wastewater,77,3,2017,2,8
+2017-02-09,Water Leak,93,1,2017,2,9
+2017-02-09,Missed Heavy Trash Pickup,89,2,2017,2,9
+2017-02-09,Container Problem,73,3,2017,2,9
+2017-02-10,Missed Heavy Trash Pickup,149,1,2017,2,10
+2017-02-10,Missed Garbage Pickup,92,2,2017,2,10
+2017-02-10,Water Leak,87,3,2017,2,10
+2017-02-11,Sewer Wastewater,63,1,2017,2,11
+2017-02-11,Missed Heavy Trash Pickup,62,2,2017,2,11
+2017-02-11,Water Leak,47,3,2017,2,11
+2017-02-12,Water Leak,36,1,2017,2,12
+2017-02-12,Sewer Wastewater,31,2,2017,2,12
+2017-02-12,Water Service,26,3,2017,2,12
+2017-02-13,Water Leak,129,1,2017,2,13
+2017-02-13,Sewer Wastewater,98,2,2017,2,13
+2017-02-13,Missed Garbage Pickup,98,3,2017,2,13
+2017-02-14,Missed Garbage Pickup,136,1,2017,2,14
+2017-02-14,Traffic Signal Maintenance,110,2,2017,2,14
+2017-02-14,Container Problem,76,3,2017,2,14
+2017-02-15,Missed Heavy Trash Pickup,97,1,2017,2,15
+2017-02-15,Water Leak,78,2,2017,2,15
+2017-02-15,Traffic Signal Maintenance,65,3,2017,2,15
+2017-02-16,Missed Heavy Trash Pickup,127,1,2017,2,16
+2017-02-16,Water Leak,95,2,2017,2,16
+2017-02-16,Sewer Wastewater,86,3,2017,2,16
+2017-02-17,Missed Garbage Pickup,44,1,2017,2,17
+2017-02-17,Container Problem,42,2,2017,2,17
+2017-02-17,Missed Heavy Trash Pickup,42,3,2017,2,17
+2017-02-18,Water Leak,47,1,2017,2,18
+2017-02-18,Nuisance On Property,44,2,2017,2,18
+2017-02-18,Sewer Wastewater,38,3,2017,2,18
+2017-02-19,Sewer Wastewater,34,1,2017,2,19
+2017-02-19,Water Leak,26,2,2017,2,19
+2017-02-19,Nuisance On Property,26,3,2017,2,19
+2017-02-20,Nuisance On Property,88,1,2017,2,20
+2017-02-20,Container Problem,79,2,2017,2,20
+2017-02-20,Sewer Wastewater,77,3,2017,2,20
+2017-02-21,Sewer Wastewater,106,1,2017,2,21
+2017-02-21,Missed Garbage Pickup,102,2,2017,2,21
+2017-02-21,Container Problem,89,3,2017,2,21
+2017-02-22,Water Leak,100,1,2017,2,22
+2017-02-22,Sewer Wastewater,98,2,2017,2,22
+2017-02-22,Unclassified 311 Web Request,63,3,2017,2,22
+2017-02-23,Water Leak,91,1,2017,2,23
+2017-02-23,Sewer Wastewater,89,2,2017,2,23
+2017-02-23,Missed Heavy Trash Pickup,84,3,2017,2,23
+2017-02-24,Missed Garbage Pickup,114,1,2017,2,24
+2017-02-24,Missed Heavy Trash Pickup,83,2,2017,2,24
+2017-02-24,Container Problem,69,3,2017,2,24
+2017-02-25,Sewer Wastewater,42,1,2017,2,25
+2017-02-25,Water Leak,42,2,2017,2,25
+2017-02-25,Missed Heavy Trash Pickup,36,3,2017,2,25
+2017-02-26,Sewer Wastewater,38,1,2017,2,26
+2017-02-26,Water Leak,24,2,2017,2,26
+2017-02-26,Trash Dumping or Illegal Dumpsite,17,3,2017,2,26
+2017-02-27,Missed Garbage Pickup,104,1,2017,2,27
+2017-02-27,Sewer Wastewater,97,2,2017,2,27
+2017-02-27,Water Leak,94,3,2017,2,27
+2017-02-28,Missed Garbage Pickup,168,1,2017,2,28
+2017-02-28,Container Problem,96,2,2017,2,28
+2017-02-28,Water Leak,95,3,2017,2,28
+2017-03-01,Missed Recycling Pickup,84,1,2017,3,1
+2017-03-01,Water Leak,79,2,2017,3,1
+2017-03-01,Sewer Wastewater,75,3,2017,3,1
+2017-03-02,Water Leak,95,1,2017,3,2
+2017-03-02,Missed Heavy Trash Pickup,64,2,2017,3,2
+2017-03-02,Container Problem,60,3,2017,3,2
+2017-03-03,Missed Garbage Pickup,81,1,2017,3,3
+2017-03-03,Sewer Wastewater,73,2,2017,3,3
+2017-03-03,Container Problem,72,3,2017,3,3
+2017-03-04,Missed Garbage Pickup,38,1,2017,3,4
+2017-03-04,Water Service,31,2,2017,3,4
+2017-03-04,Sewer Wastewater,31,3,2017,3,4
+2017-03-05,Sewer Wastewater,66,1,2017,3,5
+2017-03-05,Traffic Signal Maintenance,59,2,2017,3,5
+2017-03-05,Street Hazard,39,3,2017,3,5
+2017-03-06,Sewer Wastewater,130,1,2017,3,6
+2017-03-06,Drainage,96,2,2017,3,6
+2017-03-06,Container Problem,82,3,2017,3,6
+2017-03-07,Missed Garbage Pickup,113,1,2017,3,7
+2017-03-07,Sewer Wastewater,97,2,2017,3,7
+2017-03-07,Container Problem,85,3,2017,3,7
+2017-03-08,Sewer Wastewater,81,1,2017,3,8
+2017-03-08,Container Problem,67,2,2017,3,8
+2017-03-08,Missed Recycling Pickup,67,3,2017,3,8
+2017-03-09,Sewer Wastewater,96,1,2017,3,9
+2017-03-09,Container Problem,67,2,2017,3,9
+2017-03-09,Water Leak,61,3,2017,3,9
+2017-03-10,Missed Garbage Pickup,75,1,2017,3,10
+2017-03-10,Sewer Wastewater,67,2,2017,3,10
+2017-03-10,Container Problem,64,3,2017,3,10
+2017-03-11,Sewer Wastewater,34,1,2017,3,11
+2017-03-11,Traffic Signal Maintenance,22,2,2017,3,11
+2017-03-11,Heavy Trash Violation,21,3,2017,3,11
+2017-03-12,Sewer Wastewater,30,1,2017,3,12
+2017-03-12,Traffic Signal Maintenance,28,2,2017,3,12
+2017-03-12,Water Leak,27,3,2017,3,12
+2017-03-13,Sewer Wastewater,118,1,2017,3,13
+2017-03-13,Container Problem,84,2,2017,3,13
+2017-03-13,Water Leak,81,3,2017,3,13
+2017-03-14,Missed Garbage Pickup,118,1,2017,3,14
+2017-03-14,Container Problem,97,2,2017,3,14
+2017-03-14,Missed Recycling Pickup,94,3,2017,3,14
+2017-03-15,Sewer Wastewater,68,1,2017,3,15
+2017-03-15,Missed Recycling Pickup,66,2,2017,3,15
+2017-03-15,Container Problem,65,3,2017,3,15
+2017-03-16,Water Leak,76,1,2017,3,16
+2017-03-16,Container Problem,75,2,2017,3,16
+2017-03-16,Sewer Wastewater,64,3,2017,3,16
+2017-03-17,Missed Garbage Pickup,80,1,2017,3,17
+2017-03-17,Heavy Trash Violation,78,2,2017,3,17
+2017-03-17,Sewer Wastewater,77,3,2017,3,17
+2017-03-18,Sewer Wastewater,40,1,2017,3,18
+2017-03-18,Water Leak,35,2,2017,3,18
+2017-03-18,Traffic Signal Maintenance,25,3,2017,3,18
+2017-03-19,Water Leak,41,1,2017,3,19
+2017-03-19,Sewer Wastewater,38,2,2017,3,19
+2017-03-19,Nuisance On Property,32,3,2017,3,19
+2017-03-20,Missed Garbage Pickup,109,1,2017,3,20
+2017-03-20,Sewer Wastewater,97,2,2017,3,20
+2017-03-20,Water Leak,96,3,2017,3,20
+2017-03-21,Missed Garbage Pickup,175,1,2017,3,21
+2017-03-21,Nuisance On Property,112,2,2017,3,21
+2017-03-21,Container Problem,107,3,2017,3,21
+2017-03-22,Nuisance On Property,123,1,2017,3,22
+2017-03-22,Missed Garbage Pickup,88,2,2017,3,22
+2017-03-22,Missed Recycling Pickup,81,3,2017,3,22
+2017-03-23,Nuisance On Property,118,1,2017,3,23
+2017-03-23,Water Leak,70,2,2017,3,23
+2017-03-23,Missed Garbage Pickup,66,3,2017,3,23
+2017-03-24,Missed Garbage Pickup,89,1,2017,3,24
+2017-03-24,Container Problem,83,2,2017,3,24
+2017-03-24,Nuisance On Property,69,3,2017,3,24
+2017-03-25,Traffic Signal Maintenance,47,1,2017,3,25
+2017-03-25,Street Hazard,36,2,2017,3,25
+2017-03-25,Water Leak,29,3,2017,3,25
+2017-03-26,Sewer Wastewater,38,1,2017,3,26
+2017-03-26,Traffic Signal Maintenance,33,2,2017,3,26
+2017-03-26,Dead Animal Collection,29,3,2017,3,26
+2017-03-27,Sewer Wastewater,85,1,2017,3,27
+2017-03-27,Missed Garbage Pickup,85,2,2017,3,27
+2017-03-27,Container Problem,82,3,2017,3,27
+2017-03-28,Missed Garbage Pickup,130,1,2017,3,28
+2017-03-28,Container Problem,110,2,2017,3,28
+2017-03-28,Sewer Wastewater,95,3,2017,3,28
+2017-03-29,Traffic Signal Maintenance,150,1,2017,3,29
+2017-03-29,Heavy Trash Violation,125,2,2017,3,29
+2017-03-29,Drainage,121,3,2017,3,29
+2017-03-30,Container Problem,82,1,2017,3,30
+2017-03-30,Sewer Wastewater,71,2,2017,3,30
+2017-03-30,Traffic Signal Maintenance,64,3,2017,3,30
+2017-03-31,Missed Garbage Pickup,89,1,2017,3,31
+2017-03-31,Container Problem,72,2,2017,3,31
+2017-03-31,Traffic Signal Maintenance,58,3,2017,3,31
+2017-04-01,Traffic Signal Maintenance,37,1,2017,4,1
+2017-04-01,Water Leak,37,2,2017,4,1
+2017-04-01,Sewer Wastewater,35,3,2017,4,1
+2017-04-02,Traffic Signal Maintenance,33,1,2017,4,2
+2017-04-02,Sewer Wastewater,27,2,2017,4,2
+2017-04-02,Water Leak,21,3,2017,4,2
+2017-04-03,Nuisance On Property,120,1,2017,4,3
+2017-04-03,Missed Garbage Pickup,111,2,2017,4,3
+2017-04-03,Container Problem,98,3,2017,4,3
+2017-04-04,Missed Garbage Pickup,127,1,2017,4,4
+2017-04-04,Container Problem,90,2,2017,4,4
+2017-04-04,Sewer Wastewater,69,3,2017,4,4
+2017-04-05,Nuisance On Property,96,1,2017,4,5
+2017-04-05,Missed Recycling Pickup,77,2,2017,4,5
+2017-04-05,Missed Garbage Pickup,72,3,2017,4,5
+2017-04-06,Nuisance On Property,106,1,2017,4,6
+2017-04-06,Missed Garbage Pickup,88,2,2017,4,6
+2017-04-06,Missed Heavy Trash Pickup,76,3,2017,4,6
+2017-04-07,Missed Garbage Pickup,118,1,2017,4,7
+2017-04-07,Missed Heavy Trash Pickup,108,2,2017,4,7
+2017-04-07,Missed Recycling Pickup,82,3,2017,4,7
+2017-04-08,Traffic Signal Maintenance,47,1,2017,4,8
+2017-04-08,Missed Heavy Trash Pickup,44,2,2017,4,8
+2017-04-08,Water Leak,30,3,2017,4,8
+2017-04-09,Nuisance On Property,37,1,2017,4,9
+2017-04-09,Traffic Signal Maintenance,31,2,2017,4,9
+2017-04-09,Sewer Wastewater,26,3,2017,4,9
+2017-04-10,Container Problem,94,1,2017,4,10
+2017-04-10,Nuisance On Property,87,2,2017,4,10
+2017-04-10,Missed Garbage Pickup,83,3,2017,4,10
+2017-04-11,Missed Garbage Pickup,100,1,2017,4,11
+2017-04-11,Missed Recycling Pickup,93,2,2017,4,11
+2017-04-11,Traffic Signal Maintenance,84,3,2017,4,11
+2017-04-12,Nuisance On Property,118,1,2017,4,12
+2017-04-12,Missed Garbage Pickup,83,2,2017,4,12
+2017-04-12,Missed Recycling Pickup,80,3,2017,4,12
+2017-04-13,Container Problem,74,1,2017,4,13
+2017-04-13,Missed Garbage Pickup,68,2,2017,4,13
+2017-04-13,Nuisance On Property,63,3,2017,4,13
+2017-04-14,Missed Garbage Pickup,90,1,2017,4,14
+2017-04-14,Container Problem,61,2,2017,4,14
+2017-04-14,Sewer Wastewater,58,3,2017,4,14
+2017-04-15,Traffic Signal Maintenance,35,1,2017,4,15
+2017-04-15,Water Leak,34,2,2017,4,15
+2017-04-15,Sewer Wastewater,29,3,2017,4,15
+2017-04-16,Sewer Wastewater,26,1,2017,4,16
+2017-04-16,Nuisance On Property,23,2,2017,4,16
+2017-04-16,Water Leak,22,3,2017,4,16
+2017-04-17,Nuisance On Property,106,1,2017,4,17
+2017-04-17,Container Problem,100,2,2017,4,17
+2017-04-17,Sewer Wastewater,72,3,2017,4,17
+2017-04-18,Missed Garbage Pickup,103,1,2017,4,18
+2017-04-18,Container Problem,98,2,2017,4,18
+2017-04-18,Traffic Signal Maintenance,74,3,2017,4,18
+2017-04-19,Nuisance On Property,112,1,2017,4,19
+2017-04-19,Sewer Wastewater,76,2,2017,4,19
+2017-04-19,Missed Recycling Pickup,66,3,2017,4,19
+2017-04-20,Nuisance On Property,96,1,2017,4,20
+2017-04-20,Container Problem,77,2,2017,4,20
+2017-04-20,Water Leak,72,3,2017,4,20
+2017-04-21,Missed Garbage Pickup,104,1,2017,4,21
+2017-04-21,Nuisance On Property,78,2,2017,4,21
+2017-04-21,Container Problem,76,3,2017,4,21
+2017-04-22,Missed Garbage Pickup,40,1,2017,4,22
+2017-04-22,Water Leak,37,2,2017,4,22
+2017-04-22,Sewer Wastewater,36,3,2017,4,22
+2017-04-23,Water Leak,27,1,2017,4,23
+2017-04-23,Sewer Wastewater,27,2,2017,4,23
+2017-04-23,Nuisance On Property,23,3,2017,4,23
+2017-04-24,Nuisance On Property,144,1,2017,4,24
+2017-04-24,Container Problem,123,2,2017,4,24
+2017-04-24,Missed Garbage Pickup,112,3,2017,4,24
+2017-04-25,Missed Garbage Pickup,141,1,2017,4,25
+2017-04-25,Missed Recycling Pickup,139,2,2017,4,25
+2017-04-25,Nuisance On Property,109,3,2017,4,25
+2017-04-26,Nuisance On Property,88,1,2017,4,26
+2017-04-26,Water Leak,73,2,2017,4,26
+2017-04-26,Container Problem,69,3,2017,4,26
+2017-04-27,Nuisance On Property,83,1,2017,4,27
+2017-04-27,Missed Garbage Pickup,68,2,2017,4,27
+2017-04-27,Container Problem,60,3,2017,4,27
+2017-04-28,Missed Garbage Pickup,108,1,2017,4,28
+2017-04-28,Nuisance On Property,106,2,2017,4,28
+2017-04-28,Missed Recycling Pickup,84,3,2017,4,28
+2017-04-29,Traffic Signal Maintenance,55,1,2017,4,29
+2017-04-29,Street Hazard,54,2,2017,4,29
+2017-04-29,Sewer Wastewater,38,3,2017,4,29
+2017-04-30,Traffic Signal Maintenance,30,1,2017,4,30
+2017-04-30,Water Leak,23,2,2017,4,30
+2017-04-30,Street Hazard,18,3,2017,4,30
+2017-05-01,Nuisance On Property,82,1,2017,5,1
+2017-05-01,Water Leak,81,2,2017,5,1
+2017-05-01,Missed Garbage Pickup,76,3,2017,5,1
+2017-05-02,Container Problem,125,1,2017,5,2
+2017-05-02,Missed Garbage Pickup,84,2,2017,5,2
+2017-05-02,Nuisance On Property,75,3,2017,5,2
+2017-05-03,Container Problem,74,1,2017,5,3
+2017-05-03,Nuisance On Property,72,2,2017,5,3
+2017-05-03,Water Leak,66,3,2017,5,3
+2017-05-04,Traffic Signal Maintenance,111,1,2017,5,4
+2017-05-04,Missed Garbage Pickup,96,2,2017,5,4
+2017-05-04,Nuisance On Property,82,3,2017,5,4
+2017-05-05,Missed Garbage Pickup,117,1,2017,5,5
+2017-05-05,Container Problem,79,2,2017,5,5
+2017-05-05,Nuisance On Property,75,3,2017,5,5
+2017-05-06,Sewer Wastewater,38,1,2017,5,6
+2017-05-06,Traffic Signal Maintenance,37,2,2017,5,6
+2017-05-06,Missed Garbage Pickup,36,3,2017,5,6
+2017-05-07,Traffic Signal Maintenance,25,1,2017,5,7
+2017-05-07,Sewer Wastewater,23,2,2017,5,7
+2017-05-07,Traffic Signs,21,3,2017,5,7
+2017-05-08,Container Problem,115,1,2017,5,8
+2017-05-08,Nuisance On Property,110,2,2017,5,8
+2017-05-08,Sewer Wastewater,77,3,2017,5,8
+2017-05-09,Nuisance On Property,95,1,2017,5,9
+2017-05-09,Container Problem,94,2,2017,5,9
+2017-05-09,Missed Garbage Pickup,84,3,2017,5,9
+2017-05-10,Nuisance On Property,73,1,2017,5,10
+2017-05-10,Container Problem,72,2,2017,5,10
+2017-05-10,Water Leak,56,3,2017,5,10
+2017-05-11,Nuisance On Property,87,1,2017,5,11
+2017-05-11,Container Problem,61,2,2017,5,11
+2017-05-11,Sewer Wastewater,59,3,2017,5,11
+2017-05-12,Missed Garbage Pickup,111,1,2017,5,12
+2017-05-12,Nuisance On Property,70,2,2017,5,12
+2017-05-12,Container Problem,61,3,2017,5,12
+2017-05-13,Trash Dumping or Illegal Dumpsite,53,1,2017,5,13
+2017-05-13,Sewer Wastewater,29,2,2017,5,13
+2017-05-13,Water Leak,27,3,2017,5,13
+2017-05-14,Nuisance On Property,40,1,2017,5,14
+2017-05-14,Unclassified 311 Web Request,27,2,2017,5,14
+2017-05-14,Water Leak,25,3,2017,5,14
+2017-05-15,Nuisance On Property,90,1,2017,5,15
+2017-05-15,Container Problem,88,2,2017,5,15
+2017-05-15,Sewer Wastewater,84,3,2017,5,15
+2017-05-16,Container Problem,118,1,2017,5,16
+2017-05-16,Missed Garbage Pickup,104,2,2017,5,16
+2017-05-16,Missed Recycling Pickup,90,3,2017,5,16
+2017-05-17,Missed Recycling Pickup,80,1,2017,5,17
+2017-05-17,Nuisance On Property,76,2,2017,5,17
+2017-05-17,Container Problem,69,3,2017,5,17
+2017-05-18,Missed Garbage Pickup,73,1,2017,5,18
+2017-05-18,Container Problem,69,2,2017,5,18
+2017-05-18,Nuisance On Property,66,3,2017,5,18
+2017-05-19,Missed Garbage Pickup,89,1,2017,5,19
+2017-05-19,Container Problem,85,2,2017,5,19
+2017-05-19,Water Leak,56,3,2017,5,19
+2017-05-20,Missed Garbage Pickup,37,1,2017,5,20
+2017-05-20,Water Leak,36,2,2017,5,20
+2017-05-20,Sewer Wastewater,33,3,2017,5,20
+2017-05-21,Nuisance On Property,28,1,2017,5,21
+2017-05-21,Water Leak,28,2,2017,5,21
+2017-05-21,Traffic Signal Maintenance,23,3,2017,5,21
+2017-05-22,Traffic Signal Maintenance,103,1,2017,5,22
+2017-05-22,Container Problem,101,2,2017,5,22
+2017-05-22,Street Hazard,87,3,2017,5,22
+2017-05-23,Missed Garbage Pickup,117,1,2017,5,23
+2017-05-23,Container Problem,86,2,2017,5,23
+2017-05-23,Water Leak,69,3,2017,5,23
+2017-05-24,Nuisance On Property,79,1,2017,5,24
+2017-05-24,Traffic Signal Maintenance,68,2,2017,5,24
+2017-05-24,Water Leak,61,3,2017,5,24
+2017-05-25,Nuisance On Property,90,1,2017,5,25
+2017-05-25,Container Problem,82,2,2017,5,25
+2017-05-25,Water Leak,66,3,2017,5,25
+2017-05-26,Missed Garbage Pickup,96,1,2017,5,26
+2017-05-26,Water Leak,68,2,2017,5,26
+2017-05-26,Container Problem,67,3,2017,5,26
+2017-05-27,Water Leak,26,1,2017,5,27
+2017-05-27,Sewer Wastewater,25,2,2017,5,27
+2017-05-27,Parking Violation,23,3,2017,5,27
+2017-05-28,Traffic Signal Maintenance,22,1,2017,5,28
+2017-05-28,Sewer Wastewater,21,2,2017,5,28
+2017-05-28,Water Leak,17,3,2017,5,28
+2017-05-29,Traffic Signal Maintenance,47,1,2017,5,29
+2017-05-29,Water Service,43,2,2017,5,29
+2017-05-29,Water Leak,41,3,2017,5,29
+2017-05-30,Container Problem,114,1,2017,5,30
+2017-05-30,Nuisance On Property,91,2,2017,5,30
+2017-05-30,Sewer Wastewater,75,3,2017,5,30
+2017-05-31,Container Problem,95,1,2017,5,31
+2017-05-31,Missed Garbage Pickup,77,2,2017,5,31
+2017-05-31,Nuisance On Property,73,3,2017,5,31
+2017-06-01,Missed Garbage Pickup,122,1,2017,6,1
+2017-06-01,Container Problem,97,2,2017,6,1
+2017-06-01,Traffic Signal Maintenance,66,3,2017,6,1
+2017-06-02,Missed Garbage Pickup,109,1,2017,6,2
+2017-06-02,Container Problem,80,2,2017,6,2
+2017-06-02,Nuisance On Property,73,3,2017,6,2
+2017-06-03,Sewer Wastewater,33,1,2017,6,3
+2017-06-03,Heavy Trash Violation,29,2,2017,6,3
+2017-06-03,Nuisance On Property,25,3,2017,6,3
+2017-06-04,Street Hazard,72,1,2017,6,4
+2017-06-04,Flooding,72,2,2017,6,4
+2017-06-04,Traffic Signal Maintenance,58,3,2017,6,4
+2017-06-05,Sewer Wastewater,104,1,2017,6,5
+2017-06-05,Container Problem,98,2,2017,6,5
+2017-06-05,Drainage,92,3,2017,6,5
+2017-06-06,Container Problem,113,1,2017,6,6
+2017-06-06,Missed Garbage Pickup,103,2,2017,6,6
+2017-06-06,Nuisance On Property,85,3,2017,6,6
+2017-06-07,Container Problem,76,1,2017,6,7
+2017-06-07,Sewer Wastewater,68,2,2017,6,7
+2017-06-07,Nuisance On Property,68,3,2017,6,7
+2017-06-08,Container Problem,99,1,2017,6,8
+2017-06-08,Nuisance On Property,97,2,2017,6,8
+2017-06-08,Sewer Wastewater,63,3,2017,6,8
+2017-06-09,Container Problem,86,1,2017,6,9
+2017-06-09,Missed Garbage Pickup,78,2,2017,6,9
+2017-06-09,Nuisance On Property,62,3,2017,6,9
+2017-06-10,Nuisance On Property,46,1,2017,6,10
+2017-06-10,Sewer Wastewater,33,2,2017,6,10
+2017-06-10,Water Leak,31,3,2017,6,10
+2017-06-11,Nuisance On Property,21,1,2017,6,11
+2017-06-11,Traffic Signal Maintenance,21,2,2017,6,11
+2017-06-11,Sewer Wastewater,19,3,2017,6,11
+2017-06-12,Nuisance On Property,97,1,2017,6,12
+2017-06-12,Container Problem,92,2,2017,6,12
+2017-06-12,Missed Garbage Pickup,83,3,2017,6,12
+2017-06-13,Missed Garbage Pickup,131,1,2017,6,13
+2017-06-13,Container Problem,95,2,2017,6,13
+2017-06-13,Nuisance On Property,92,3,2017,6,13
+2017-06-14,Nuisance On Property,92,1,2017,6,14
+2017-06-14,Missed Garbage Pickup,72,2,2017,6,14
+2017-06-14,Water Leak,61,3,2017,6,14
+2017-06-15,Missed Garbage Pickup,103,1,2017,6,15
+2017-06-15,Container Problem,94,2,2017,6,15
+2017-06-15,Nuisance On Property,89,3,2017,6,15
+2017-06-16,Missed Garbage Pickup,117,1,2017,6,16
+2017-06-16,Container Problem,72,2,2017,6,16
+2017-06-16,Sewer Wastewater,67,3,2017,6,16
+2017-06-17,Sewer Wastewater,31,1,2017,6,17
+2017-06-17,Water Leak,26,2,2017,6,17
+2017-06-17,Container Problem,23,3,2017,6,17
+2017-06-18,Heavy Trash Violation,97,1,2017,6,18
+2017-06-18,Nuisance On Property,35,2,2017,6,18
+2017-06-18,Trash Dumping or Illegal Dumpsite,31,3,2017,6,18
+2017-06-19,Nuisance On Property,109,1,2017,6,19
+2017-06-19,Container Problem,98,2,2017,6,19
+2017-06-19,Water Leak,74,3,2017,6,19
+2017-06-20,Nuisance On Property,137,1,2017,6,20
+2017-06-20,Missed Garbage Pickup,132,2,2017,6,20
+2017-06-20,Container Problem,104,3,2017,6,20
+2017-06-21,Nuisance On Property,84,1,2017,6,21
+2017-06-21,Missed Garbage Pickup,74,2,2017,6,21
+2017-06-21,Container Problem,72,3,2017,6,21
+2017-06-22,Container Problem,100,1,2017,6,22
+2017-06-22,Missed Garbage Pickup,82,2,2017,6,22
+2017-06-22,Nuisance On Property,73,3,2017,6,22
+2017-06-23,Missed Garbage Pickup,175,1,2017,6,23
+2017-06-23,Container Problem,90,2,2017,6,23
+2017-06-23,Nuisance On Property,67,3,2017,6,23
+2017-06-24,Water Service,57,1,2017,6,24
+2017-06-24,Missed Garbage Pickup,56,2,2017,6,24
+2017-06-24,Sewer Wastewater,30,3,2017,6,24
+2017-06-25,Water Leak,47,1,2017,6,25
+2017-06-25,Traffic Signal Maintenance,47,2,2017,6,25
+2017-06-25,Nuisance On Property,44,3,2017,6,25
+2017-06-26,Container Problem,101,1,2017,6,26
+2017-06-26,Missed Garbage Pickup,93,2,2017,6,26
+2017-06-26,Nuisance On Property,86,3,2017,6,26
+2017-06-27,Nuisance On Property,110,1,2017,6,27
+2017-06-27,Missed Garbage Pickup,104,2,2017,6,27
+2017-06-27,Container Problem,84,3,2017,6,27
+2017-06-28,Nuisance On Property,107,1,2017,6,28
+2017-06-28,Missed Recycling Pickup,86,2,2017,6,28
+2017-06-28,Sewer Wastewater,59,3,2017,6,28
+2017-06-29,Missed Garbage Pickup,105,1,2017,6,29
+2017-06-29,Nuisance On Property,96,2,2017,6,29
+2017-06-29,Container Problem,84,3,2017,6,29
+2017-06-30,Missed Garbage Pickup,116,1,2017,6,30
+2017-06-30,Nuisance On Property,114,2,2017,6,30
+2017-06-30,Container Problem,77,3,2017,6,30
+2017-07-01,Water Leak,46,1,2017,7,1
+2017-07-01,Nuisance On Property,32,2,2017,7,1
+2017-07-01,Missed Garbage Pickup,29,3,2017,7,1
+2017-07-02,Water Leak,29,1,2017,7,2
+2017-07-02,Nuisance On Property,28,2,2017,7,2
+2017-07-02,Unclassified 311 Web Request,21,3,2017,7,2
+2017-07-03,Container Problem,90,1,2017,7,3
+2017-07-03,Nuisance On Property,74,2,2017,7,3
+2017-07-03,Sewer Wastewater,74,3,2017,7,3
+2017-07-04,Nuisance On Property,33,1,2017,7,4
+2017-07-04,Pothole,24,2,2017,7,4
+2017-07-04,Water Leak,20,3,2017,7,4
+2017-07-05,Nuisance On Property,136,1,2017,7,5
+2017-07-05,Container Problem,90,2,2017,7,5
+2017-07-05,Missed Garbage Pickup,89,3,2017,7,5
+2017-07-06,Nuisance On Property,176,1,2017,7,6
+2017-07-06,Missed Garbage Pickup,102,2,2017,7,6
+2017-07-06,Container Problem,93,3,2017,7,6
+2017-07-07,Nuisance On Property,101,1,2017,7,7
+2017-07-07,Missed Garbage Pickup,94,2,2017,7,7
+2017-07-07,Container Problem,91,3,2017,7,7
+2017-07-08,Missed Garbage Pickup,41,1,2017,7,8
+2017-07-08,Traffic Signal Maintenance,36,2,2017,7,8
+2017-07-08,Sewer Wastewater,35,3,2017,7,8
+2017-07-09,Traffic Signal Maintenance,42,1,2017,7,9
+2017-07-09,Water Leak,36,2,2017,7,9
+2017-07-09,Street Hazard,18,3,2017,7,9
+2017-07-10,Nuisance On Property,120,1,2017,7,10
+2017-07-10,Container Problem,110,2,2017,7,10
+2017-07-10,Traffic Signal Maintenance,85,3,2017,7,10
+2017-07-11,Missed Garbage Pickup,156,1,2017,7,11
+2017-07-11,Nuisance On Property,122,2,2017,7,11
+2017-07-11,Container Problem,109,3,2017,7,11
+2017-07-12,Nuisance On Property,92,1,2017,7,12
+2017-07-12,Missed Recycling Pickup,68,2,2017,7,12
+2017-07-12,Container Problem,60,3,2017,7,12
+2017-07-13,Nuisance On Property,161,1,2017,7,13
+2017-07-13,Container Problem,82,2,2017,7,13
+2017-07-13,Missed Garbage Pickup,77,3,2017,7,13
+2017-07-14,Nuisance On Property,180,1,2017,7,14
+2017-07-14,Missed Garbage Pickup,106,2,2017,7,14
+2017-07-14,Missed Recycling Pickup,97,3,2017,7,14
+2017-07-15,Traffic Signal Maintenance,98,1,2017,7,15
+2017-07-15,Street Hazard,58,2,2017,7,15
+2017-07-15,Missed Garbage Pickup,34,3,2017,7,15
+2017-07-16,Traffic Signal Maintenance,50,1,2017,7,16
+2017-07-16,Water Leak,41,2,2017,7,16
+2017-07-16,Nuisance On Property,35,3,2017,7,16
+2017-07-17,Nuisance On Property,166,1,2017,7,17
+2017-07-17,Container Problem,116,2,2017,7,17
+2017-07-17,Sewer Wastewater,80,3,2017,7,17
+2017-07-18,Container Problem,114,1,2017,7,18
+2017-07-18,Nuisance On Property,102,2,2017,7,18
+2017-07-18,Missed Garbage Pickup,100,3,2017,7,18
+2017-07-19,Nuisance On Property,79,1,2017,7,19
+2017-07-19,Missed Garbage Pickup,78,2,2017,7,19
+2017-07-19,Traffic Signal Maintenance,73,3,2017,7,19
+2017-07-20,Nuisance On Property,84,1,2017,7,20
+2017-07-20,Container Problem,76,2,2017,7,20
+2017-07-20,Missed Garbage Pickup,71,3,2017,7,20
+2017-07-21,Missed Recycling Pickup,103,1,2017,7,21
+2017-07-21,Container Problem,93,2,2017,7,21
+2017-07-21,Missed Garbage Pickup,92,3,2017,7,21
+2017-07-22,Missed Garbage Pickup,45,1,2017,7,22
+2017-07-22,Nuisance On Property,42,2,2017,7,22
+2017-07-22,Traffic Signal Maintenance,36,3,2017,7,22
+2017-07-23,Heavy Trash Violation,76,1,2017,7,23
+2017-07-23,Nuisance On Property,30,2,2017,7,23
+2017-07-23,Traffic Signal Maintenance,24,3,2017,7,23
+2017-07-24,Nuisance On Property,106,1,2017,7,24
+2017-07-24,Container Problem,104,2,2017,7,24
+2017-07-24,Water Leak,79,3,2017,7,24
+2017-07-25,Missed Garbage Pickup,123,1,2017,7,25
+2017-07-25,Missed Recycling Pickup,106,2,2017,7,25
+2017-07-25,Container Problem,104,3,2017,7,25
+2017-07-26,Missed Recycling Pickup,107,1,2017,7,26
+2017-07-26,Nuisance On Property,90,2,2017,7,26
+2017-07-26,Water Leak,67,3,2017,7,26
+2017-07-27,Nuisance On Property,90,1,2017,7,27
+2017-07-27,Container Problem,77,2,2017,7,27
+2017-07-27,Water Leak,61,3,2017,7,27
+2017-07-28,Missed Garbage Pickup,116,1,2017,7,28
+2017-07-28,Container Problem,85,2,2017,7,28
+2017-07-28,Water Leak,71,3,2017,7,28
+2017-07-29,Water Leak,40,1,2017,7,29
+2017-07-29,Traffic Signal Maintenance,29,2,2017,7,29
+2017-07-29,Nuisance On Property,27,3,2017,7,29
+2017-07-30,Water Leak,45,1,2017,7,30
+2017-07-30,Sewer Wastewater,21,2,2017,7,30
+2017-07-30,Nuisance On Property,18,3,2017,7,30
+2017-07-31,Water Leak,111,1,2017,7,31
+2017-07-31,Container Problem,91,2,2017,7,31
+2017-07-31,Nuisance On Property,89,3,2017,7,31
+2017-08-01,Container Problem,97,1,2017,8,1
+2017-08-01,Nuisance On Property,93,2,2017,8,1
+2017-08-01,Water Leak,78,3,2017,8,1
+2017-08-02,Nuisance On Property,88,1,2017,8,2
+2017-08-02,Heavy Trash Violation,63,2,2017,8,2
+2017-08-02,Container Problem,63,3,2017,8,2
+2017-08-03,Water Leak,114,1,2017,8,3
+2017-08-03,Nuisance On Property,89,2,2017,8,3
+2017-08-03,Container Problem,72,3,2017,8,3
+2017-08-04,Missed Garbage Pickup,109,1,2017,8,4
+2017-08-04,Heavy Trash Violation,106,2,2017,8,4
+2017-08-04,Container Problem,93,3,2017,8,4
+2017-08-05,Water Leak,44,1,2017,8,5
+2017-08-05,Traffic Signal Maintenance,40,2,2017,8,5
+2017-08-05,Missed Garbage Pickup,30,3,2017,8,5
+2017-08-06,Water Leak,40,1,2017,8,6
+2017-08-06,Water Service,29,2,2017,8,6
+2017-08-06,Nuisance On Property,23,3,2017,8,6
+2017-08-07,Nuisance On Property,96,1,2017,8,7
+2017-08-07,Container Problem,96,2,2017,8,7
+2017-08-07,Water Leak,84,3,2017,8,7
+2017-08-08,Container Problem,152,1,2017,8,8
+2017-08-08,Missed Garbage Pickup,147,2,2017,8,8
+2017-08-08,Street Hazard,102,3,2017,8,8
+2017-08-09,Nuisance On Property,86,1,2017,8,9
+2017-08-09,Container Problem,84,2,2017,8,9
+2017-08-09,Water Leak,80,3,2017,8,9
+2017-08-10,Container Problem,100,1,2017,8,10
+2017-08-10,Nuisance On Property,77,2,2017,8,10
+2017-08-10,Missed Garbage Pickup,71,3,2017,8,10
+2017-08-11,Missed Garbage Pickup,90,1,2017,8,11
+2017-08-11,Water Leak,78,2,2017,8,11
+2017-08-11,Container Problem,74,3,2017,8,11
+2017-08-12,Water Leak,39,1,2017,8,12
+2017-08-12,Sewer Wastewater,38,2,2017,8,12
+2017-08-12,Missed Recycling Pickup,37,3,2017,8,12
+2017-08-13,Water Leak,36,1,2017,8,13
+2017-08-13,Nuisance On Property,28,2,2017,8,13
+2017-08-13,Sewer Wastewater,21,3,2017,8,13
+2017-08-14,Nuisance On Property,99,1,2017,8,14
+2017-08-14,Container Problem,95,2,2017,8,14
+2017-08-14,Water Leak,86,3,2017,8,14
+2017-08-15,Container Problem,118,1,2017,8,15
+2017-08-15,Missed Garbage Pickup,110,2,2017,8,15
+2017-08-15,Nuisance On Property,107,3,2017,8,15
+2017-08-16,Container Problem,79,1,2017,8,16
+2017-08-16,Water Leak,77,2,2017,8,16
+2017-08-16,Nuisance On Property,76,3,2017,8,16
+2017-08-17,Water Leak,100,1,2017,8,17
+2017-08-17,Container Problem,73,2,2017,8,17
+2017-08-17,Missed Garbage Pickup,71,3,2017,8,17
+2017-08-18,Missed Garbage Pickup,125,1,2017,8,18
+2017-08-18,Container Problem,93,2,2017,8,18
+2017-08-18,Water Leak,80,3,2017,8,18
+2017-08-19,Water Leak,50,1,2017,8,19
+2017-08-19,Missed Recycling Pickup,36,2,2017,8,19
+2017-08-19,Missed Garbage Pickup,35,3,2017,8,19
+2017-08-20,Water Leak,63,1,2017,8,20
+2017-08-20,Sewer Wastewater,22,2,2017,8,20
+2017-08-20,Street Hazard,17,3,2017,8,20
+2017-08-21,Container Problem,126,1,2017,8,21
+2017-08-21,Water Leak,92,2,2017,8,21
+2017-08-21,Nuisance On Property,91,3,2017,8,21
+2017-08-22,Container Problem,104,1,2017,8,22
+2017-08-22,Missed Garbage Pickup,104,2,2017,8,22
+2017-08-22,Water Leak,87,3,2017,8,22
+2017-08-23,Water Leak,109,1,2017,8,23
+2017-08-23,Drainage,97,2,2017,8,23
+2017-08-23,Nuisance On Property,63,3,2017,8,23
+2017-08-24,Drainage,135,1,2017,8,24
+2017-08-24,Water Leak,120,2,2017,8,24
+2017-08-24,Container Problem,63,3,2017,8,24
+2017-08-25,Drainage,94,1,2017,8,25
+2017-08-25,Missed Garbage Pickup,88,2,2017,8,25
+2017-08-25,Street Hazard,66,3,2017,8,25
+2017-08-26,Flooding,199,1,2017,8,26
+2017-08-26,Traffic Signal Maintenance,161,2,2017,8,26
+2017-08-26,Drainage,161,3,2017,8,26
+2017-08-27,Flooding,581,1,2017,8,27
+2017-08-27,Crisis Cleanup,260,2,2017,8,27
+2017-08-27,Medical Evacuation,135,3,2017,8,27
+2017-08-28,Flooding,151,1,2017,8,28
+2017-08-28,Street Hazard,108,2,2017,8,28
+2017-08-28,Medical Evacuation,99,3,2017,8,28
+2017-08-29,Street Hazard,112,1,2017,8,29
+2017-08-29,Flooding,108,2,2017,8,29
+2017-08-29,Traffic Signal Maintenance,84,3,2017,8,29
+2017-08-30,Traffic Signal Maintenance,192,1,2017,8,30
+2017-08-30,Container Problem,146,2,2017,8,30
+2017-08-30,Storm Debris Collection,125,3,2017,8,30
+2017-08-31,Storm Debris Collection,209,1,2017,8,31
+2017-08-31,Traffic Signal Maintenance,181,2,2017,8,31
+2017-08-31,Container Problem,177,3,2017,8,31
+2017-09-01,Storm Debris Collection,221,1,2017,9,1
+2017-09-01,Container Problem,194,2,2017,9,1
+2017-09-01,Traffic Signal Maintenance,143,3,2017,9,1
+2017-09-02,Traffic Signal Maintenance,146,1,2017,9,2
+2017-09-02,Storm Debris Collection,140,2,2017,9,2
+2017-09-02,Sewer Wastewater,93,3,2017,9,2
+2017-09-03,Traffic Signal Maintenance,141,1,2017,9,3
+2017-09-03,Storm Debris Collection,89,2,2017,9,3
+2017-09-03,Water Leak,74,3,2017,9,3
+2017-09-04,Storm Debris Collection,186,1,2017,9,4
+2017-09-04,Sewer Wastewater,83,2,2017,9,4
+2017-09-04,Container Problem,79,3,2017,9,4
+2017-09-05,Container Problem,177,1,2017,9,5
+2017-09-05,Storm Debris Collection,169,2,2017,9,5
+2017-09-05,Traffic Signal Maintenance,139,3,2017,9,5
+2017-09-06,Missed Garbage Pickup,354,1,2017,9,6
+2017-09-06,Container Problem,204,2,2017,9,6
+2017-09-06,Storm Debris Collection,185,3,2017,9,6
+2017-09-07,Missed Garbage Pickup,392,1,2017,9,7
+2017-09-07,Storm Debris Collection,192,2,2017,9,7
+2017-09-07,Container Problem,162,3,2017,9,7
+2017-09-08,Flooding,428,1,2017,9,8
+2017-09-08,Missed Garbage Pickup,361,2,2017,9,8
+2017-09-08,Storm Debris Collection,156,3,2017,9,8
+2017-09-09,Storm Debris Collection,106,1,2017,9,9
+2017-09-09,Missed Garbage Pickup,85,2,2017,9,9
+2017-09-09,Container Problem,61,3,2017,9,9
+2017-09-10,Storm Debris Collection,83,1,2017,9,10
+2017-09-10,Traffic Signal Maintenance,52,2,2017,9,10
+2017-09-10,Flooding,50,3,2017,9,10
+2017-09-11,Storm Debris Collection,312,1,2017,9,11
+2017-09-11,Flooding,191,2,2017,9,11
+2017-09-11,Container Problem,167,3,2017,9,11
+2017-09-12,Flooding,500,1,2017,9,12
+2017-09-12,Storm Debris Collection,302,2,2017,9,12
+2017-09-12,Container Problem,176,3,2017,9,12
+2017-09-13,Storm Debris Collection,365,1,2017,9,13
+2017-09-13,Flooding,233,2,2017,9,13
+2017-09-13,Traffic Signal Maintenance,142,3,2017,9,13
+2017-09-14,Storm Debris Collection,470,1,2017,9,14
+2017-09-14,Flooding,175,2,2017,9,14
+2017-09-14,Container Problem,121,3,2017,9,14
+2017-09-15,Storm Debris Collection,593,1,2017,9,15
+2017-09-15,Flooding,163,2,2017,9,15
+2017-09-15,Missed Garbage Pickup,116,3,2017,9,15
+2017-09-16,Storm Debris Collection,284,1,2017,9,16
+2017-09-16,Missed Garbage Pickup,69,2,2017,9,16
+2017-09-16,Unclassified 311 Web Request,48,3,2017,9,16
+2017-09-17,Storm Debris Collection,213,1,2017,9,17
+2017-09-17,Flooding,52,2,2017,9,17
+2017-09-17,Traffic Signal Maintenance,41,3,2017,9,17
+2017-09-18,Storm Debris Collection,438,1,2017,9,18
+2017-09-18,Flooding,166,2,2017,9,18
+2017-09-18,Traffic Signal Maintenance,162,3,2017,9,18
+2017-09-19,Storm Debris Collection,506,1,2017,9,19
+2017-09-19,Flooding,229,2,2017,9,19
+2017-09-19,Missed Garbage Pickup,190,3,2017,9,19
+2017-09-20,Storm Debris Collection,521,1,2017,9,20
+2017-09-20,Missed Garbage Pickup,146,2,2017,9,20
+2017-09-20,Traffic Signal Maintenance,106,3,2017,9,20
+2017-09-21,Storm Debris Collection,319,1,2017,9,21
+2017-09-21,Missed Garbage Pickup,117,2,2017,9,21
+2017-09-21,Container Problem,110,3,2017,9,21
+2017-09-22,Storm Debris Collection,339,1,2017,9,22
+2017-09-22,Missed Garbage Pickup,135,2,2017,9,22
+2017-09-22,Container Problem,114,3,2017,9,22
+2017-09-23,Storm Debris Collection,141,1,2017,9,23
+2017-09-23,Water Leak,65,2,2017,9,23
+2017-09-23,Missed Garbage Pickup,50,3,2017,9,23
+2017-09-24,Storm Debris Collection,104,1,2017,9,24
+2017-09-24,Water Leak,47,2,2017,9,24
+2017-09-24,Sewer Wastewater,37,3,2017,9,24
+2017-09-25,Storm Debris Collection,310,1,2017,9,25
+2017-09-25,Container Problem,115,2,2017,9,25
+2017-09-25,Water Leak,101,3,2017,9,25
+2017-09-26,Storm Debris Collection,326,1,2017,9,26
+2017-09-26,Missed Garbage Pickup,143,2,2017,9,26
+2017-09-26,Container Problem,139,3,2017,9,26
+2017-09-27,Storm Debris Collection,242,1,2017,9,27
+2017-09-27,Container Problem,85,2,2017,9,27
+2017-09-27,Water Leak,80,3,2017,9,27
+2017-09-28,Storm Debris Collection,167,1,2017,9,28
+2017-09-28,Container Problem,108,2,2017,9,28
+2017-09-28,Missed Garbage Pickup,97,3,2017,9,28
+2017-09-29,Storm Debris Collection,172,1,2017,9,29
+2017-09-29,Missed Garbage Pickup,131,2,2017,9,29
+2017-09-29,Water Leak,86,3,2017,9,29
+2017-09-30,Storm Debris Collection,64,1,2017,9,30
+2017-09-30,Missed Garbage Pickup,46,2,2017,9,30
+2017-09-30,Traffic Signal Maintenance,46,3,2017,9,30
+2017-10-01,Storm Debris Collection,65,1,2017,10,1
+2017-10-01,Traffic Signal Maintenance,27,2,2017,10,1
+2017-10-01,Sewer Wastewater,23,3,2017,10,1
+2017-10-02,Storm Debris Collection,190,1,2017,10,2
+2017-10-02,Missed Garbage Pickup,109,2,2017,10,2
+2017-10-02,Container Problem,103,3,2017,10,2
+2017-10-03,Storm Debris Collection,231,1,2017,10,3
+2017-10-03,Missed Garbage Pickup,134,2,2017,10,3
+2017-10-03,Container Problem,97,3,2017,10,3
+2017-10-04,Storm Debris Collection,190,1,2017,10,4
+2017-10-04,Container Problem,99,2,2017,10,4
+2017-10-04,Missed Garbage Pickup,99,3,2017,10,4
+2017-10-05,Storm Debris Collection,162,1,2017,10,5
+2017-10-05,Container Problem,125,2,2017,10,5
+2017-10-05,Missed Garbage Pickup,90,3,2017,10,5
+2017-10-06,Missed Garbage Pickup,116,1,2017,10,6
+2017-10-06,Container Problem,88,2,2017,10,6
+2017-10-06,Storm Debris Collection,85,3,2017,10,6
+2017-10-07,Water Leak,43,1,2017,10,7
+2017-10-07,Sewer Wastewater,32,2,2017,10,7
+2017-10-07,Container Problem,27,3,2017,10,7
+2017-10-08,Water Leak,30,1,2017,10,8
+2017-10-08,Sewer Wastewater,23,2,2017,10,8
+2017-10-08,Dead Animal Collection,14,3,2017,10,8
+2017-10-09,Container Problem,107,1,2017,10,9
+2017-10-09,Water Leak,95,2,2017,10,9
+2017-10-09,Missed Garbage Pickup,94,3,2017,10,9
+2017-10-10,Container Problem,114,1,2017,10,10
+2017-10-10,Missed Garbage Pickup,110,2,2017,10,10
+2017-10-10,Water Leak,93,3,2017,10,10
+2017-10-11,Container Problem,74,1,2017,10,11
+2017-10-11,Water Leak,71,2,2017,10,11
+2017-10-11,Sewer Wastewater,65,3,2017,10,11
+2017-10-12,Missed Garbage Pickup,93,1,2017,10,12
+2017-10-12,Water Leak,87,2,2017,10,12
+2017-10-12,Container Problem,86,3,2017,10,12
+2017-10-13,Missed Garbage Pickup,110,1,2017,10,13
+2017-10-13,Container Problem,94,2,2017,10,13
+2017-10-13,Water Leak,87,3,2017,10,13
+2017-10-14,Sewer Wastewater,34,1,2017,10,14
+2017-10-14,Missed Garbage Pickup,30,2,2017,10,14
+2017-10-14,Water Leak,21,3,2017,10,14
+2017-10-15,Traffic Signal Maintenance,26,1,2017,10,15
+2017-10-15,Water Leak,26,2,2017,10,15
+2017-10-15,Sewer Wastewater,25,3,2017,10,15
+2017-10-16,Container Problem,138,1,2017,10,16
+2017-10-16,Water Leak,84,2,2017,10,16
+2017-10-16,Missed Garbage Pickup,78,3,2017,10,16
+2017-10-17,Missed Garbage Pickup,132,1,2017,10,17
+2017-10-17,Container Problem,112,2,2017,10,17
+2017-10-17,Water Leak,79,3,2017,10,17
+2017-10-18,Missed Garbage Pickup,81,1,2017,10,18
+2017-10-18,Water Leak,76,2,2017,10,18
+2017-10-18,Container Problem,74,3,2017,10,18
+2017-10-19,Water Leak,119,1,2017,10,19
+2017-10-19,Container Problem,86,2,2017,10,19
+2017-10-19,Missed Garbage Pickup,80,3,2017,10,19
+2017-10-20,Water Leak,95,1,2017,10,20
+2017-10-20,Container Problem,92,2,2017,10,20
+2017-10-20,Missed Garbage Pickup,83,3,2017,10,20
+2017-10-21,Water Leak,46,1,2017,10,21
+2017-10-21,Sewer Wastewater,39,2,2017,10,21
+2017-10-21,Missed Garbage Pickup,33,3,2017,10,21
+2017-10-22,Traffic Signal Maintenance,83,1,2017,10,22
+2017-10-22,Sewer Wastewater,25,2,2017,10,22
+2017-10-22,Water Leak,23,3,2017,10,22
+2017-10-23,Container Problem,119,1,2017,10,23
+2017-10-23,Sewer Wastewater,97,2,2017,10,23
+2017-10-23,Missed Garbage Pickup,76,3,2017,10,23
+2017-10-24,Missed Garbage Pickup,122,1,2017,10,24
+2017-10-24,Container Problem,119,2,2017,10,24
+2017-10-24,Sewer Wastewater,78,3,2017,10,24
+2017-10-25,Water Leak,84,1,2017,10,25
+2017-10-25,Container Problem,82,2,2017,10,25
+2017-10-25,Traffic Signal Maintenance,70,3,2017,10,25
+2017-10-26,Container Problem,83,1,2017,10,26
+2017-10-26,Missed Garbage Pickup,77,2,2017,10,26
+2017-10-26,Water Leak,72,3,2017,10,26
+2017-10-27,Storm Debris Collection,117,1,2017,10,27
+2017-10-27,Missed Garbage Pickup,98,2,2017,10,27
+2017-10-27,Container Problem,83,3,2017,10,27
+2017-10-28,Traffic Signal Maintenance,41,1,2017,10,28
+2017-10-28,Sewer Wastewater,37,2,2017,10,28
+2017-10-28,Missed Garbage Pickup,34,3,2017,10,28
+2017-10-29,Traffic Signal Maintenance,36,1,2017,10,29
+2017-10-29,Water Leak,18,2,2017,10,29
+2017-10-29,Sewer Wastewater,18,3,2017,10,29
+2017-10-30,Water Leak,96,1,2017,10,30
+2017-10-30,Missed Garbage Pickup,89,2,2017,10,30
+2017-10-30,Container Problem,88,3,2017,10,30
+2017-10-31,Missed Garbage Pickup,123,1,2017,10,31
+2017-10-31,Container Problem,96,2,2017,10,31
+2017-10-31,Water Leak,86,3,2017,10,31
+2017-11-01,Sewer Wastewater,68,1,2017,11,1
+2017-11-01,Traffic Signal Maintenance,62,2,2017,11,1
+2017-11-01,Water Leak,61,3,2017,11,1
+2017-11-02,Container Problem,91,1,2017,11,2
+2017-11-02,Missed Garbage Pickup,73,2,2017,11,2
+2017-11-02,Sewer Wastewater,73,3,2017,11,2
+2017-11-03,Missed Garbage Pickup,86,1,2017,11,3
+2017-11-03,Container Problem,83,2,2017,11,3
+2017-11-03,Water Leak,74,3,2017,11,3
+2017-11-04,Sewer Wastewater,38,1,2017,11,4
+2017-11-04,Missed Garbage Pickup,37,2,2017,11,4
+2017-11-04,Water Leak,34,3,2017,11,4
+2017-11-05,Water Leak,37,1,2017,11,5
+2017-11-05,Traffic Signal Maintenance,29,2,2017,11,5
+2017-11-05,Sewer Wastewater,26,3,2017,11,5
+2017-11-06,Container Problem,97,1,2017,11,6
+2017-11-06,Water Leak,89,2,2017,11,6
+2017-11-06,Missed Garbage Pickup,86,3,2017,11,6
+2017-11-07,Missed Garbage Pickup,149,1,2017,11,7
+2017-11-07,Container Problem,133,2,2017,11,7
+2017-11-07,Water Leak,70,3,2017,11,7
+2017-11-08,Missed Garbage Pickup,88,1,2017,11,8
+2017-11-08,Container Problem,73,2,2017,11,8
+2017-11-08,Sewer Wastewater,73,3,2017,11,8
+2017-11-09,Container Problem,84,1,2017,11,9
+2017-11-09,Missed Garbage Pickup,79,2,2017,11,9
+2017-11-09,Sewer Wastewater,72,3,2017,11,9
+2017-11-10,Missed Garbage Pickup,109,1,2017,11,10
+2017-11-10,Container Problem,87,2,2017,11,10
+2017-11-10,Water Leak,51,3,2017,11,10
+2017-11-11,Missed Garbage Pickup,41,1,2017,11,11
+2017-11-11,Water Leak,31,2,2017,11,11
+2017-11-11,Sewer Wastewater,31,3,2017,11,11
+2017-11-12,Sewer Wastewater,28,1,2017,11,12
+2017-11-12,Traffic Signal Maintenance,24,2,2017,11,12
+2017-11-12,Water Leak,23,3,2017,11,12
+2017-11-13,Container Problem,108,1,2017,11,13
+2017-11-13,Missed Garbage Pickup,89,2,2017,11,13
+2017-11-13,Sewer Wastewater,74,3,2017,11,13
+2017-11-14,Missed Garbage Pickup,105,1,2017,11,14
+2017-11-14,Container Problem,88,2,2017,11,14
+2017-11-14,Water Leak,64,3,2017,11,14
+2017-11-15,Missed Recycling Pickup,166,1,2017,11,15
+2017-11-15,Missed Garbage Pickup,127,2,2017,11,15
+2017-11-15,Water Leak,87,3,2017,11,15
+2017-11-16,Container Problem,91,1,2017,11,16
+2017-11-16,Water Leak,88,2,2017,11,16
+2017-11-16,Missed Garbage Pickup,75,3,2017,11,16
+2017-11-17,Missed Recycling Pickup,174,1,2017,11,17
+2017-11-17,Missed Garbage Pickup,157,2,2017,11,17
+2017-11-17,Sewer Wastewater,68,3,2017,11,17
+2017-11-18,Missed Garbage Pickup,84,1,2017,11,18
+2017-11-18,Missed Recycling Pickup,76,2,2017,11,18
+2017-11-18,Sewer Wastewater,38,3,2017,11,18
+2017-11-19,Sewer Wastewater,27,1,2017,11,19
+2017-11-19,Water Leak,25,2,2017,11,19
+2017-11-19,Traffic Signal Maintenance,23,3,2017,11,19
+2017-11-20,Missed Garbage Pickup,98,1,2017,11,20
+2017-11-20,Missed Recycling Pickup,98,2,2017,11,20
+2017-11-20,Container Problem,81,3,2017,11,20
+2017-11-21,Missed Recycling Pickup,249,1,2017,11,21
+2017-11-21,Missed Garbage Pickup,165,2,2017,11,21
+2017-11-21,Container Problem,92,3,2017,11,21
+2017-11-22,Missed Garbage Pickup,122,1,2017,11,22
+2017-11-22,Missed Recycling Pickup,100,2,2017,11,22
+2017-11-22,Water Leak,62,3,2017,11,22
+2017-11-23,Sewer Wastewater,32,1,2017,11,23
+2017-11-23,Water Leak,31,2,2017,11,23
+2017-11-23,Traffic Signal Maintenance,23,3,2017,11,23
+2017-11-24,Missed Garbage Pickup,73,1,2017,11,24
+2017-11-24,Water Leak,60,2,2017,11,24
+2017-11-24,Sewer Wastewater,56,3,2017,11,24
+2017-11-25,Missed Garbage Pickup,113,1,2017,11,25
+2017-11-25,Missed Recycling Pickup,74,2,2017,11,25
+2017-11-25,Sewer Wastewater,40,3,2017,11,25
+2017-11-26,Missed Recycling Pickup,66,1,2017,11,26
+2017-11-26,Water Leak,58,2,2017,11,26
+2017-11-26,Missed Garbage Pickup,51,3,2017,11,26
+2017-11-27,Container Problem,127,1,2017,11,27
+2017-11-27,Missed Garbage Pickup,122,2,2017,11,27
+2017-11-27,Sewer Wastewater,103,3,2017,11,27
+2017-11-28,Missed Garbage Pickup,171,1,2017,11,28
+2017-11-28,Container Problem,122,2,2017,11,28
+2017-11-28,Water Leak,121,3,2017,11,28
+2017-11-29,Missed Recycling Pickup,120,1,2017,11,29
+2017-11-29,Missed Garbage Pickup,109,2,2017,11,29
+2017-11-29,Water Leak,100,3,2017,11,29
+2017-11-30,Water Leak,107,1,2017,11,30
+2017-11-30,Container Problem,97,2,2017,11,30
+2017-11-30,Missed Garbage Pickup,84,3,2017,11,30
+2017-12-01,Water Leak,111,1,2017,12,1
+2017-12-01,Container Problem,109,2,2017,12,1
+2017-12-01,Missed Garbage Pickup,102,3,2017,12,1
+2017-12-02,Traffic Signs,67,1,2017,12,2
+2017-12-02,Sewer Wastewater,44,2,2017,12,2
+2017-12-02,Water Leak,34,3,2017,12,2
+2017-12-03,Traffic Signals,40,1,2017,12,3
+2017-12-03,Traffic Signal Maintenance,39,2,2017,12,3
+2017-12-03,Water Leak,31,3,2017,12,3
+2017-12-04,Container Problem,147,1,2017,12,4
+2017-12-04,Water Leak,105,2,2017,12,4
+2017-12-04,Sewer Wastewater,101,3,2017,12,4
+2017-12-05,Missed Garbage Pickup,154,1,2017,12,5
+2017-12-05,Container Problem,114,2,2017,12,5
+2017-12-05,Missed Recycling Pickup,78,3,2017,12,5
+2017-12-06,Missed Garbage Pickup,95,1,2017,12,6
+2017-12-06,Container Problem,74,2,2017,12,6
+2017-12-06,Sewer Wastewater,55,3,2017,12,6
+2017-12-07,Traffic Signal Maintenance,73,1,2017,12,7
+2017-12-07,Container Problem,70,2,2017,12,7
+2017-12-07,Missed Garbage Pickup,56,3,2017,12,7
+2017-12-08,Traffic Signal Maintenance,100,1,2017,12,8
+2017-12-08,Missed Garbage Pickup,83,2,2017,12,8
+2017-12-08,Water Leak,70,3,2017,12,8
+2017-12-09,Water Leak,85,1,2017,12,9
+2017-12-09,Sewer Wastewater,52,2,2017,12,9
+2017-12-09,Traffic Signal Maintenance,37,3,2017,12,9
+2017-12-10,Water Leak,84,1,2017,12,10
+2017-12-10,Sewer Wastewater,43,2,2017,12,10
+2017-12-10,Traffic Signal Maintenance,20,3,2017,12,10
+2017-12-11,Water Leak,147,1,2017,12,11
+2017-12-11,Sewer Wastewater,105,2,2017,12,11
+2017-12-11,Container Problem,76,3,2017,12,11
+2017-12-12,Missed Garbage Pickup,129,1,2017,12,12
+2017-12-12,Traffic Signs,128,2,2017,12,12
+2017-12-12,Water Leak,111,3,2017,12,12
+2017-12-13,Water Leak,115,1,2017,12,13
+2017-12-13,Container Problem,67,2,2017,12,13
+2017-12-13,Sewer Wastewater,66,3,2017,12,13
+2017-12-14,Water Leak,95,1,2017,12,14
+2017-12-14,Container Problem,81,2,2017,12,14
+2017-12-14,Sewer Wastewater,77,3,2017,12,14
+2017-12-15,Water Leak,87,1,2017,12,15
+2017-12-15,Container Problem,79,2,2017,12,15
+2017-12-15,Sewer Wastewater,72,3,2017,12,15
+2017-12-16,Sewer Wastewater,52,1,2017,12,16
+2017-12-16,Water Leak,38,2,2017,12,16
+2017-12-16,Traffic Signal Maintenance,30,3,2017,12,16
+2017-12-17,Water Leak,67,1,2017,12,17
+2017-12-17,Sewer Wastewater,38,2,2017,12,17
+2017-12-17,Traffic Signal Maintenance,27,3,2017,12,17
+2017-12-18,Water Leak,103,1,2017,12,18
+2017-12-18,Container Problem,97,2,2017,12,18
+2017-12-18,Sewer Wastewater,96,3,2017,12,18
+2017-12-19,Missed Garbage Pickup,114,1,2017,12,19
+2017-12-19,Container Problem,81,2,2017,12,19
+2017-12-19,Sewer Wastewater,80,3,2017,12,19
+2017-12-20,Water Leak,96,1,2017,12,20
+2017-12-20,Sewer Wastewater,80,2,2017,12,20
+2017-12-20,Missed Garbage Pickup,66,3,2017,12,20
+2017-12-21,Water Leak,94,1,2017,12,21
+2017-12-21,Sewer Wastewater,75,2,2017,12,21
+2017-12-21,Container Problem,69,3,2017,12,21
+2017-12-22,Missed Garbage Pickup,65,1,2017,12,22
+2017-12-22,Container Problem,62,2,2017,12,22
+2017-12-22,Sewer Wastewater,51,3,2017,12,22
+2017-12-23,Sewer Wastewater,56,1,2017,12,23
+2017-12-23,Water Leak,35,2,2017,12,23
+2017-12-23,Missed Garbage Pickup,33,3,2017,12,23
+2017-12-24,Water Leak,126,1,2017,12,24
+2017-12-24,Sewer Wastewater,43,2,2017,12,24
+2017-12-24,Water Service,38,3,2017,12,24
+2017-12-25,Sewer Wastewater,33,1,2017,12,25
+2017-12-25,Water Leak,23,2,2017,12,25
+2017-12-25,Traffic Signal Maintenance,13,3,2017,12,25
+2017-12-26,Water Leak,100,1,2017,12,26
+2017-12-26,Sewer Wastewater,91,2,2017,12,26
+2017-12-26,Container Problem,89,3,2017,12,26
+2017-12-27,Missed Garbage Pickup,128,1,2017,12,27
+2017-12-27,Container Problem,100,2,2017,12,27
+2017-12-27,Sewer Wastewater,58,3,2017,12,27
+2017-12-28,Missed Garbage Pickup,121,1,2017,12,28
+2017-12-28,Container Problem,90,2,2017,12,28
+2017-12-28,Sewer Wastewater,85,3,2017,12,28
+2017-12-29,Missed Garbage Pickup,108,1,2017,12,29
+2017-12-29,Sewer Wastewater,75,2,2017,12,29
+2017-12-29,Container Problem,74,3,2017,12,29
+2017-12-30,Water Leak,60,1,2017,12,30
+2017-12-30,Sewer Wastewater,55,2,2017,12,30
+2017-12-30,Missed Garbage Pickup,40,3,2017,12,30
+2017-12-31,Water Leak,66,1,2017,12,31
+2017-12-31,Sewer Wastewater,34,2,2017,12,31
+2017-12-31,Nuisance On Property,34,3,2017,12,31
+2018-01-01,Water Leak,41,1,2018,1,1
+2018-01-01,Sewer Wastewater,26,2,2018,1,1
+2018-01-01,Nuisance On Property,23,3,2018,1,1
+2018-01-02,Water Leak,117,1,2018,1,2
+2018-01-02,Container Problem,116,2,2018,1,2
+2018-01-02,Sewer Wastewater,95,3,2018,1,2
+2018-01-03,Water Leak,173,1,2018,1,3
+2018-01-03,Missed Garbage Pickup,116,2,2018,1,3
+2018-01-03,Water Service,112,3,2018,1,3
+2018-01-04,Missed Garbage Pickup,176,1,2018,1,4
+2018-01-04,Water Leak,153,2,2018,1,4
+2018-01-04,Missed Recycling Pickup,151,3,2018,1,4
+2018-01-05,Missed Recycling Pickup,244,1,2018,1,5
+2018-01-05,Missed Garbage Pickup,137,2,2018,1,5
+2018-01-05,Water Leak,109,3,2018,1,5
+2018-01-06,Water Leak,84,1,2018,1,6
+2018-01-06,Missed Recycling Pickup,51,2,2018,1,6
+2018-01-06,Missed Garbage Pickup,50,3,2018,1,6
+2018-01-07,Water Leak,65,1,2018,1,7
+2018-01-07,Sewer Wastewater,57,2,2018,1,7
+2018-01-07,Water Service,37,3,2018,1,7
+2018-01-08,Water Leak,141,1,2018,1,8
+2018-01-08,Sewer Wastewater,135,2,2018,1,8
+2018-01-08,Container Problem,121,3,2018,1,8
+2018-01-09,Missed Garbage Pickup,133,1,2018,1,9
+2018-01-09,Water Leak,129,2,2018,1,9
+2018-01-09,Container Problem,116,3,2018,1,9
+2018-01-10,Water Leak,102,1,2018,1,10
+2018-01-10,Sewer Wastewater,91,2,2018,1,10
+2018-01-10,Missed Garbage Pickup,86,3,2018,1,10
+2018-01-11,Nuisance On Property,86,1,2018,1,11
+2018-01-11,Missed Garbage Pickup,81,2,2018,1,11
+2018-01-11,Container Problem,78,3,2018,1,11
+2018-01-12,Missed Garbage Pickup,101,1,2018,1,12
+2018-01-12,Container Problem,94,2,2018,1,12
+2018-01-12,Water Leak,86,3,2018,1,12
+2018-01-13,Sewer Wastewater,68,1,2018,1,13
+2018-01-13,Water Leak,54,2,2018,1,13
+2018-01-13,Water Service,40,3,2018,1,13
+2018-01-14,Sewer Wastewater,51,1,2018,1,14
+2018-01-14,Water Leak,34,2,2018,1,14
+2018-01-14,Nuisance On Property,34,3,2018,1,14
+2018-01-15,Sewer Wastewater,93,1,2018,1,15
+2018-01-15,Water Leak,90,2,2018,1,15
+2018-01-15,Heavy Trash Violation,41,3,2018,1,15
+2018-01-16,Traffic Signal Maintenance,49,1,2018,1,16
+2018-01-16,Container Problem,46,2,2018,1,16
+2018-01-16,Water Service,44,3,2018,1,16
+2018-01-17,Water Leak,392,1,2018,1,17
+2018-01-17,Water Main Valve,268,2,2018,1,17
+2018-01-17,Water Service,250,3,2018,1,17
+2018-01-18,Water Leak,322,1,2018,1,18
+2018-01-18,Water Main Valve,268,2,2018,1,18
+2018-01-18,Water Service,245,3,2018,1,18
+2018-01-19,Water Leak,255,1,2018,1,19
+2018-01-19,Water Main Valve,152,2,2018,1,19
+2018-01-19,Water Service,140,3,2018,1,19
+2018-01-20,Water Leak,39,1,2018,1,20
+2018-01-20,Water Main Valve,33,2,2018,1,20
+2018-01-20,Missed Garbage Pickup,33,3,2018,1,20
+2018-01-21,Water Leak,93,1,2018,1,21
+2018-01-21,Sewer Wastewater,54,2,2018,1,21
+2018-01-21,Water Service,49,3,2018,1,21
+2018-01-22,Water Leak,216,1,2018,1,22
+2018-01-22,Sewer Wastewater,136,2,2018,1,22
+2018-01-22,Water Service,105,3,2018,1,22
+2018-01-23,Water Leak,214,1,2018,1,23
+2018-01-23,Container Problem,121,2,2018,1,23
+2018-01-23,Missed Garbage Pickup,118,3,2018,1,23
+2018-01-24,Water Leak,195,1,2018,1,24
+2018-01-24,Sewer Wastewater,109,2,2018,1,24
+2018-01-24,Missed Garbage Pickup,94,3,2018,1,24
+2018-01-25,Water Leak,178,1,2018,1,25
+2018-01-25,Sewer Wastewater,93,2,2018,1,25
+2018-01-25,Container Problem,88,3,2018,1,25
+2018-01-26,Water Leak,165,1,2018,1,26
+2018-01-26,Container Problem,110,2,2018,1,26
+2018-01-26,Missed Garbage Pickup,108,3,2018,1,26
+2018-01-27,Water Leak,49,1,2018,1,27
+2018-01-27,Sewer Wastewater,48,2,2018,1,27
+2018-01-27,Missed Garbage Pickup,39,3,2018,1,27
+2018-01-28,Water Leak,68,1,2018,1,28
+2018-01-28,Sewer Wastewater,39,2,2018,1,28
+2018-01-28,Water Service,23,3,2018,1,28
+2018-01-29,Water Leak,202,1,2018,1,29
+2018-01-29,Container Problem,126,2,2018,1,29
+2018-01-29,Sewer Wastewater,122,3,2018,1,29
+2018-01-30,Missed Recycling Pickup,253,1,2018,1,30
+2018-01-30,Water Leak,162,2,2018,1,30
+2018-01-30,Missed Garbage Pickup,128,3,2018,1,30
+2018-01-31,Water Leak,129,1,2018,1,31
+2018-01-31,Missed Garbage Pickup,117,2,2018,1,31
+2018-01-31,Sewer Wastewater,108,3,2018,1,31
+2018-02-01,Water Leak,160,1,2018,2,1
+2018-02-01,Sewer Wastewater,92,2,2018,2,1
+2018-02-01,Missed Garbage Pickup,82,3,2018,2,1
+2018-02-02,Water Leak,92,1,2018,2,2
+2018-02-02,Missed Garbage Pickup,78,2,2018,2,2
+2018-02-02,Sewer Wastewater,70,3,2018,2,2
+2018-02-03,Water Leak,42,1,2018,2,3
+2018-02-03,Sewer Wastewater,41,2,2018,2,3
+2018-02-03,Missed Recycling Pickup,31,3,2018,2,3
+2018-02-04,Water Leak,51,1,2018,2,4
+2018-02-04,Sewer Wastewater,29,2,2018,2,4
+2018-02-04,Traffic Signal Maintenance,21,3,2018,2,4
+2018-02-05,Sewer Wastewater,130,1,2018,2,5
+2018-02-05,Water Leak,109,2,2018,2,5
+2018-02-05,Container Problem,101,3,2018,2,5
+2018-02-06,Container Problem,143,1,2018,2,6
+2018-02-06,Missed Garbage Pickup,133,2,2018,2,6
+2018-02-06,Water Leak,109,3,2018,2,6
+2018-02-07,Sewer Wastewater,86,1,2018,2,7
+2018-02-07,Street Condition,72,2,2018,2,7
+2018-02-07,Water Leak,67,3,2018,2,7
+2018-02-08,Sewer Wastewater,96,1,2018,2,8
+2018-02-08,Water Leak,94,2,2018,2,8
+2018-02-08,Container Problem,74,3,2018,2,8
+2018-02-09,Water Leak,110,1,2018,2,9
+2018-02-09,Container Problem,108,2,2018,2,9
+2018-02-09,Sewer Wastewater,86,3,2018,2,9
+2018-02-10,Sewer Wastewater,160,1,2018,2,10
+2018-02-10,Drainage,88,2,2018,2,10
+2018-02-10,Traffic Signal Maintenance,50,3,2018,2,10
+2018-02-11,Sewer Wastewater,53,1,2018,2,11
+2018-02-11,Water Leak,31,2,2018,2,11
+2018-02-11,Traffic Signal Maintenance,30,3,2018,2,11
+2018-02-12,Sewer Wastewater,140,1,2018,2,12
+2018-02-12,Container Problem,109,2,2018,2,12
+2018-02-12,Water Leak,90,3,2018,2,12
+2018-02-13,Missed Garbage Pickup,99,1,2018,2,13
+2018-02-13,Container Problem,95,2,2018,2,13
+2018-02-13,Sewer Wastewater,90,3,2018,2,13
+2018-02-14,Sewer Wastewater,102,1,2018,2,14
+2018-02-14,Water Leak,82,2,2018,2,14
+2018-02-14,Traffic Signal Maintenance,59,3,2018,2,14
+2018-02-15,Water Leak,122,1,2018,2,15
+2018-02-15,Container Problem,86,2,2018,2,15
+2018-02-15,Sewer Wastewater,83,3,2018,2,15
+2018-02-16,Water Leak,128,1,2018,2,16
+2018-02-16,Sewer Wastewater,123,2,2018,2,16
+2018-02-16,Container Problem,87,3,2018,2,16
+2018-02-17,Water Leak,55,1,2018,2,17
+2018-02-17,Water Quality,41,2,2018,2,17
+2018-02-17,Sewer Wastewater,40,3,2018,2,17
+2018-02-18,Water Leak,51,1,2018,2,18
+2018-02-18,Sewer Wastewater,47,2,2018,2,18
+2018-02-18,Dead Animal Collection,25,3,2018,2,18
+2018-02-19,Container Problem,111,1,2018,2,19
+2018-02-19,Sewer Wastewater,111,2,2018,2,19
+2018-02-19,Water Leak,109,3,2018,2,19
+2018-02-20,Water Leak,106,1,2018,2,20
+2018-02-20,Container Problem,106,2,2018,2,20
+2018-02-20,Sewer Wastewater,102,3,2018,2,20
+2018-02-21,Sewer Wastewater,94,1,2018,2,21
+2018-02-21,Drainage,79,2,2018,2,21
+2018-02-21,Container Problem,69,3,2018,2,21
+2018-02-22,Sewer Wastewater,99,1,2018,2,22
+2018-02-22,Container Problem,86,2,2018,2,22
+2018-02-22,Missed Garbage Pickup,64,3,2018,2,22
+2018-02-23,Water Leak,131,1,2018,2,23
+2018-02-23,Sewer Wastewater,102,2,2018,2,23
+2018-02-23,Container Problem,92,3,2018,2,23
+2018-02-24,Water Leak,61,1,2018,2,24
+2018-02-24,Sewer Wastewater,46,2,2018,2,24
+2018-02-24,Traffic Signal Maintenance,29,3,2018,2,24
+2018-02-25,Water Leak,61,1,2018,2,25
+2018-02-25,Traffic Signal Maintenance,31,2,2018,2,25
+2018-02-25,Sewer Wastewater,31,3,2018,2,25
+2018-02-26,Water Leak,120,1,2018,2,26
+2018-02-26,Sewer Wastewater,103,2,2018,2,26
+2018-02-26,Container Problem,87,3,2018,2,26
+2018-02-27,Water Leak,124,1,2018,2,27
+2018-02-27,Sewer Wastewater,102,2,2018,2,27
+2018-02-27,Container Problem,96,3,2018,2,27
+2018-02-28,Water Leak,137,1,2018,2,28
+2018-02-28,Sewer Wastewater,88,2,2018,2,28
+2018-02-28,Container Problem,61,3,2018,2,28
+2018-03-01,Water Leak,145,1,2018,3,1
+2018-03-01,Sewer Wastewater,96,2,2018,3,1
+2018-03-01,Container Problem,78,3,2018,3,1
+2018-03-02,Water Leak,127,1,2018,3,2
+2018-03-02,Container Problem,84,2,2018,3,2
+2018-03-02,Missed Garbage Pickup,80,3,2018,3,2
+2018-03-03,Water Service,130,1,2018,3,3
+2018-03-03,Water Leak,97,2,2018,3,3
+2018-03-03,Sewer Wastewater,50,3,2018,3,3
+2018-03-04,Water Service,77,1,2018,3,4
+2018-03-04,Water Leak,71,2,2018,3,4
+2018-03-04,Sewer Wastewater,30,3,2018,3,4
+2018-03-05,Water Leak,138,1,2018,3,5
+2018-03-05,Container Problem,109,2,2018,3,5
+2018-03-05,Heavy Trash Violation,88,3,2018,3,5
+2018-03-06,Water Leak,117,1,2018,3,6
+2018-03-06,Container Problem,111,2,2018,3,6
+2018-03-06,Missed Garbage Pickup,91,3,2018,3,6
+2018-03-07,Water Leak,121,1,2018,3,7
+2018-03-07,Sewer Wastewater,82,2,2018,3,7
+2018-03-07,Container Problem,76,3,2018,3,7
+2018-03-08,Water Leak,94,1,2018,3,8
+2018-03-08,Missed Garbage Pickup,82,2,2018,3,8
+2018-03-08,Container Problem,76,3,2018,3,8
+2018-03-09,Missed Garbage Pickup,94,1,2018,3,9
+2018-03-09,Water Leak,91,2,2018,3,9
+2018-03-09,Container Problem,84,3,2018,3,9
+2018-03-10,Water Leak,60,1,2018,3,10
+2018-03-10,Sewer Wastewater,44,2,2018,3,10
+2018-03-10,Missed Garbage Pickup,34,3,2018,3,10
+2018-03-11,Water Leak,32,1,2018,3,11
+2018-03-11,Sewer Wastewater,24,2,2018,3,11
+2018-03-11,Nuisance On Property,20,3,2018,3,11
+2018-03-12,Water Leak,111,1,2018,3,12
+2018-03-12,Container Problem,111,2,2018,3,12
+2018-03-12,Sewer Wastewater,76,3,2018,3,12
+2018-03-13,Container Problem,124,1,2018,3,13
+2018-03-13,Sewer Wastewater,98,2,2018,3,13
+2018-03-13,Water Leak,91,3,2018,3,13
+2018-03-14,Water Leak,125,1,2018,3,14
+2018-03-14,Container Problem,74,2,2018,3,14
+2018-03-14,Sewer Wastewater,64,3,2018,3,14
+2018-03-15,Container Problem,110,1,2018,3,15
+2018-03-15,Water Leak,89,2,2018,3,15
+2018-03-15,Missed Garbage Pickup,69,3,2018,3,15
+2018-03-16,Missed Garbage Pickup,95,1,2018,3,16
+2018-03-16,Water Leak,89,2,2018,3,16
+2018-03-16,Sewer Wastewater,78,3,2018,3,16
+2018-03-17,Water Leak,48,1,2018,3,17
+2018-03-17,Missed Garbage Pickup,44,2,2018,3,17
+2018-03-17,Sewer Wastewater,40,3,2018,3,17
+2018-03-18,Sewer Wastewater,44,1,2018,3,18
+2018-03-18,Water Leak,41,2,2018,3,18
+2018-03-18,Dead Animal Collection,26,3,2018,3,18
+2018-03-19,Container Problem,120,1,2018,3,19
+2018-03-19,Nuisance On Property,118,2,2018,3,19
+2018-03-19,Water Leak,116,3,2018,3,19
+2018-03-20,Missed Garbage Pickup,131,1,2018,3,20
+2018-03-20,Container Problem,125,2,2018,3,20
+2018-03-20,Water Leak,95,3,2018,3,20
+2018-03-21,Missed Garbage Pickup,89,1,2018,3,21
+2018-03-21,Sewer Wastewater,82,2,2018,3,21
+2018-03-21,Water Leak,81,3,2018,3,21
+2018-03-22,Container Problem,104,1,2018,3,22
+2018-03-22,Water Leak,80,2,2018,3,22
+2018-03-22,Sewer Wastewater,74,3,2018,3,22
+2018-03-23,Missed Garbage Pickup,112,1,2018,3,23
+2018-03-23,Container Problem,96,2,2018,3,23
+2018-03-23,Water Leak,69,3,2018,3,23
+2018-03-24,Water Leak,51,1,2018,3,24
+2018-03-24,Sewer Wastewater,37,2,2018,3,24
+2018-03-24,Dead Animal Collection,28,3,2018,3,24
+2018-03-25,Nuisance On Property,29,1,2018,3,25
+2018-03-25,Sewer Wastewater,27,2,2018,3,25
+2018-03-25,Water Leak,27,3,2018,3,25
+2018-03-26,Container Problem,98,1,2018,3,26
+2018-03-26,Missed Garbage Pickup,96,2,2018,3,26
+2018-03-26,Water Leak,93,3,2018,3,26
+2018-03-27,Missed Garbage Pickup,109,1,2018,3,27
+2018-03-27,Container Problem,103,2,2018,3,27
+2018-03-27,Water Leak,71,3,2018,3,27
+2018-03-28,Nuisance On Property,98,1,2018,3,28
+2018-03-28,Water Leak,94,2,2018,3,28
+2018-03-28,Trash Dumping or Illegal Dumpsite,88,3,2018,3,28
+2018-03-29,Traffic Signal Maintenance,155,1,2018,3,29
+2018-03-29,Street Hazard,103,2,2018,3,29
+2018-03-29,Drainage,82,3,2018,3,29
+2018-03-30,Water Service,86,1,2018,3,30
+2018-03-30,Missed Garbage Pickup,72,2,2018,3,30
+2018-03-30,Container Problem,70,3,2018,3,30
+2018-03-31,Sewer Wastewater,40,1,2018,3,31
+2018-03-31,Water Leak,34,2,2018,3,31
+2018-03-31,Traffic Signal Maintenance,26,3,2018,3,31
+2018-04-01,Water Leak,27,1,2018,4,1
+2018-04-01,Traffic Signal Maintenance,20,2,2018,4,1
+2018-04-01,Sewer Wastewater,20,3,2018,4,1
+2018-04-02,Container Problem,119,1,2018,4,2
+2018-04-02,Sewer Wastewater,91,2,2018,4,2
+2018-04-02,Missed Garbage Pickup,69,3,2018,4,2
+2018-04-03,Container Problem,113,1,2018,4,3
+2018-04-03,Nuisance On Property,106,2,2018,4,3
+2018-04-03,Water Leak,100,3,2018,4,3
+2018-04-04,Traffic Signal Maintenance,130,1,2018,4,4
+2018-04-04,Nuisance On Property,93,2,2018,4,4
+2018-04-04,Container Problem,77,3,2018,4,4
+2018-04-05,Nuisance On Property,102,1,2018,4,5
+2018-04-05,Traffic Signs,85,2,2018,4,5
+2018-04-05,Missed Heavy Trash Pickup,80,3,2018,4,5
+2018-04-06,Missed Heavy Trash Pickup,133,1,2018,4,6
+2018-04-06,Nuisance On Property,103,2,2018,4,6
+2018-04-06,Missed Garbage Pickup,92,3,2018,4,6
+2018-04-07,Traffic Signal Maintenance,41,1,2018,4,7
+2018-04-07,Missed Heavy Trash Pickup,39,2,2018,4,7
+2018-04-07,Water Leak,28,3,2018,4,7
+2018-04-08,Trash Dumping or Illegal Dumpsite,26,1,2018,4,8
+2018-04-08,Traffic Signal Maintenance,25,2,2018,4,8
+2018-04-08,Water Leak,24,3,2018,4,8
+2018-04-09,Container Problem,91,1,2018,4,9
+2018-04-09,Sewer Wastewater,77,2,2018,4,9
+2018-04-09,Junk Motor Vehicle,44,3,2018,4,9
+2018-04-10,Container Problem,97,1,2018,4,10
+2018-04-10,Missed Garbage Pickup,96,2,2018,4,10
+2018-04-10,Water Leak,89,3,2018,4,10
+2018-04-11,Missed Heavy Trash Pickup,86,1,2018,4,11
+2018-04-11,Missed Garbage Pickup,73,2,2018,4,11
+2018-04-11,Water Leak,71,3,2018,4,11
+2018-04-12,Missed Heavy Trash Pickup,117,1,2018,4,12
+2018-04-12,Container Problem,97,2,2018,4,12
+2018-04-12,Missed Garbage Pickup,88,3,2018,4,12
+2018-04-13,Missed Heavy Trash Pickup,165,1,2018,4,13
+2018-04-13,Missed Garbage Pickup,107,2,2018,4,13
+2018-04-13,Container Problem,81,3,2018,4,13
+2018-04-14,Missed Heavy Trash Pickup,129,1,2018,4,14
+2018-04-14,Traffic Signal Maintenance,54,2,2018,4,14
+2018-04-14,Water Leak,32,3,2018,4,14
+2018-04-15,Water Leak,45,1,2018,4,15
+2018-04-15,Traffic Signal Maintenance,27,2,2018,4,15
+2018-04-15,Traffic Signs,21,3,2018,4,15
+2018-04-16,Container Problem,105,1,2018,4,16
+2018-04-16,Missed Garbage Pickup,99,2,2018,4,16
+2018-04-16,Water Leak,96,3,2018,4,16
+2018-04-17,Missed Garbage Pickup,155,1,2018,4,17
+2018-04-17,Container Problem,115,2,2018,4,17
+2018-04-17,Missed Heavy Trash Pickup,93,3,2018,4,17
+2018-04-18,Missed Heavy Trash Pickup,175,1,2018,4,18
+2018-04-18,Container Problem,75,2,2018,4,18
+2018-04-18,Missed Garbage Pickup,72,3,2018,4,18
+2018-04-19,Missed Heavy Trash Pickup,249,1,2018,4,19
+2018-04-19,Nuisance On Property,117,2,2018,4,19
+2018-04-19,Container Problem,76,3,2018,4,19
+2018-04-20,Missed Heavy Trash Pickup,347,1,2018,4,20
+2018-04-20,Missed Garbage Pickup,103,2,2018,4,20
+2018-04-20,Container Problem,101,3,2018,4,20
+2018-04-21,Missed Heavy Trash Pickup,139,1,2018,4,21
+2018-04-21,Missed Garbage Pickup,40,2,2018,4,21
+2018-04-21,Parking Violation,28,3,2018,4,21
+2018-04-22,Traffic Signal Maintenance,42,1,2018,4,22
+2018-04-22,Sewer Wastewater,39,2,2018,4,22
+2018-04-22,Water Leak,39,3,2018,4,22
+2018-04-23,Missed Heavy Trash Pickup,219,1,2018,4,23
+2018-04-23,Container Problem,97,2,2018,4,23
+2018-04-23,Water Leak,87,3,2018,4,23
+2018-04-24,Missed Heavy Trash Pickup,248,1,2018,4,24
+2018-04-24,Missed Garbage Pickup,112,2,2018,4,24
+2018-04-24,Missed Recycling Pickup,106,3,2018,4,24
+2018-04-25,Missed Heavy Trash Pickup,355,1,2018,4,25
+2018-04-25,Missed Recycling Pickup,87,2,2018,4,25
+2018-04-25,Water Leak,78,3,2018,4,25
+2018-04-26,Missed Heavy Trash Pickup,456,1,2018,4,26
+2018-04-26,Nuisance On Property,85,2,2018,4,26
+2018-04-26,Container Problem,74,3,2018,4,26
+2018-04-27,Missed Heavy Trash Pickup,542,1,2018,4,27
+2018-04-27,Missed Garbage Pickup,112,2,2018,4,27
+2018-04-27,Container Problem,84,3,2018,4,27
+2018-04-28,Missed Heavy Trash Pickup,194,1,2018,4,28
+2018-04-28,Missed Garbage Pickup,43,2,2018,4,28
+2018-04-28,Water Leak,28,3,2018,4,28
+2018-04-29,Missed Heavy Trash Pickup,76,1,2018,4,29
+2018-04-29,Sewer Wastewater,29,2,2018,4,29
+2018-04-29,Water Leak,25,3,2018,4,29
+2018-04-30,Missed Heavy Trash Pickup,253,1,2018,4,30
+2018-04-30,Container Problem,84,2,2018,4,30
+2018-04-30,Missed Garbage Pickup,81,3,2018,4,30
+2018-05-01,Missed Heavy Trash Pickup,119,1,2018,5,1
+2018-05-01,Container Problem,99,2,2018,5,1
+2018-05-01,Missed Garbage Pickup,93,3,2018,5,1
+2018-05-02,Missed Heavy Trash Pickup,84,1,2018,5,2
+2018-05-02,Sewer Wastewater,72,2,2018,5,2
+2018-05-02,Water Leak,67,3,2018,5,2
+2018-05-03,Missed Heavy Trash Pickup,116,1,2018,5,3
+2018-05-03,Container Problem,95,2,2018,5,3
+2018-05-03,Missed Garbage Pickup,91,3,2018,5,3
+2018-05-04,Missed Heavy Trash Pickup,125,1,2018,5,4
+2018-05-04,Missed Garbage Pickup,106,2,2018,5,4
+2018-05-04,Container Problem,92,3,2018,5,4
+2018-05-05,Missed Heavy Trash Pickup,48,1,2018,5,5
+2018-05-05,Sewer Wastewater,36,2,2018,5,5
+2018-05-05,Missed Garbage Pickup,31,3,2018,5,5
+2018-05-06,Traffic Signal Maintenance,32,1,2018,5,6
+2018-05-06,Sewer Wastewater,22,2,2018,5,6
+2018-05-06,Water Leak,19,3,2018,5,6
+2018-05-07,Container Problem,119,1,2018,5,7
+2018-05-07,Missed Heavy Trash Pickup,101,2,2018,5,7
+2018-05-07,Missed Garbage Pickup,93,3,2018,5,7
+2018-05-08,Nuisance On Property,278,1,2018,5,8
+2018-05-08,Unclassified 311 Web Request,257,2,2018,5,8
+2018-05-08,Trash Dumping or Illegal Dumpsite,228,3,2018,5,8
+2018-05-09,Missed Heavy Trash Pickup,158,1,2018,5,9
+2018-05-09,Nuisance On Property,98,2,2018,5,9
+2018-05-09,Container Problem,90,3,2018,5,9
+2018-05-10,Missed Heavy Trash Pickup,147,1,2018,5,10
+2018-05-10,Sewer Wastewater,80,2,2018,5,10
+2018-05-10,Container Problem,79,3,2018,5,10
+2018-05-11,Missed Heavy Trash Pickup,116,1,2018,5,11
+2018-05-11,Missed Garbage Pickup,96,2,2018,5,11
+2018-05-11,Container Problem,77,3,2018,5,11
+2018-05-12,Missed Heavy Trash Pickup,42,1,2018,5,12
+2018-05-12,Water Leak,35,2,2018,5,12
+2018-05-12,Missed Garbage Pickup,34,3,2018,5,12
+2018-05-13,Traffic Signal Maintenance,26,1,2018,5,13
+2018-05-13,Heavy Trash Violation,18,2,2018,5,13
+2018-05-13,Street Hazard,18,3,2018,5,13
+2018-05-14,Nuisance On Property,105,1,2018,5,14
+2018-05-14,Container Problem,102,2,2018,5,14
+2018-05-14,Missed Garbage Pickup,85,3,2018,5,14
+2018-05-15,Nuisance On Property,97,1,2018,5,15
+2018-05-15,Container Problem,84,2,2018,5,15
+2018-05-15,Missed Garbage Pickup,84,3,2018,5,15
+2018-05-16,Missed Garbage Pickup,142,1,2018,5,16
+2018-05-16,Missed Recycling Pickup,98,2,2018,5,16
+2018-05-16,Container Problem,87,3,2018,5,16
+2018-05-17,Missed Garbage Pickup,109,1,2018,5,17
+2018-05-17,Container Problem,76,2,2018,5,17
+2018-05-17,Nuisance On Property,70,3,2018,5,17
+2018-05-18,Missed Recycling Pickup,328,1,2018,5,18
+2018-05-18,Missed Garbage Pickup,169,2,2018,5,18
+2018-05-18,Container Problem,84,3,2018,5,18
+2018-05-19,Missed Recycling Pickup,79,1,2018,5,19
+2018-05-19,Missed Garbage Pickup,39,2,2018,5,19
+2018-05-19,Water Leak,39,3,2018,5,19
+2018-05-20,Traffic Signal Maintenance,45,1,2018,5,20
+2018-05-20,Water Leak,40,2,2018,5,20
+2018-05-20,Sewer Wastewater,25,3,2018,5,20
+2018-05-21,Water Leak,141,1,2018,5,21
+2018-05-21,Traffic Signal Maintenance,122,2,2018,5,21
+2018-05-21,Container Problem,102,3,2018,5,21
+2018-05-22,Missed Garbage Pickup,147,1,2018,5,22
+2018-05-22,Traffic Signal Maintenance,116,2,2018,5,22
+2018-05-22,Container Problem,115,3,2018,5,22
+2018-05-23,Water Leak,78,1,2018,5,23
+2018-05-23,Container Problem,78,2,2018,5,23
+2018-05-23,Missed Recycling Pickup,75,3,2018,5,23
+2018-05-24,Nuisance On Property,73,1,2018,5,24
+2018-05-24,Container Problem,68,2,2018,5,24
+2018-05-24,Missed Garbage Pickup,65,3,2018,5,24
+2018-05-25,Missed Garbage Pickup,94,1,2018,5,25
+2018-05-25,Container Problem,83,2,2018,5,25
+2018-05-25,Traffic Signal Maintenance,63,3,2018,5,25
+2018-05-26,Street Hazard,49,1,2018,5,26
+2018-05-26,Traffic Signal Maintenance,44,2,2018,5,26
+2018-05-26,Sewer Wastewater,34,3,2018,5,26
+2018-05-27,Traffic Signal Maintenance,73,1,2018,5,27
+2018-05-27,Street Hazard,32,2,2018,5,27
+2018-05-27,Nuisance On Property,23,3,2018,5,27
+2018-05-28,Sewer Wastewater,28,1,2018,5,28
+2018-05-28,Street Hazard,24,2,2018,5,28
+2018-05-28,Nuisance On Property,24,3,2018,5,28
+2018-05-29,Container Problem,126,1,2018,5,29
+2018-05-29,Nuisance On Property,100,2,2018,5,29
+2018-05-29,Water Leak,78,3,2018,5,29
+2018-05-30,Container Problem,113,1,2018,5,30
+2018-05-30,Missed Garbage Pickup,112,2,2018,5,30
+2018-05-30,Nuisance On Property,71,3,2018,5,30
+2018-05-31,Missed Garbage Pickup,139,1,2018,5,31
+2018-05-31,Container Problem,107,2,2018,5,31
+2018-05-31,Missed Recycling Pickup,100,3,2018,5,31
+2018-06-01,Missed Garbage Pickup,174,1,2018,6,1
+2018-06-01,Missed Recycling Pickup,158,2,2018,6,1
+2018-06-01,Container Problem,84,3,2018,6,1
+2018-06-02,Missed Garbage Pickup,67,1,2018,6,2
+2018-06-02,Missed Recycling Pickup,46,2,2018,6,2
+2018-06-02,Traffic Signal Maintenance,39,3,2018,6,2
+2018-06-03,Water Leak,35,1,2018,6,3
+2018-06-03,Traffic Signal Maintenance,34,2,2018,6,3
+2018-06-03,Nuisance On Property,23,3,2018,6,3
+2018-06-04,Nuisance On Property,109,1,2018,6,4
+2018-06-04,Container Problem,101,2,2018,6,4
+2018-06-04,Missed Garbage Pickup,76,3,2018,6,4
+2018-06-05,Missed Garbage Pickup,151,1,2018,6,5
+2018-06-05,Container Problem,108,2,2018,6,5
+2018-06-05,Missed Recycling Pickup,102,3,2018,6,5
+2018-06-06,Missed Garbage Pickup,82,1,2018,6,6
+2018-06-06,Nuisance On Property,81,2,2018,6,6
+2018-06-06,Missed Heavy Trash Pickup,70,3,2018,6,6
+2018-06-07,Missed Heavy Trash Pickup,102,1,2018,6,7
+2018-06-07,Nuisance On Property,95,2,2018,6,7
+2018-06-07,Container Problem,80,3,2018,6,7
+2018-06-08,Missed Garbage Pickup,97,1,2018,6,8
+2018-06-08,Container Problem,92,2,2018,6,8
+2018-06-08,Missed Heavy Trash Pickup,91,3,2018,6,8
+2018-06-09,Water Leak,54,1,2018,6,9
+2018-06-09,Missed Heavy Trash Pickup,44,2,2018,6,9
+2018-06-09,Missed Garbage Pickup,41,3,2018,6,9
+2018-06-10,Sewer Wastewater,37,1,2018,6,10
+2018-06-10,Water Leak,35,2,2018,6,10
+2018-06-10,Traffic Signal Maintenance,23,3,2018,6,10
+2018-06-11,Container Problem,101,1,2018,6,11
+2018-06-11,Water Leak,93,2,2018,6,11
+2018-06-11,Missed Garbage Pickup,87,3,2018,6,11
+2018-06-12,Missed Garbage Pickup,147,1,2018,6,12
+2018-06-12,Container Problem,114,2,2018,6,12
+2018-06-12,Water Leak,87,3,2018,6,12
+2018-06-13,Water Leak,93,1,2018,6,13
+2018-06-13,Missed Heavy Trash Pickup,91,2,2018,6,13
+2018-06-13,Nuisance On Property,72,3,2018,6,13
+2018-06-14,Missed Heavy Trash Pickup,169,1,2018,6,14
+2018-06-14,Traffic Signal Maintenance,81,2,2018,6,14
+2018-06-14,Container Problem,81,3,2018,6,14
+2018-06-15,Missed Heavy Trash Pickup,108,1,2018,6,15
+2018-06-15,Missed Garbage Pickup,91,2,2018,6,15
+2018-06-15,Traffic Signal Maintenance,74,3,2018,6,15
+2018-06-16,Water Leak,58,1,2018,6,16
+2018-06-16,Missed Heavy Trash Pickup,56,2,2018,6,16
+2018-06-16,Missed Garbage Pickup,36,3,2018,6,16
+2018-06-17,Traffic Signal Maintenance,39,1,2018,6,17
+2018-06-17,Water Leak,35,2,2018,6,17
+2018-06-17,Heavy Trash Violation,19,3,2018,6,17
+2018-06-18,Container Problem,115,1,2018,6,18
+2018-06-18,Nuisance On Property,92,2,2018,6,18
+2018-06-18,Missed Garbage Pickup,85,3,2018,6,18
+2018-06-19,Missed Garbage Pickup,108,1,2018,6,19
+2018-06-19,Container Problem,95,2,2018,6,19
+2018-06-19,Missed Heavy Trash Pickup,94,3,2018,6,19
+2018-06-20,Missed Heavy Trash Pickup,87,1,2018,6,20
+2018-06-20,Nuisance On Property,81,2,2018,6,20
+2018-06-20,Water Leak,75,3,2018,6,20
+2018-06-21,Missed Heavy Trash Pickup,140,1,2018,6,21
+2018-06-21,Container Problem,93,2,2018,6,21
+2018-06-21,Nuisance On Property,74,3,2018,6,21
+2018-06-22,Missed Heavy Trash Pickup,155,1,2018,6,22
+2018-06-22,Missed Garbage Pickup,87,2,2018,6,22
+2018-06-22,Nuisance On Property,86,3,2018,6,22
+2018-06-23,Water Leak,57,1,2018,6,23
+2018-06-23,Missed Heavy Trash Pickup,51,2,2018,6,23
+2018-06-23,Missed Garbage Pickup,44,3,2018,6,23
+2018-06-24,Traffic Signal Maintenance,30,1,2018,6,24
+2018-06-24,Water Leak,30,2,2018,6,24
+2018-06-24,Nuisance On Property,20,3,2018,6,24
+2018-06-25,Container Problem,123,1,2018,6,25
+2018-06-25,Water Leak,121,2,2018,6,25
+2018-06-25,Nuisance On Property,120,3,2018,6,25
+2018-06-26,Nuisance On Property,109,1,2018,6,26
+2018-06-26,Container Problem,105,2,2018,6,26
+2018-06-26,Missed Garbage Pickup,99,3,2018,6,26
+2018-06-27,Missed Heavy Trash Pickup,108,1,2018,6,27
+2018-06-27,Nuisance On Property,87,2,2018,6,27
+2018-06-27,Water Leak,71,3,2018,6,27
+2018-06-28,Missed Heavy Trash Pickup,148,1,2018,6,28
+2018-06-28,Nuisance On Property,95,2,2018,6,28
+2018-06-28,Water Leak,94,3,2018,6,28
+2018-06-29,Missed Garbage Pickup,123,1,2018,6,29
+2018-06-29,Nuisance On Property,111,2,2018,6,29
+2018-06-29,Missed Heavy Trash Pickup,98,3,2018,6,29
+2018-06-30,Water Leak,40,1,2018,6,30
+2018-06-30,Missed Recycling Pickup,35,2,2018,6,30
+2018-06-30,Missed Garbage Pickup,29,3,2018,6,30
+2018-07-01,Water Leak,35,1,2018,7,1
+2018-07-01,Traffic Signal Maintenance,26,2,2018,7,1
+2018-07-01,Water Service,20,3,2018,7,1
+2018-07-02,Nuisance On Property,156,1,2018,7,2
+2018-07-02,Container Problem,131,2,2018,7,2
+2018-07-02,Water Leak,112,3,2018,7,2
+2018-07-03,Container Problem,106,1,2018,7,3
+2018-07-03,Missed Garbage Pickup,106,2,2018,7,3
+2018-07-03,Nuisance On Property,100,3,2018,7,3
+2018-07-04,Drainage,128,1,2018,7,4
+2018-07-04,Sewer Wastewater,128,2,2018,7,4
+2018-07-04,Street Hazard,126,3,2018,7,4
+2018-07-05,Drainage,133,1,2018,7,5
+2018-07-05,Container Problem,129,2,2018,7,5
+2018-07-05,Street Hazard,106,3,2018,7,5
+2018-07-06,Missed Garbage Pickup,106,1,2018,7,6
+2018-07-06,Container Problem,96,2,2018,7,6
+2018-07-06,Drainage,88,3,2018,7,6
+2018-07-07,Water Leak,38,1,2018,7,7
+2018-07-07,Sewer Wastewater,33,2,2018,7,7
+2018-07-07,Missed Garbage Pickup,27,3,2018,7,7
+2018-07-08,Traffic Signal Maintenance,46,1,2018,7,8
+2018-07-08,Water Leak,43,2,2018,7,8
+2018-07-08,Sewer Wastewater,25,3,2018,7,8
+2018-07-09,Nuisance On Property,128,1,2018,7,9
+2018-07-09,Container Problem,96,2,2018,7,9
+2018-07-09,Missed Garbage Pickup,92,3,2018,7,9
+2018-07-10,Nuisance On Property,151,1,2018,7,10
+2018-07-10,Missed Garbage Pickup,123,2,2018,7,10
+2018-07-10,Container Problem,106,3,2018,7,10
+2018-07-11,Nuisance On Property,135,1,2018,7,11
+2018-07-11,Water Leak,92,2,2018,7,11
+2018-07-11,Missed Recycling Pickup,90,3,2018,7,11
+2018-07-12,Nuisance On Property,148,1,2018,7,12
+2018-07-12,Missed Garbage Pickup,90,2,2018,7,12
+2018-07-12,Water Leak,88,3,2018,7,12
+2018-07-13,Missed Recycling Pickup,152,1,2018,7,13
+2018-07-13,Nuisance On Property,151,2,2018,7,13
+2018-07-13,Missed Garbage Pickup,119,3,2018,7,13
+2018-07-14,Missed Garbage Pickup,52,1,2018,7,14
+2018-07-14,Missed Recycling Pickup,48,2,2018,7,14
+2018-07-14,Water Leak,38,3,2018,7,14
+2018-07-15,Water Leak,37,1,2018,7,15
+2018-07-15,Traffic Signal Maintenance,28,2,2018,7,15
+2018-07-15,Sewer Wastewater,24,3,2018,7,15
+2018-07-16,Nuisance On Property,160,1,2018,7,16
+2018-07-16,Container Problem,108,2,2018,7,16
+2018-07-16,Water Leak,106,3,2018,7,16
+2018-07-17,Nuisance On Property,183,1,2018,7,17
+2018-07-17,Missed Garbage Pickup,166,2,2018,7,17
+2018-07-17,Container Problem,129,3,2018,7,17
+2018-07-18,Missed Garbage Pickup,176,1,2018,7,18
+2018-07-18,Nuisance On Property,152,2,2018,7,18
+2018-07-18,Missed Recycling Pickup,101,3,2018,7,18
+2018-07-19,Heavy Trash Violation,150,1,2018,7,19
+2018-07-19,Nuisance On Property,145,2,2018,7,19
+2018-07-19,Missed Garbage Pickup,123,3,2018,7,19
+2018-07-20,Missed Garbage Pickup,105,1,2018,7,20
+2018-07-20,Water Leak,88,2,2018,7,20
+2018-07-20,Container Problem,86,3,2018,7,20
+2018-07-21,Missed Recycling Pickup,61,1,2018,7,21
+2018-07-21,Missed Garbage Pickup,37,2,2018,7,21
+2018-07-21,Water Leak,32,3,2018,7,21
+2018-07-22,Sewer Wastewater,35,1,2018,7,22
+2018-07-22,Water Leak,35,2,2018,7,22
+2018-07-22,Traffic Signal Maintenance,22,3,2018,7,22
+2018-07-23,Nuisance On Property,165,1,2018,7,23
+2018-07-23,Water Leak,106,2,2018,7,23
+2018-07-23,Container Problem,105,3,2018,7,23
+2018-07-24,Missed Recycling Pickup,227,1,2018,7,24
+2018-07-24,Nuisance On Property,130,2,2018,7,24
+2018-07-24,Missed Garbage Pickup,120,3,2018,7,24
+2018-07-25,Missed Recycling Pickup,210,1,2018,7,25
+2018-07-25,Nuisance On Property,104,2,2018,7,25
+2018-07-25,Water Leak,89,3,2018,7,25
+2018-07-26,Nuisance On Property,106,1,2018,7,26
+2018-07-26,Water Leak,92,2,2018,7,26
+2018-07-26,Missed Garbage Pickup,79,3,2018,7,26
+2018-07-27,Missed Garbage Pickup,102,1,2018,7,27
+2018-07-27,Nuisance On Property,92,2,2018,7,27
+2018-07-27,Missed Recycling Pickup,86,3,2018,7,27
+2018-07-28,Missed Recycling Pickup,71,1,2018,7,28
+2018-07-28,Missed Garbage Pickup,51,2,2018,7,28
+2018-07-28,Water Leak,47,3,2018,7,28
+2018-07-29,Nuisance On Property,38,1,2018,7,29
+2018-07-29,Water Leak,36,2,2018,7,29
+2018-07-29,Water Service,19,3,2018,7,29
+2018-07-30,Nuisance On Property,127,1,2018,7,30
+2018-07-30,Water Leak,110,2,2018,7,30
+2018-07-30,Container Problem,97,3,2018,7,30
+2018-07-31,Missed Garbage Pickup,116,1,2018,7,31
+2018-07-31,Missed Recycling Pickup,114,2,2018,7,31
+2018-07-31,Container Problem,110,3,2018,7,31
+2018-08-01,Water Leak,102,1,2018,8,1
+2018-08-01,Nuisance On Property,98,2,2018,8,1
+2018-08-01,Container Problem,88,3,2018,8,1
+2018-08-02,Nuisance On Property,109,1,2018,8,2
+2018-08-02,Water Leak,100,2,2018,8,2
+2018-08-02,Container Problem,79,3,2018,8,2
+2018-08-03,Missed Recycling Pickup,122,1,2018,8,3
+2018-08-03,Water Leak,97,2,2018,8,3
+2018-08-03,Missed Garbage Pickup,91,3,2018,8,3
+2018-08-04,Water Service,56,1,2018,8,4
+2018-08-04,Water Leak,52,2,2018,8,4
+2018-08-04,Missed Recycling Pickup,51,3,2018,8,4
+2018-08-05,Water Leak,45,1,2018,8,5
+2018-08-05,Nuisance On Property,41,2,2018,8,5
+2018-08-05,Water Service,25,3,2018,8,5
+2018-08-06,Water Leak,126,1,2018,8,6
+2018-08-06,Container Problem,107,2,2018,8,6
+2018-08-06,Nuisance On Property,82,3,2018,8,6
+2018-08-07,Nuisance On Property,113,1,2018,8,7
+2018-08-07,Missed Garbage Pickup,108,2,2018,8,7
+2018-08-07,Water Leak,108,3,2018,8,7
+2018-08-08,Water Leak,123,1,2018,8,8
+2018-08-08,Nuisance On Property,99,2,2018,8,8
+2018-08-08,Missed Recycling Pickup,91,3,2018,8,8
+2018-08-09,Missed Heavy Trash Pickup,89,1,2018,8,9
+2018-08-09,Water Leak,86,2,2018,8,9
+2018-08-09,Nuisance On Property,74,3,2018,8,9
+2018-08-10,Missed Garbage Pickup,137,1,2018,8,10
+2018-08-10,Water Leak,106,2,2018,8,10
+2018-08-10,Missed Heavy Trash Pickup,98,3,2018,8,10
+2018-08-11,Missed Garbage Pickup,117,1,2018,8,11
+2018-08-11,Missed Heavy Trash Pickup,61,2,2018,8,11
+2018-08-11,Missed Recycling Pickup,58,3,2018,8,11
+2018-08-12,Water Leak,36,1,2018,8,12
+2018-08-12,Flashing School Beacon,35,2,2018,8,12
+2018-08-12,Sewer Wastewater,25,3,2018,8,12
+2018-08-13,Container Problem,112,1,2018,8,13
+2018-08-13,Water Leak,109,2,2018,8,13
+2018-08-13,Missed Garbage Pickup,106,3,2018,8,13
+2018-08-14,Missed Recycling Pickup,148,1,2018,8,14
+2018-08-14,Missed Garbage Pickup,141,2,2018,8,14
+2018-08-14,Nuisance On Property,106,3,2018,8,14
+2018-08-15,Water Leak,107,1,2018,8,15
+2018-08-15,Missed Heavy Trash Pickup,101,2,2018,8,15
+2018-08-15,Missed Recycling Pickup,82,3,2018,8,15
+2018-08-16,Missed Heavy Trash Pickup,190,1,2018,8,16
+2018-08-16,Nuisance On Property,96,2,2018,8,16
+2018-08-16,Water Leak,95,3,2018,8,16
+2018-08-17,Missed Heavy Trash Pickup,144,1,2018,8,17
+2018-08-17,Missed Garbage Pickup,136,2,2018,8,17
+2018-08-17,Missed Recycling Pickup,126,3,2018,8,17
+2018-08-18,Missed Garbage Pickup,57,1,2018,8,18
+2018-08-18,Missed Heavy Trash Pickup,54,2,2018,8,18
+2018-08-18,Water Leak,52,3,2018,8,18
+2018-08-19,Water Leak,52,1,2018,8,19
+2018-08-19,Nuisance On Property,35,2,2018,8,19
+2018-08-19,Sewer Wastewater,25,3,2018,8,19
+2018-08-20,Water Leak,132,1,2018,8,20
+2018-08-20,Nuisance On Property,114,2,2018,8,20
+2018-08-20,Container Problem,103,3,2018,8,20
+2018-08-21,Water Leak,138,1,2018,8,21
+2018-08-21,Missed Heavy Trash Pickup,121,2,2018,8,21
+2018-08-21,Missed Garbage Pickup,117,3,2018,8,21
+2018-08-22,Missed Heavy Trash Pickup,164,1,2018,8,22
+2018-08-22,Water Leak,108,2,2018,8,22
+2018-08-22,Missed Garbage Pickup,80,3,2018,8,22
+2018-08-23,Missed Heavy Trash Pickup,154,1,2018,8,23
+2018-08-23,Water Leak,113,2,2018,8,23
+2018-08-23,Missed Garbage Pickup,93,3,2018,8,23
+2018-08-24,Missed Garbage Pickup,157,1,2018,8,24
+2018-08-24,Missed Heavy Trash Pickup,152,2,2018,8,24
+2018-08-24,Missed Recycling Pickup,133,3,2018,8,24
+2018-08-25,Missed Heavy Trash Pickup,85,1,2018,8,25
+2018-08-25,Missed Recycling Pickup,84,2,2018,8,25
+2018-08-25,Water Leak,75,3,2018,8,25
+2018-08-26,Water Leak,56,1,2018,8,26
+2018-08-26,Missed Heavy Trash Pickup,24,2,2018,8,26
+2018-08-26,Sewer Wastewater,22,3,2018,8,26
+2018-08-27,Missed Heavy Trash Pickup,188,1,2018,8,27
+2018-08-27,Water Leak,159,2,2018,8,27
+2018-08-27,Nuisance On Property,106,3,2018,8,27
+2018-08-28,Missed Heavy Trash Pickup,195,1,2018,8,28
+2018-08-28,Missed Recycling Pickup,160,2,2018,8,28
+2018-08-28,Missed Garbage Pickup,145,3,2018,8,28
+2018-08-29,Missed Heavy Trash Pickup,219,1,2018,8,29
+2018-08-29,Water Leak,90,2,2018,8,29
+2018-08-29,Missed Garbage Pickup,84,3,2018,8,29
+2018-08-30,Missed Heavy Trash Pickup,187,1,2018,8,30
+2018-08-30,Water Leak,136,2,2018,8,30
+2018-08-30,Missed Garbage Pickup,97,3,2018,8,30
+2018-08-31,Missed Recycling Pickup,156,1,2018,8,31
+2018-08-31,Missed Garbage Pickup,116,2,2018,8,31
+2018-08-31,Missed Heavy Trash Pickup,105,3,2018,8,31
+2018-09-01,Missed Garbage Pickup,55,1,2018,9,1
+2018-09-01,Traffic Signal Maintenance,46,2,2018,9,1
+2018-09-01,Missed Recycling Pickup,43,3,2018,9,1
+2018-09-02,Water Leak,43,1,2018,9,2
+2018-09-02,Traffic Signal Maintenance,32,2,2018,9,2
+2018-09-02,Street Hazard,27,3,2018,9,2
+2018-09-03,Water Leak,59,1,2018,9,3
+2018-09-03,Nuisance On Property,55,2,2018,9,3
+2018-09-03,Unclassified 311 Web Request,45,3,2018,9,3
+2018-09-04,Container Problem,106,1,2018,9,4
+2018-09-04,Water Leak,93,2,2018,9,4
+2018-09-04,Missed Garbage Pickup,84,3,2018,9,4
+2018-09-05,Missed Garbage Pickup,122,1,2018,9,5
+2018-09-05,Water Leak,109,2,2018,9,5
+2018-09-05,Container Problem,97,3,2018,9,5
+2018-09-06,Missed Recycling Pickup,258,1,2018,9,6
+2018-09-06,Missed Garbage Pickup,131,2,2018,9,6
+2018-09-06,Container Problem,118,3,2018,9,6
+2018-09-07,Missed Recycling Pickup,336,1,2018,9,7
+2018-09-07,Nuisance On Property,156,2,2018,9,7
+2018-09-07,Missed Garbage Pickup,108,3,2018,9,7
+2018-09-08,Missed Recycling Pickup,77,1,2018,9,8
+2018-09-08,Missed Garbage Pickup,37,2,2018,9,8
+2018-09-08,Sewer Wastewater,36,3,2018,9,8
+2018-09-09,Nuisance On Property,121,1,2018,9,9
+2018-09-09,Traffic Signal Maintenance,107,2,2018,9,9
+2018-09-09,Street Hazard,85,3,2018,9,9
+2018-09-10,Nuisance On Property,128,1,2018,9,10
+2018-09-10,Traffic Signal Maintenance,117,2,2018,9,10
+2018-09-10,Container Problem,111,3,2018,9,10
+2018-09-11,Nuisance On Property,155,1,2018,9,11
+2018-09-11,Missed Recycling Pickup,147,2,2018,9,11
+2018-09-11,Missed Garbage Pickup,107,3,2018,9,11
+2018-09-12,Missed Recycling Pickup,140,1,2018,9,12
+2018-09-12,Nuisance On Property,120,2,2018,9,12
+2018-09-12,Drainage,91,3,2018,9,12
+2018-09-13,Missed Garbage Pickup,91,1,2018,9,13
+2018-09-13,Water Leak,86,2,2018,9,13
+2018-09-13,Nuisance On Property,86,3,2018,9,13
+2018-09-14,Missed Garbage Pickup,94,1,2018,9,14
+2018-09-14,Missed Recycling Pickup,90,2,2018,9,14
+2018-09-14,Container Problem,80,3,2018,9,14
+2018-09-15,Water Leak,73,1,2018,9,15
+2018-09-15,Missed Recycling Pickup,50,2,2018,9,15
+2018-09-15,Missed Garbage Pickup,50,3,2018,9,15
+2018-09-16,Water Leak,47,1,2018,9,16
+2018-09-16,Traffic Signal Maintenance,30,2,2018,9,16
+2018-09-16,Sewer Wastewater,27,3,2018,9,16
+2018-09-17,Nuisance On Property,163,1,2018,9,17
+2018-09-17,Container Problem,106,2,2018,9,17
+2018-09-17,Water Leak,94,3,2018,9,17
+2018-09-18,Missed Garbage Pickup,136,1,2018,9,18
+2018-09-18,Nuisance On Property,131,2,2018,9,18
+2018-09-18,Missed Recycling Pickup,126,3,2018,9,18
+2018-09-19,Missed Recycling Pickup,111,1,2018,9,19
+2018-09-19,Nuisance On Property,102,2,2018,9,19
+2018-09-19,Water Leak,87,3,2018,9,19
+2018-09-20,Nuisance On Property,119,1,2018,9,20
+2018-09-20,Missed Garbage Pickup,85,2,2018,9,20
+2018-09-20,Water Leak,82,3,2018,9,20
+2018-09-21,Missed Recycling Pickup,111,1,2018,9,21
+2018-09-21,Missed Garbage Pickup,105,2,2018,9,21
+2018-09-21,Container Problem,75,3,2018,9,21
+2018-09-22,Missed Recycling Pickup,51,1,2018,9,22
+2018-09-22,Traffic Signal Maintenance,42,2,2018,9,22
+2018-09-22,Missed Garbage Pickup,38,3,2018,9,22
+2018-09-23,Water Leak,45,1,2018,9,23
+2018-09-23,Traffic Signal Maintenance,36,2,2018,9,23
+2018-09-23,Sewer Wastewater,34,3,2018,9,23
+2018-09-24,Nuisance On Property,112,1,2018,9,24
+2018-09-24,Container Problem,110,2,2018,9,24
+2018-09-24,Water Leak,87,3,2018,9,24
+2018-09-25,Missed Recycling Pickup,158,1,2018,9,25
+2018-09-25,Missed Garbage Pickup,131,2,2018,9,25
+2018-09-25,Container Problem,119,3,2018,9,25
+2018-09-26,Missed Garbage Pickup,162,1,2018,9,26
+2018-09-26,Nuisance On Property,122,2,2018,9,26
+2018-09-26,Missed Recycling Pickup,92,3,2018,9,26
+2018-09-27,Missed Garbage Pickup,93,1,2018,9,27
+2018-09-27,Container Problem,93,2,2018,9,27
+2018-09-27,Nuisance On Property,92,3,2018,9,27
+2018-09-28,Missed Garbage Pickup,102,1,2018,9,28
+2018-09-28,Nuisance On Property,94,2,2018,9,28
+2018-09-28,Container Problem,85,3,2018,9,28
+2018-09-29,Missed Garbage Pickup,48,1,2018,9,29
+2018-09-29,Sewer Wastewater,36,2,2018,9,29
+2018-09-29,Missed Recycling Pickup,31,3,2018,9,29
+2018-09-30,Sewer Wastewater,36,1,2018,9,30
+2018-09-30,Water Leak,28,2,2018,9,30
+2018-09-30,Nuisance On Property,20,3,2018,9,30
+2018-10-01,Nuisance On Property,106,1,2018,10,1
+2018-10-01,Container Problem,103,2,2018,10,1
+2018-10-01,Sewer Wastewater,87,3,2018,10,1
+2018-10-02,Nuisance On Property,132,1,2018,10,2
+2018-10-02,Container Problem,118,2,2018,10,2
+2018-10-02,Missed Garbage Pickup,106,3,2018,10,2
+2018-10-03,Nuisance On Property,112,1,2018,10,3
+2018-10-03,Water Leak,80,2,2018,10,3
+2018-10-03,Street Hazard,63,3,2018,10,3
+2018-10-04,Nuisance On Property,143,1,2018,10,4
+2018-10-04,Container Problem,84,2,2018,10,4
+2018-10-04,Water Leak,82,3,2018,10,4
+2018-10-05,Nuisance On Property,155,1,2018,10,5
+2018-10-05,Missed Garbage Pickup,121,2,2018,10,5
+2018-10-05,Container Problem,91,3,2018,10,5
+2018-10-06,Missed Garbage Pickup,70,1,2018,10,6
+2018-10-06,Missed Recycling Pickup,38,2,2018,10,6
+2018-10-06,Sewer Wastewater,30,3,2018,10,6
+2018-10-07,Sewer Wastewater,27,1,2018,10,7
+2018-10-07,Water Leak,27,2,2018,10,7
+2018-10-07,Traffic Signal Maintenance,26,3,2018,10,7
+2018-10-08,Nuisance On Property,191,1,2018,10,8
+2018-10-08,Container Problem,108,2,2018,10,8
+2018-10-08,Water Leak,106,3,2018,10,8
+2018-10-09,Nuisance On Property,214,1,2018,10,9
+2018-10-09,Container Problem,117,2,2018,10,9
+2018-10-09,Missed Garbage Pickup,102,3,2018,10,9
+2018-10-10,Water Leak,98,1,2018,10,10
+2018-10-10,Container Problem,78,2,2018,10,10
+2018-10-10,Missed Garbage Pickup,72,3,2018,10,10
+2018-10-11,Nuisance On Property,147,1,2018,10,11
+2018-10-11,Missed Heavy Trash Pickup,105,2,2018,10,11
+2018-10-11,Container Problem,79,3,2018,10,11
+2018-10-12,Nuisance On Property,125,1,2018,10,12
+2018-10-12,Missed Garbage Pickup,90,2,2018,10,12
+2018-10-12,Missed Heavy Trash Pickup,84,3,2018,10,12
+2018-10-13,Water Leak,54,1,2018,10,13
+2018-10-13,Missed Heavy Trash Pickup,47,2,2018,10,13
+2018-10-13,Missed Garbage Pickup,41,3,2018,10,13
+2018-10-14,Unclassified 311 Web Request,59,1,2018,10,14
+2018-10-14,Water Leak,51,2,2018,10,14
+2018-10-14,Nuisance On Property,51,3,2018,10,14
+2018-10-15,Container Problem,102,1,2018,10,15
+2018-10-15,Missed Garbage Pickup,85,2,2018,10,15
+2018-10-15,SWM Escalation,85,3,2018,10,15
+2018-10-16,Missed Garbage Pickup,159,1,2018,10,16
+2018-10-16,Nuisance On Property,109,2,2018,10,16
+2018-10-16,Container Problem,93,3,2018,10,16
+2018-10-17,Missed Garbage Pickup,103,1,2018,10,17
+2018-10-17,Missed Heavy Trash Pickup,83,2,2018,10,17
+2018-10-17,Missed Recycling Pickup,83,3,2018,10,17
+2018-10-18,Missed Heavy Trash Pickup,132,1,2018,10,18
+2018-10-18,Water Leak,96,2,2018,10,18
+2018-10-18,Container Problem,76,3,2018,10,18
+2018-10-19,Missed Heavy Trash Pickup,197,1,2018,10,19
+2018-10-19,Water Leak,103,2,2018,10,19
+2018-10-19,Missed Garbage Pickup,77,3,2018,10,19
+2018-10-20,Missed Heavy Trash Pickup,61,1,2018,10,20
+2018-10-20,Water Leak,42,2,2018,10,20
+2018-10-20,Missed Garbage Pickup,35,3,2018,10,20
+2018-10-21,Water Leak,75,1,2018,10,21
+2018-10-21,Water Service,33,2,2018,10,21
+2018-10-21,Sewer Wastewater,24,3,2018,10,21
+2018-10-22,Missed Heavy Trash Pickup,110,1,2018,10,22
+2018-10-22,Water Leak,93,2,2018,10,22
+2018-10-22,Container Problem,88,3,2018,10,22
+2018-10-23,Missed Recycling Pickup,99,1,2018,10,23
+2018-10-23,Missed Garbage Pickup,90,2,2018,10,23
+2018-10-23,SWM Escalation,85,3,2018,10,23
+2018-10-24,Missed Heavy Trash Pickup,117,1,2018,10,24
+2018-10-24,Nuisance On Property,111,2,2018,10,24
+2018-10-24,Missed Recycling Pickup,99,3,2018,10,24
+2018-10-25,Missed Heavy Trash Pickup,162,1,2018,10,25
+2018-10-25,Missed Garbage Pickup,95,2,2018,10,25
+2018-10-25,SWM Escalation,82,3,2018,10,25
+2018-10-26,Missed Heavy Trash Pickup,165,1,2018,10,26
+2018-10-26,Missed Recycling Pickup,159,2,2018,10,26
+2018-10-26,Missed Garbage Pickup,94,3,2018,10,26
+2018-10-27,Missed Garbage Pickup,89,1,2018,10,27
+2018-10-27,Missed Recycling Pickup,80,2,2018,10,27
+2018-10-27,Missed Heavy Trash Pickup,72,3,2018,10,27
+2018-10-28,Missed Heavy Trash Pickup,41,1,2018,10,28
+2018-10-28,Sewer Wastewater,31,2,2018,10,28
+2018-10-28,Water Leak,29,3,2018,10,28
+2018-10-29,Missed Heavy Trash Pickup,181,1,2018,10,29
+2018-10-29,Missed Garbage Pickup,113,2,2018,10,29
+2018-10-29,SWM Escalation,105,3,2018,10,29
+2018-10-30,Missed Garbage Pickup,178,1,2018,10,30
+2018-10-30,Missed Recycling Pickup,159,2,2018,10,30
+2018-10-30,Missed Heavy Trash Pickup,115,3,2018,10,30
+2018-10-31,Missed Recycling Pickup,163,1,2018,10,31
+2018-10-31,Missed Garbage Pickup,133,2,2018,10,31
+2018-10-31,Traffic Signal Maintenance,80,3,2018,10,31
+2018-11-01,Traffic Signal Maintenance,237,1,2018,11,1
+2018-11-01,Water Leak,151,2,2018,11,1
+2018-11-01,Street Hazard,145,3,2018,11,1
+2018-11-02,Missed Recycling Pickup,183,1,2018,11,2
+2018-11-02,Missed Garbage Pickup,105,2,2018,11,2
+2018-11-02,Water Leak,100,3,2018,11,2
+2018-11-03,Missed Recycling Pickup,57,1,2018,11,3
+2018-11-03,Water Leak,55,2,2018,11,3
+2018-11-03,Traffic Signal Maintenance,48,3,2018,11,3
+2018-11-04,Sewer Wastewater,33,1,2018,11,4
+2018-11-04,Traffic Signal Maintenance,32,2,2018,11,4
+2018-11-04,Water Leak,29,3,2018,11,4
+2018-11-05,Water Leak,115,1,2018,11,5
+2018-11-05,Missed Garbage Pickup,100,2,2018,11,5
+2018-11-05,Container Problem,89,3,2018,11,5
+2018-11-06,Missed Garbage Pickup,176,1,2018,11,6
+2018-11-06,Missed Recycling Pickup,153,2,2018,11,6
+2018-11-06,Water Leak,119,3,2018,11,6
+2018-11-07,Missed Recycling Pickup,148,1,2018,11,7
+2018-11-07,Missed Garbage Pickup,104,2,2018,11,7
+2018-11-07,Water Leak,99,3,2018,11,7
+2018-11-08,Missed Garbage Pickup,106,1,2018,11,8
+2018-11-08,Nuisance On Property,96,2,2018,11,8
+2018-11-08,SWM Escalation,84,3,2018,11,8
+2018-11-09,Missed Recycling Pickup,127,1,2018,11,9
+2018-11-09,Missed Garbage Pickup,120,2,2018,11,9
+2018-11-09,Traffic Signal Maintenance,81,3,2018,11,9
+2018-11-10,Water Leak,54,1,2018,11,10
+2018-11-10,Traffic Signal Maintenance,53,2,2018,11,10
+2018-11-10,Missed Garbage Pickup,44,3,2018,11,10
+2018-11-11,Water Leak,45,1,2018,11,11
+2018-11-11,Traffic Signal Maintenance,36,2,2018,11,11
+2018-11-11,Water Service,28,3,2018,11,11
+2018-11-12,SWM Escalation,62,1,2018,11,12
+2018-11-12,Water Leak,55,2,2018,11,12
+2018-11-12,Sewer Wastewater,51,3,2018,11,12
+2018-11-13,Container Problem,79,1,2018,11,13
+2018-11-13,Water Service,70,2,2018,11,13
+2018-11-13,Missed Garbage Pickup,69,3,2018,11,13
+2018-11-14,Missed Garbage Pickup,138,1,2018,11,14
+2018-11-14,Water Leak,103,2,2018,11,14
+2018-11-14,Container Problem,79,3,2018,11,14
+2018-11-15,Missed Garbage Pickup,275,1,2018,11,15
+2018-11-15,Missed Recycling Pickup,177,2,2018,11,15
+2018-11-15,Container Problem,95,3,2018,11,15
+2018-11-16,Missed Garbage Pickup,298,1,2018,11,16
+2018-11-16,Missed Recycling Pickup,289,2,2018,11,16
+2018-11-16,Water Leak,113,3,2018,11,16
+2018-11-17,Missed Recycling Pickup,105,1,2018,11,17
+2018-11-17,Missed Garbage Pickup,94,2,2018,11,17
+2018-11-17,Water Leak,90,3,2018,11,17
+2018-11-18,Water Leak,47,1,2018,11,18
+2018-11-18,Sewer Wastewater,29,2,2018,11,18
+2018-11-18,Water Service,24,3,2018,11,18
+2018-11-19,Water Leak,111,1,2018,11,19
+2018-11-19,Missed Recycling Pickup,109,2,2018,11,19
+2018-11-19,Missed Garbage Pickup,105,3,2018,11,19
+2018-11-20,Missed Recycling Pickup,191,1,2018,11,20
+2018-11-20,Missed Garbage Pickup,148,2,2018,11,20
+2018-11-20,Water Leak,91,3,2018,11,20
+2018-11-21,Missed Garbage Pickup,106,1,2018,11,21
+2018-11-21,Water Leak,79,2,2018,11,21
+2018-11-21,Sewer Wastewater,74,3,2018,11,21
+2018-11-22,Water Leak,42,1,2018,11,22
+2018-11-22,Sewer Wastewater,26,2,2018,11,22
+2018-11-22,Traffic Signal Maintenance,16,3,2018,11,22
+2018-11-23,Water Leak,87,1,2018,11,23
+2018-11-23,Missed Garbage Pickup,74,2,2018,11,23
+2018-11-23,Sewer Wastewater,71,3,2018,11,23
+2018-11-24,Missed Garbage Pickup,77,1,2018,11,24
+2018-11-24,Water Leak,57,2,2018,11,24
+2018-11-24,Sewer Wastewater,48,3,2018,11,24
+2018-11-25,Water Leak,46,1,2018,11,25
+2018-11-25,Sewer Wastewater,38,2,2018,11,25
+2018-11-25,Missed Garbage Pickup,33,3,2018,11,25
+2018-11-26,Water Leak,146,1,2018,11,26
+2018-11-26,Missed Garbage Pickup,135,2,2018,11,26
+2018-11-26,Container Problem,133,3,2018,11,26
+2018-11-27,Missed Garbage Pickup,182,1,2018,11,27
+2018-11-27,Water Leak,111,2,2018,11,27
+2018-11-27,Container Problem,87,3,2018,11,27
+2018-11-28,Missed Garbage Pickup,157,1,2018,11,28
+2018-11-28,Missed Recycling Pickup,120,2,2018,11,28
+2018-11-28,Water Leak,114,3,2018,11,28
+2018-11-29,Missed Garbage Pickup,121,1,2018,11,29
+2018-11-29,Water Leak,93,2,2018,11,29
+2018-11-29,Missed Recycling Pickup,79,3,2018,11,29
+2018-11-30,Missed Recycling Pickup,171,1,2018,11,30
+2018-11-30,Missed Garbage Pickup,116,2,2018,11,30
+2018-11-30,Container Problem,75,3,2018,11,30
+2018-12-01,Missed Recycling Pickup,50,1,2018,12,1
+2018-12-01,Water Leak,41,2,2018,12,1
+2018-12-01,Sewer Wastewater,38,3,2018,12,1
+2018-12-02,Sewer Wastewater,41,1,2018,12,2
+2018-12-02,Water Leak,40,2,2018,12,2
+2018-12-02,Traffic Signal Maintenance,20,3,2018,12,2
+2018-12-03,Water Leak,103,1,2018,12,3
+2018-12-03,Sewer Wastewater,103,2,2018,12,3
+2018-12-03,Missed Garbage Pickup,88,3,2018,12,3
+2018-12-04,Missed Garbage Pickup,202,1,2018,12,4
+2018-12-04,Missed Recycling Pickup,177,2,2018,12,4
+2018-12-04,Water Leak,112,3,2018,12,4
+2018-12-05,Missed Garbage Pickup,211,1,2018,12,5
+2018-12-05,Missed Recycling Pickup,195,2,2018,12,5
+2018-12-05,Water Leak,97,3,2018,12,5
+2018-12-06,Missed Garbage Pickup,133,1,2018,12,6
+2018-12-06,Missed Recycling Pickup,112,2,2018,12,6
+2018-12-06,Missed Heavy Trash Pickup,93,3,2018,12,6
+2018-12-07,Missed Recycling Pickup,254,1,2018,12,7
+2018-12-07,Missed Garbage Pickup,173,2,2018,12,7
+2018-12-07,Missed Heavy Trash Pickup,116,3,2018,12,7
+2018-12-08,Missed Recycling Pickup,112,1,2018,12,8
+2018-12-08,Traffic Signal Maintenance,93,2,2018,12,8
+2018-12-08,Missed Garbage Pickup,89,3,2018,12,8
+2018-12-09,Traffic Signal Maintenance,55,1,2018,12,9
+2018-12-09,Unclassified 311 Web Request,52,2,2018,12,9
+2018-12-09,Sewer Wastewater,45,3,2018,12,9
+2018-12-10,Missed Garbage Pickup,135,1,2018,12,10
+2018-12-10,Missed Heavy Trash Pickup,120,2,2018,12,10
+2018-12-10,Container Problem,111,3,2018,12,10
+2018-12-11,Missed Recycling Pickup,169,1,2018,12,11
+2018-12-11,Missed Garbage Pickup,153,2,2018,12,11
+2018-12-11,Missed Heavy Trash Pickup,137,3,2018,12,11
+2018-12-12,Missed Recycling Pickup,172,1,2018,12,12
+2018-12-12,Missed Heavy Trash Pickup,166,2,2018,12,12
+2018-12-12,Sewer Wastewater,93,3,2018,12,12
+2018-12-13,Missed Heavy Trash Pickup,230,1,2018,12,13
+2018-12-13,Sewer Wastewater,140,2,2018,12,13
+2018-12-13,Missed Recycling Pickup,130,3,2018,12,13
+2018-12-14,Missed Recycling Pickup,293,1,2018,12,14
+2018-12-14,Missed Heavy Trash Pickup,162,2,2018,12,14
+2018-12-14,Missed Garbage Pickup,150,3,2018,12,14
+2018-12-15,Missed Recycling Pickup,94,1,2018,12,15
+2018-12-15,Missed Heavy Trash Pickup,73,2,2018,12,15
+2018-12-15,Missed Garbage Pickup,70,3,2018,12,15
+2018-12-16,Water Leak,41,1,2018,12,16
+2018-12-16,Sewer Wastewater,37,2,2018,12,16
+2018-12-16,Traffic Signal Maintenance,28,3,2018,12,16
+2018-12-17,Missed Heavy Trash Pickup,163,1,2018,12,17
+2018-12-17,Missed Recycling Pickup,139,2,2018,12,17
+2018-12-17,Sewer Wastewater,125,3,2018,12,17
+2018-12-18,Missed Recycling Pickup,620,1,2018,12,18
+2018-12-18,Missed Garbage Pickup,143,2,2018,12,18
+2018-12-18,Missed Heavy Trash Pickup,117,3,2018,12,18
+2018-12-19,Missed Recycling Pickup,394,1,2018,12,19
+2018-12-19,Missed Heavy Trash Pickup,134,2,2018,12,19
+2018-12-19,Missed Garbage Pickup,104,3,2018,12,19
+2018-12-20,Missed Heavy Trash Pickup,213,1,2018,12,20
+2018-12-20,Missed Garbage Pickup,152,2,2018,12,20
+2018-12-20,Missed Recycling Pickup,124,3,2018,12,20
+2018-12-21,Missed Recycling Pickup,412,1,2018,12,21
+2018-12-21,Missed Heavy Trash Pickup,295,2,2018,12,21
+2018-12-21,Missed Garbage Pickup,168,3,2018,12,21
+2018-12-22,Missed Recycling Pickup,114,1,2018,12,22
+2018-12-22,Missed Garbage Pickup,66,2,2018,12,22
+2018-12-22,Missed Heavy Trash Pickup,63,3,2018,12,22
+2018-12-23,Unclassified 311 Web Request,60,1,2018,12,23
+2018-12-23,Water Leak,45,2,2018,12,23
+2018-12-23,Sewer Wastewater,43,3,2018,12,23
+2018-12-24,Water Leak,71,1,2018,12,24
+2018-12-24,Missed Heavy Trash Pickup,69,2,2018,12,24
+2018-12-24,Sewer Wastewater,59,3,2018,12,24
+2018-12-25,Heavy Trash Violation,20,1,2018,12,25
+2018-12-25,Sewer Wastewater,20,2,2018,12,25
+2018-12-25,Water Leak,18,3,2018,12,25
+2018-12-26,Missed Heavy Trash Pickup,114,1,2018,12,26
+2018-12-26,Container Problem,82,2,2018,12,26
+2018-12-26,Sewer Wastewater,77,3,2018,12,26
+2018-12-27,Missed Recycling Pickup,279,1,2018,12,27
+2018-12-27,Sewer Wastewater,196,2,2018,12,27
+2018-12-27,Missed Garbage Pickup,173,3,2018,12,27
+2018-12-28,Missed Recycling Pickup,377,1,2018,12,28
+2018-12-28,Missed Garbage Pickup,167,2,2018,12,28
+2018-12-28,Sewer Wastewater,119,3,2018,12,28
+2018-12-29,Missed Recycling Pickup,205,1,2018,12,29
+2018-12-29,Missed Garbage Pickup,108,2,2018,12,29
+2018-12-29,Missed Heavy Trash Pickup,62,3,2018,12,29
+2018-12-30,Missed Recycling Pickup,126,1,2018,12,30
+2018-12-30,Unclassified 311 Web Request,70,2,2018,12,30
+2018-12-30,Sewer Wastewater,47,3,2018,12,30
+2018-12-31,Missed Recycling Pickup,375,1,2018,12,31
+2018-12-31,Missed Heavy Trash Pickup,141,2,2018,12,31
+2018-12-31,Missed Garbage Pickup,137,3,2018,12,31
+2019-01-01,Missed Recycling Pickup,84,1,2019,1,1
+2019-01-01,Sewer Wastewater,48,2,2019,1,1
+2019-01-01,Missed Garbage Pickup,31,3,2019,1,1
+2019-01-02,Missed Recycling Pickup,166,1,2019,1,2
+2019-01-02,Missed Garbage Pickup,145,2,2019,1,2
+2019-01-02,Sewer Wastewater,128,3,2019,1,2
+2019-01-03,Missed Garbage Pickup,252,1,2019,1,3
+2019-01-03,Missed Recycling Pickup,211,2,2019,1,3
+2019-01-03,Missed Heavy Trash Pickup,171,3,2019,1,3
+2019-01-04,Missed Garbage Pickup,244,1,2019,1,4
+2019-01-04,Missed Recycling Pickup,130,2,2019,1,4
+2019-01-04,Missed Heavy Trash Pickup,119,3,2019,1,4
+2019-01-05,Missed Garbage Pickup,71,1,2019,1,5
+2019-01-05,Missed Recycling Pickup,56,2,2019,1,5
+2019-01-05,Sewer Wastewater,44,3,2019,1,5
+2019-01-06,Missed Recycling Pickup,122,1,2019,1,6
+2019-01-06,Missed Heavy Trash Pickup,41,2,2019,1,6
+2019-01-06,Missed Garbage Pickup,37,3,2019,1,6
+2019-01-07,Missed Recycling Pickup,404,1,2019,1,7
+2019-01-07,Missed Garbage Pickup,150,2,2019,1,7
+2019-01-07,Sewer Wastewater,125,3,2019,1,7
+2019-01-08,Missed Recycling Pickup,467,1,2019,1,8
+2019-01-08,Missed Garbage Pickup,185,2,2019,1,8
+2019-01-08,Missed Heavy Trash Pickup,148,3,2019,1,8
+2019-01-09,Missed Recycling Pickup,362,1,2019,1,9
+2019-01-09,Missed Garbage Pickup,127,2,2019,1,9
+2019-01-09,Container Problem,94,3,2019,1,9
+2019-01-10,Missed Recycling Pickup,371,1,2019,1,10
+2019-01-10,Missed Garbage Pickup,118,2,2019,1,10
+2019-01-10,Missed Heavy Trash Pickup,116,3,2019,1,10
+2019-01-11,Missed Recycling Pickup,315,1,2019,1,11
+2019-01-11,Missed Garbage Pickup,113,2,2019,1,11
+2019-01-11,Sewer Wastewater,93,3,2019,1,11
+2019-01-12,Missed Recycling Pickup,72,1,2019,1,12
+2019-01-12,Sewer Wastewater,64,2,2019,1,12
+2019-01-12,Missed Garbage Pickup,47,3,2019,1,12
+2019-01-13,Sewer Wastewater,46,1,2019,1,13
+2019-01-13,Missed Recycling Pickup,40,2,2019,1,13
+2019-01-13,Water Leak,36,3,2019,1,13
+2019-01-14,Missed Recycling Pickup,145,1,2019,1,14
+2019-01-14,Container Problem,112,2,2019,1,14
+2019-01-14,Missed Garbage Pickup,103,3,2019,1,14
+2019-01-15,Sewer Wastewater,105,1,2019,1,15
+2019-01-15,Missed Garbage Pickup,102,2,2019,1,15
+2019-01-15,Container Problem,89,3,2019,1,15
+2019-01-16,Missed Recycling Pickup,121,1,2019,1,16
+2019-01-16,Water Leak,73,2,2019,1,16
+2019-01-16,Missed Heavy Trash Pickup,70,3,2019,1,16
+2019-01-17,Sewer Wastewater,90,1,2019,1,17
+2019-01-17,Water Leak,87,2,2019,1,17
+2019-01-17,Missed Recycling Pickup,86,3,2019,1,17
+2019-01-18,Missed Garbage Pickup,101,1,2019,1,18
+2019-01-18,Sewer Wastewater,73,2,2019,1,18
+2019-01-18,Missed Heavy Trash Pickup,66,3,2019,1,18
+2019-01-19,Traffic Signal Maintenance,132,1,2019,1,19
+2019-01-19,Sewer Wastewater,56,2,2019,1,19
+2019-01-19,Missed Garbage Pickup,43,3,2019,1,19
+2019-01-20,Sewer Wastewater,34,1,2019,1,20
+2019-01-20,Traffic Signal Maintenance,28,2,2019,1,20
+2019-01-20,Water Leak,26,3,2019,1,20
+2019-01-21,Sewer Wastewater,75,1,2019,1,21
+2019-01-21,Water Leak,66,2,2019,1,21
+2019-01-21,Unclassified 311 Web Request,52,3,2019,1,21
+2019-01-22,Water Leak,108,1,2019,1,22
+2019-01-22,Sewer Wastewater,105,2,2019,1,22
+2019-01-22,Container Problem,96,3,2019,1,22
+2019-01-23,Traffic Signal Maintenance,149,1,2019,1,23
+2019-01-23,Missed Garbage Pickup,143,2,2019,1,23
+2019-01-23,Sewer Wastewater,106,3,2019,1,23
+2019-01-24,Missed Garbage Pickup,141,1,2019,1,24
+2019-01-24,Sewer Wastewater,108,2,2019,1,24
+2019-01-24,Water Leak,106,3,2019,1,24
+2019-01-25,Missed Garbage Pickup,123,1,2019,1,25
+2019-01-25,Sewer Wastewater,101,2,2019,1,25
+2019-01-25,Container Problem,98,3,2019,1,25
+2019-01-26,Missed Recycling Pickup,46,1,2019,1,26
+2019-01-26,Water Leak,45,2,2019,1,26
+2019-01-26,Sewer Wastewater,38,3,2019,1,26
+2019-01-27,Missed Recycling Pickup,74,1,2019,1,27
+2019-01-27,Sewer Wastewater,41,2,2019,1,27
+2019-01-27,Water Leak,35,3,2019,1,27
+2019-01-28,Missed Recycling Pickup,264,1,2019,1,28
+2019-01-28,Sewer Wastewater,142,2,2019,1,28
+2019-01-28,Water Leak,136,3,2019,1,28
+2019-01-29,Missed Garbage Pickup,127,1,2019,1,29
+2019-01-29,Water Leak,98,2,2019,1,29
+2019-01-29,Container Problem,97,3,2019,1,29
+2019-01-30,Water Leak,96,1,2019,1,30
+2019-01-30,Missed Recycling Pickup,90,2,2019,1,30
+2019-01-30,Sewer Wastewater,87,3,2019,1,30
+2019-01-31,Missed Recycling Pickup,96,1,2019,1,31
+2019-01-31,Sewer Wastewater,74,2,2019,1,31
+2019-01-31,Missed Garbage Pickup,71,3,2019,1,31
+2019-02-01,Missed Garbage Pickup,88,1,2019,2,1
+2019-02-01,Container Problem,81,2,2019,2,1
+2019-02-01,Sewer Wastewater,74,3,2019,2,1
+2019-02-02,Water Leak,63,1,2019,2,2
+2019-02-02,Sewer Wastewater,45,2,2019,2,2
+2019-02-02,Missed Recycling Pickup,37,3,2019,2,2
+2019-02-03,Sewer Wastewater,36,1,2019,2,3
+2019-02-03,Water Leak,34,2,2019,2,3
+2019-02-03,Traffic Signal Maintenance,23,3,2019,2,3
+2019-02-04,Sewer Wastewater,115,1,2019,2,4
+2019-02-04,Container Problem,93,2,2019,2,4
+2019-02-04,Water Leak,91,3,2019,2,4
+2019-02-05,Sewer Wastewater,96,1,2019,2,5
+2019-02-05,Water Leak,92,2,2019,2,5
+2019-02-05,Container Problem,89,3,2019,2,5
+2019-02-06,Sewer Wastewater,100,1,2019,2,6
+2019-02-06,Missed Heavy Trash Pickup,88,2,2019,2,6
+2019-02-06,Water Leak,84,3,2019,2,6
+2019-02-07,Missed Heavy Trash Pickup,94,1,2019,2,7
+2019-02-07,Water Leak,91,2,2019,2,7
+2019-02-07,Sewer Wastewater,74,3,2019,2,7
+2019-02-08,Missed Heavy Trash Pickup,93,1,2019,2,8
+2019-02-08,Missed Garbage Pickup,93,2,2019,2,8
+2019-02-08,Water Leak,75,3,2019,2,8
+2019-02-09,Missed Heavy Trash Pickup,50,1,2019,2,9
+2019-02-09,Water Leak,44,2,2019,2,9
+2019-02-09,Sewer Wastewater,41,3,2019,2,9
+2019-02-10,Sewer Wastewater,42,1,2019,2,10
+2019-02-10,Water Leak,35,2,2019,2,10
+2019-02-10,Traffic Signal Maintenance,25,3,2019,2,10
+2019-02-11,Sewer Wastewater,114,1,2019,2,11
+2019-02-11,Container Problem,78,2,2019,2,11
+2019-02-11,Water Leak,74,3,2019,2,11
+2019-02-12,Container Problem,100,1,2019,2,12
+2019-02-12,Sewer Wastewater,100,2,2019,2,12
+2019-02-12,Water Leak,97,3,2019,2,12
+2019-02-13,Missed Heavy Trash Pickup,87,1,2019,2,13
+2019-02-13,Water Leak,81,2,2019,2,13
+2019-02-13,Missed Garbage Pickup,77,3,2019,2,13
+2019-02-14,Missed Heavy Trash Pickup,130,1,2019,2,14
+2019-02-14,Sewer Wastewater,90,2,2019,2,14
+2019-02-14,Water Leak,82,3,2019,2,14
+2019-02-15,Missed Heavy Trash Pickup,111,1,2019,2,15
+2019-02-15,Missed Garbage Pickup,97,2,2019,2,15
+2019-02-15,Container Problem,83,3,2019,2,15
+2019-02-16,Sewer Wastewater,40,1,2019,2,16
+2019-02-16,Water Leak,36,2,2019,2,16
+2019-02-16,Missed Garbage Pickup,35,3,2019,2,16
+2019-02-17,Sewer Wastewater,38,1,2019,2,17
+2019-02-17,Water Leak,37,2,2019,2,17
+2019-02-17,Traffic Signal Maintenance,33,3,2019,2,17
+2019-02-18,Pothole,135,1,2019,2,18
+2019-02-18,Water Leak,114,2,2019,2,18
+2019-02-18,Container Problem,103,3,2019,2,18
+2019-02-19,Street Condition,157,1,2019,2,19
+2019-02-19,Pothole,105,2,2019,2,19
+2019-02-19,Missed Garbage Pickup,103,3,2019,2,19
+2019-02-20,Street Condition,94,1,2019,2,20
+2019-02-20,Sewer Wastewater,87,2,2019,2,20
+2019-02-20,Water Leak,86,3,2019,2,20
+2019-02-21,Missed Garbage Pickup,101,1,2019,2,21
+2019-02-21,Container Problem,76,2,2019,2,21
+2019-02-21,Missed Heavy Trash Pickup,75,3,2019,2,21
+2019-02-22,Missed Garbage Pickup,122,1,2019,2,22
+2019-02-22,Missed Heavy Trash Pickup,90,2,2019,2,22
+2019-02-22,Sewer Wastewater,78,3,2019,2,22
+2019-02-23,Sewer Wastewater,53,1,2019,2,23
+2019-02-23,Traffic Signal Maintenance,51,2,2019,2,23
+2019-02-23,Water Leak,47,3,2019,2,23
+2019-02-24,Water Leak,39,1,2019,2,24
+2019-02-24,Sewer Wastewater,38,2,2019,2,24
+2019-02-24,Traffic Signal Maintenance,29,3,2019,2,24
+2019-02-25,Pothole,106,1,2019,2,25
+2019-02-25,Container Problem,89,2,2019,2,25
+2019-02-25,Sewer Wastewater,88,3,2019,2,25
+2019-02-26,Missed Garbage Pickup,118,1,2019,2,26
+2019-02-26,Missed Heavy Trash Pickup,90,2,2019,2,26
+2019-02-26,Sewer Wastewater,81,3,2019,2,26
+2019-02-27,Missed Heavy Trash Pickup,96,1,2019,2,27
+2019-02-27,Sewer Wastewater,95,2,2019,2,27
+2019-02-27,Missed Garbage Pickup,91,3,2019,2,27
+2019-02-28,Missed Heavy Trash Pickup,111,1,2019,2,28
+2019-02-28,Pothole,80,2,2019,2,28
+2019-02-28,Sewer Wastewater,76,3,2019,2,28
+2019-03-01,Missed Heavy Trash Pickup,132,1,2019,3,1
+2019-03-01,Missed Garbage Pickup,104,2,2019,3,1
+2019-03-01,Sewer Wastewater,89,3,2019,3,1
+2019-03-02,Sewer Wastewater,62,1,2019,3,2
+2019-03-02,Street Condition,48,2,2019,3,2
+2019-03-02,Missed Heavy Trash Pickup,39,3,2019,3,2
+2019-03-03,Sewer Wastewater,32,1,2019,3,3
+2019-03-03,Traffic Signal Maintenance,32,2,2019,3,3
+2019-03-03,Traffic Signs,19,3,2019,3,3
+2019-03-04,Sewer Wastewater,83,1,2019,3,4
+2019-03-04,Water Leak,74,2,2019,3,4
+2019-03-04,Missed Garbage Pickup,72,3,2019,3,4
+2019-03-05,Water Leak,110,1,2019,3,5
+2019-03-05,Missed Garbage Pickup,107,2,2019,3,5
+2019-03-05,Container Problem,99,3,2019,3,5
+2019-03-06,Missed Garbage Pickup,85,1,2019,3,6
+2019-03-06,Water Leak,84,2,2019,3,6
+2019-03-06,Container Problem,78,3,2019,3,6
+2019-03-07,Container Problem,89,1,2019,3,7
+2019-03-07,Water Leak,84,2,2019,3,7
+2019-03-07,Sewer Wastewater,79,3,2019,3,7
+2019-03-08,Missed Garbage Pickup,101,1,2019,3,8
+2019-03-08,Sewer Wastewater,89,2,2019,3,8
+2019-03-08,Container Problem,81,3,2019,3,8
+2019-03-09,Sewer Wastewater,55,1,2019,3,9
+2019-03-09,Water Leak,55,2,2019,3,9
+2019-03-09,Street Condition,32,3,2019,3,9
+2019-03-10,Water Leak,46,1,2019,3,10
+2019-03-10,Sewer Wastewater,41,2,2019,3,10
+2019-03-10,Pothole,32,3,2019,3,10
+2019-03-11,Water Leak,124,1,2019,3,11
+2019-03-11,Container Problem,111,2,2019,3,11
+2019-03-11,Sewer Wastewater,104,3,2019,3,11
+2019-03-12,Missed Garbage Pickup,99,1,2019,3,12
+2019-03-12,Container Problem,90,2,2019,3,12
+2019-03-12,Nuisance On Property,80,3,2019,3,12
+2019-03-13,Sewer Wastewater,80,1,2019,3,13
+2019-03-13,Missed Garbage Pickup,78,2,2019,3,13
+2019-03-13,Traffic Signal Maintenance,71,3,2019,3,13
+2019-03-14,Sewer Wastewater,87,1,2019,3,14
+2019-03-14,Missed Garbage Pickup,86,2,2019,3,14
+2019-03-14,Container Problem,85,3,2019,3,14
+2019-03-15,Missed Garbage Pickup,104,1,2019,3,15
+2019-03-15,Heavy Trash Violation,98,2,2019,3,15
+2019-03-15,Container Problem,90,3,2019,3,15
+2019-03-16,Sewer Wastewater,53,1,2019,3,16
+2019-03-16,Missed Garbage Pickup,51,2,2019,3,16
+2019-03-16,Water Leak,36,3,2019,3,16
+2019-03-17,Sewer Wastewater,54,1,2019,3,17
+2019-03-17,Heavy Trash Violation,44,2,2019,3,17
+2019-03-17,Traffic Signal Maintenance,32,3,2019,3,17
+2019-03-18,Container Problem,114,1,2019,3,18
+2019-03-18,Water Leak,96,2,2019,3,18
+2019-03-18,Missed Garbage Pickup,92,3,2019,3,18
+2019-03-19,Missed Garbage Pickup,104,1,2019,3,19
+2019-03-19,Container Problem,98,2,2019,3,19
+2019-03-19,Water Leak,83,3,2019,3,19
+2019-03-20,Sewer Wastewater,68,1,2019,3,20
+2019-03-20,Nuisance On Property,67,2,2019,3,20
+2019-03-20,Water Leak,65,3,2019,3,20
+2019-03-21,Water Leak,89,1,2019,3,21
+2019-03-21,Sewer Wastewater,87,2,2019,3,21
+2019-03-21,Container Problem,79,3,2019,3,21
+2019-03-22,Water Leak,105,1,2019,3,22
+2019-03-22,Missed Garbage Pickup,101,2,2019,3,22
+2019-03-22,Container Problem,85,3,2019,3,22
+2019-03-23,Sewer Wastewater,43,1,2019,3,23
+2019-03-23,Water Leak,38,2,2019,3,23
+2019-03-23,Missed Garbage Pickup,27,3,2019,3,23
+2019-03-24,Sewer Wastewater,33,1,2019,3,24
+2019-03-24,Water Leak,29,2,2019,3,24
+2019-03-24,Water Service,23,3,2019,3,24
+2019-03-25,Container Problem,124,1,2019,3,25
+2019-03-25,Water Leak,101,2,2019,3,25
+2019-03-25,Sewer Wastewater,92,3,2019,3,25
+2019-03-26,Missed Garbage Pickup,123,1,2019,3,26
+2019-03-26,Container Problem,115,2,2019,3,26
+2019-03-26,Water Leak,95,3,2019,3,26
+2019-03-27,Water Leak,83,1,2019,3,27
+2019-03-27,Nuisance On Property,76,2,2019,3,27
+2019-03-27,Container Problem,64,3,2019,3,27
+2019-03-28,Missed Garbage Pickup,93,1,2019,3,28
+2019-03-28,Container Problem,82,2,2019,3,28
+2019-03-28,Water Leak,77,3,2019,3,28
+2019-03-29,Missed Garbage Pickup,88,1,2019,3,29
+2019-03-29,Container Problem,85,2,2019,3,29
+2019-03-29,Water Leak,71,3,2019,3,29
+2019-03-30,Traffic Signal Maintenance,48,1,2019,3,30
+2019-03-30,Water Leak,40,2,2019,3,30
+2019-03-30,Sewer Wastewater,35,3,2019,3,30
+2019-03-31,Traffic Signal Maintenance,29,1,2019,3,31
+2019-03-31,Water Leak,26,2,2019,3,31
+2019-03-31,Sewer Wastewater,18,3,2019,3,31
+2019-04-01,Water Leak,85,1,2019,4,1
+2019-04-01,Sewer Wastewater,81,2,2019,4,1
+2019-04-01,Nuisance On Property,80,3,2019,4,1
+2019-04-02,Missed Garbage Pickup,118,1,2019,4,2
+2019-04-02,Container Problem,93,2,2019,4,2
+2019-04-02,Water Leak,86,3,2019,4,2
+2019-04-03,Sewer Wastewater,85,1,2019,4,3
+2019-04-03,Water Leak,74,2,2019,4,3
+2019-04-03,Missed Recycling Pickup,68,3,2019,4,3
+2019-04-04,Traffic Signal Maintenance,126,1,2019,4,4
+2019-04-04,Missed Heavy Trash Pickup,87,2,2019,4,4
+2019-04-04,Missed Garbage Pickup,69,3,2019,4,4
+2019-04-05,Missed Garbage Pickup,123,1,2019,4,5
+2019-04-05,Missed Heavy Trash Pickup,87,2,2019,4,5
+2019-04-05,Sewer Wastewater,72,3,2019,4,5
+2019-04-06,Missed Heavy Trash Pickup,54,1,2019,4,6
+2019-04-06,Sewer Wastewater,39,2,2019,4,6
+2019-04-06,Traffic Signal Maintenance,35,3,2019,4,6
+2019-04-07,Traffic Signal Maintenance,192,1,2019,4,7
+2019-04-07,Street Hazard,120,2,2019,4,7
+2019-04-07,Tree Removal,36,3,2019,4,7
+2019-04-08,Traffic Signal Maintenance,129,1,2019,4,8
+2019-04-08,Container Problem,115,2,2019,4,8
+2019-04-08,Sewer Wastewater,107,3,2019,4,8
+2019-04-09,Container Problem,107,1,2019,4,9
+2019-04-09,Missed Garbage Pickup,98,2,2019,4,9
+2019-04-09,Traffic Signal Maintenance,85,3,2019,4,9
+2019-04-10,Missed Heavy Trash Pickup,93,1,2019,4,10
+2019-04-10,Traffic Signal Maintenance,78,2,2019,4,10
+2019-04-10,Nuisance On Property,71,3,2019,4,10
+2019-04-11,Missed Heavy Trash Pickup,180,1,2019,4,11
+2019-04-11,Container Problem,84,2,2019,4,11
+2019-04-11,Missed Garbage Pickup,75,3,2019,4,11
+2019-04-12,Missed Heavy Trash Pickup,154,1,2019,4,12
+2019-04-12,Missed Garbage Pickup,91,2,2019,4,12
+2019-04-12,Water Service,81,3,2019,4,12
+2019-04-13,Missed Heavy Trash Pickup,84,1,2019,4,13
+2019-04-13,Traffic Signal Maintenance,54,2,2019,4,13
+2019-04-13,Missed Garbage Pickup,46,3,2019,4,13
+2019-04-14,Traffic Signal Maintenance,41,1,2019,4,14
+2019-04-14,Missed Heavy Trash Pickup,38,2,2019,4,14
+2019-04-14,Sewer Wastewater,32,3,2019,4,14
+2019-04-15,Missed Heavy Trash Pickup,137,1,2019,4,15
+2019-04-15,Container Problem,89,2,2019,4,15
+2019-04-15,Missed Garbage Pickup,85,3,2019,4,15
+2019-04-16,Missed Heavy Trash Pickup,151,1,2019,4,16
+2019-04-16,Missed Garbage Pickup,132,2,2019,4,16
+2019-04-16,Container Problem,108,3,2019,4,16
+2019-04-17,Missed Heavy Trash Pickup,158,1,2019,4,17
+2019-04-17,Nuisance On Property,119,2,2019,4,17
+2019-04-17,Missed Garbage Pickup,95,3,2019,4,17
+2019-04-18,Missed Heavy Trash Pickup,188,1,2019,4,18
+2019-04-18,Traffic Signal Maintenance,170,2,2019,4,18
+2019-04-18,Street Hazard,118,3,2019,4,18
+2019-04-19,Missed Heavy Trash Pickup,169,1,2019,4,19
+2019-04-19,Missed Garbage Pickup,124,2,2019,4,19
+2019-04-19,Container Problem,59,3,2019,4,19
+2019-04-20,Missed Heavy Trash Pickup,61,1,2019,4,20
+2019-04-20,Missed Garbage Pickup,46,2,2019,4,20
+2019-04-20,Sewer Wastewater,34,3,2019,4,20
+2019-04-21,Traffic Signal Maintenance,36,1,2019,4,21
+2019-04-21,Sewer Wastewater,22,2,2019,4,21
+2019-04-21,Water Leak,16,3,2019,4,21
+2019-04-22,Missed Heavy Trash Pickup,179,1,2019,4,22
+2019-04-22,Container Problem,107,2,2019,4,22
+2019-04-22,Nuisance On Property,91,3,2019,4,22
+2019-04-23,Missed Heavy Trash Pickup,141,1,2019,4,23
+2019-04-23,Missed Garbage Pickup,111,2,2019,4,23
+2019-04-23,Container Problem,100,3,2019,4,23
+2019-04-24,Missed Heavy Trash Pickup,121,1,2019,4,24
+2019-04-24,Container Problem,67,2,2019,4,24
+2019-04-24,Sewer Wastewater,56,3,2019,4,24
+2019-04-25,Missed Heavy Trash Pickup,165,1,2019,4,25
+2019-04-25,Nuisance On Property,87,2,2019,4,25
+2019-04-25,Container Problem,85,3,2019,4,25
+2019-04-26,Missed Heavy Trash Pickup,168,1,2019,4,26
+2019-04-26,Missed Garbage Pickup,85,2,2019,4,26
+2019-04-26,Container Problem,67,3,2019,4,26
+2019-04-27,Missed Heavy Trash Pickup,58,1,2019,4,27
+2019-04-27,Missed Garbage Pickup,45,2,2019,4,27
+2019-04-27,Water Leak,33,3,2019,4,27
+2019-04-28,Missed Heavy Trash Pickup,45,1,2019,4,28
+2019-04-28,Sewer Wastewater,22,2,2019,4,28
+2019-04-28,Water Leak,19,3,2019,4,28
+2019-04-29,Missed Heavy Trash Pickup,166,1,2019,4,29
+2019-04-29,Container Problem,101,2,2019,4,29
+2019-04-29,Sewer Wastewater,85,3,2019,4,29
+2019-04-30,Container Problem,114,1,2019,4,30
+2019-04-30,Missed Heavy Trash Pickup,102,2,2019,4,30
+2019-04-30,Missed Garbage Pickup,98,3,2019,4,30
+2019-05-01,Missed Heavy Trash Pickup,86,1,2019,5,1
+2019-05-01,Nuisance On Property,72,2,2019,5,1
+2019-05-01,Traffic Signal Maintenance,70,3,2019,5,1
+2019-05-02,Missed Heavy Trash Pickup,98,1,2019,5,2
+2019-05-02,Missed Garbage Pickup,87,2,2019,5,2
+2019-05-02,Container Problem,77,3,2019,5,2
+2019-05-03,Missed Garbage Pickup,94,1,2019,5,3
+2019-05-03,Missed Heavy Trash Pickup,86,2,2019,5,3
+2019-05-03,Traffic Signal Maintenance,79,3,2019,5,3
+2019-05-04,Traffic Signal Maintenance,120,1,2019,5,4
+2019-05-04,Street Hazard,65,2,2019,5,4
+2019-05-04,Missed Garbage Pickup,46,3,2019,5,4
+2019-05-05,Traffic Signal Maintenance,33,1,2019,5,5
+2019-05-05,Missed Heavy Trash Pickup,28,2,2019,5,5
+2019-05-05,Sewer Wastewater,27,3,2019,5,5
+2019-05-06,Container Problem,114,1,2019,5,6
+2019-05-06,Missed Garbage Pickup,98,2,2019,5,6
+2019-05-06,Missed Heavy Trash Pickup,94,3,2019,5,6
+2019-05-07,Drainage,117,1,2019,5,7
+2019-05-07,Missed Heavy Trash Pickup,117,2,2019,5,7
+2019-05-07,Missed Garbage Pickup,91,3,2019,5,7
+2019-05-08,Traffic Signal Maintenance,171,1,2019,5,8
+2019-05-08,Drainage,113,2,2019,5,8
+2019-05-08,Missed Heavy Trash Pickup,109,3,2019,5,8
+2019-05-09,Storm Debris Collection,121,1,2019,5,9
+2019-05-09,Drainage,117,2,2019,5,9
+2019-05-09,Traffic Signal Maintenance,104,3,2019,5,9
+2019-05-10,Traffic Signal Maintenance,264,1,2019,5,10
+2019-05-10,Container Problem,215,2,2019,5,10
+2019-05-10,Street Hazard,204,3,2019,5,10
+2019-05-11,Traffic Signal Maintenance,71,1,2019,5,11
+2019-05-11,Street Hazard,50,2,2019,5,11
+2019-05-11,Sewer Wastewater,48,3,2019,5,11
+2019-05-12,Traffic Signal Maintenance,45,1,2019,5,12
+2019-05-12,Water Leak,27,2,2019,5,12
+2019-05-12,Sewer Wastewater,22,3,2019,5,12
+2019-05-13,Container Problem,178,1,2019,5,13
+2019-05-13,Sewer Wastewater,124,2,2019,5,13
+2019-05-13,Drainage,122,3,2019,5,13
+2019-05-14,Nuisance On Property,226,1,2019,5,14
+2019-05-14,Container Problem,137,2,2019,5,14
+2019-05-14,Missed Garbage Pickup,133,3,2019,5,14
+2019-05-15,Nuisance On Property,92,1,2019,5,15
+2019-05-15,Container Problem,89,2,2019,5,15
+2019-05-15,Flooding,88,3,2019,5,15
+2019-05-16,Container Problem,96,1,2019,5,16
+2019-05-16,Missed Heavy Trash Pickup,92,2,2019,5,16
+2019-05-16,Nuisance On Property,89,3,2019,5,16
+2019-05-17,Missed Garbage Pickup,115,1,2019,5,17
+2019-05-17,Container Problem,82,2,2019,5,17
+2019-05-17,Nuisance On Property,79,3,2019,5,17
+2019-05-18,Missed Garbage Pickup,71,1,2019,5,18
+2019-05-18,Sewer Wastewater,46,2,2019,5,18
+2019-05-18,Traffic Signal Maintenance,35,3,2019,5,18
+2019-05-19,Traffic Signal Maintenance,46,1,2019,5,19
+2019-05-19,Sewer Wastewater,30,2,2019,5,19
+2019-05-19,Heavy Trash Violation,22,3,2019,5,19
+2019-05-20,Water Leak,107,1,2019,5,20
+2019-05-20,Container Problem,103,2,2019,5,20
+2019-05-20,Missed Garbage Pickup,101,3,2019,5,20
+2019-05-21,Missed Garbage Pickup,146,1,2019,5,21
+2019-05-21,Nuisance On Property,107,2,2019,5,21
+2019-05-21,Container Problem,106,3,2019,5,21
+2019-05-22,Nuisance On Property,106,1,2019,5,22
+2019-05-22,Missed Heavy Trash Pickup,75,2,2019,5,22
+2019-05-22,Missed Recycling Pickup,72,3,2019,5,22
+2019-05-23,Nuisance On Property,90,1,2019,5,23
+2019-05-23,Container Problem,84,2,2019,5,23
+2019-05-23,Water Leak,74,3,2019,5,23
+2019-05-24,Missed Garbage Pickup,134,1,2019,5,24
+2019-05-24,Container Problem,72,2,2019,5,24
+2019-05-24,SWM Escalation,71,3,2019,5,24
+2019-05-25,Traffic Signal Maintenance,45,1,2019,5,25
+2019-05-25,Water Leak,38,2,2019,5,25
+2019-05-25,Sewer Wastewater,34,3,2019,5,25
+2019-05-26,Nuisance On Property,53,1,2019,5,26
+2019-05-26,Traffic Signal Maintenance,27,2,2019,5,26
+2019-05-26,Water Leak,19,3,2019,5,26
+2019-05-27,Nuisance On Property,45,1,2019,5,27
+2019-05-27,Water Leak,41,2,2019,5,27
+2019-05-27,Sewer Wastewater,27,3,2019,5,27
+2019-05-28,Nuisance On Property,100,1,2019,5,28
+2019-05-28,Container Problem,90,2,2019,5,28
+2019-05-28,SWM Escalation,87,3,2019,5,28
+2019-05-29,Missed Garbage Pickup,110,1,2019,5,29
+2019-05-29,Water Leak,104,2,2019,5,29
+2019-05-29,SWM Escalation,103,3,2019,5,29
+2019-05-30,Missed Garbage Pickup,137,1,2019,5,30
+2019-05-30,Container Problem,118,2,2019,5,30
+2019-05-30,Missed Recycling Pickup,101,3,2019,5,30
+2019-05-31,Missed Garbage Pickup,122,1,2019,5,31
+2019-05-31,Container Problem,105,2,2019,5,31
+2019-05-31,Missed Recycling Pickup,94,3,2019,5,31
+2019-06-01,Nuisance On Property,53,1,2019,6,1
+2019-06-01,Traffic Signal Maintenance,40,2,2019,6,1
+2019-06-01,Water Leak,33,3,2019,6,1
+2019-06-02,Heavy Trash Violation,42,1,2019,6,2
+2019-06-02,Water Leak,41,2,2019,6,2
+2019-06-02,Traffic Signal Maintenance,37,3,2019,6,2
+2019-06-03,Container Problem,103,1,2019,6,3
+2019-06-03,Water Leak,90,2,2019,6,3
+2019-06-03,SWM Escalation,84,3,2019,6,3
+2019-06-04,Missed Garbage Pickup,141,1,2019,6,4
+2019-06-04,Container Problem,128,2,2019,6,4
+2019-06-04,Drainage,94,3,2019,6,4
+2019-06-05,Traffic Signal Maintenance,123,1,2019,6,5
+2019-06-05,Drainage,110,2,2019,6,5
+2019-06-05,Sewer Wastewater,83,3,2019,6,5
+2019-06-06,Missed Garbage Pickup,102,1,2019,6,6
+2019-06-06,Container Problem,83,2,2019,6,6
+2019-06-06,Drainage,79,3,2019,6,6
+2019-06-07,Missed Garbage Pickup,107,1,2019,6,7
+2019-06-07,Nuisance On Property,81,2,2019,6,7
+2019-06-07,Container Problem,81,3,2019,6,7
+2019-06-08,Missed Heavy Trash Pickup,55,1,2019,6,8
+2019-06-08,Water Leak,33,2,2019,6,8
+2019-06-08,Traffic Signal Maintenance,27,3,2019,6,8
+2019-06-09,Traffic Signal Maintenance,43,1,2019,6,9
+2019-06-09,Nuisance On Property,43,2,2019,6,9
+2019-06-09,Water Leak,26,3,2019,6,9
+2019-06-10,Nuisance On Property,131,1,2019,6,10
+2019-06-10,Container Problem,108,2,2019,6,10
+2019-06-10,SWM Escalation,99,3,2019,6,10
+2019-06-11,Nuisance On Property,140,1,2019,6,11
+2019-06-11,Container Problem,130,2,2019,6,11
+2019-06-11,Missed Garbage Pickup,117,3,2019,6,11
+2019-06-12,Missed Heavy Trash Pickup,107,1,2019,6,12
+2019-06-12,Nuisance On Property,99,2,2019,6,12
+2019-06-12,Container Problem,75,3,2019,6,12
+2019-06-13,Nuisance On Property,147,1,2019,6,13
+2019-06-13,Missed Heavy Trash Pickup,135,2,2019,6,13
+2019-06-13,Container Problem,81,3,2019,6,13
+2019-06-14,Missed Heavy Trash Pickup,121,1,2019,6,14
+2019-06-14,Nuisance On Property,89,2,2019,6,14
+2019-06-14,Missed Garbage Pickup,88,3,2019,6,14
+2019-06-15,Missed Heavy Trash Pickup,72,1,2019,6,15
+2019-06-15,Traffic Signal Maintenance,51,2,2019,6,15
+2019-06-15,Water Leak,45,3,2019,6,15
+2019-06-16,Missed Heavy Trash Pickup,74,1,2019,6,16
+2019-06-16,Traffic Signal Maintenance,72,2,2019,6,16
+2019-06-16,Water Leak,33,3,2019,6,16
+2019-06-17,Missed Heavy Trash Pickup,114,1,2019,6,17
+2019-06-17,Traffic Signal Maintenance,108,2,2019,6,17
+2019-06-17,SWM Escalation,101,3,2019,6,17
+2019-06-18,Missed Heavy Trash Pickup,135,1,2019,6,18
+2019-06-18,Container Problem,118,2,2019,6,18
+2019-06-18,Missed Garbage Pickup,113,3,2019,6,18
+2019-06-19,Missed Heavy Trash Pickup,122,1,2019,6,19
+2019-06-19,Nuisance On Property,116,2,2019,6,19
+2019-06-19,Water Leak,80,3,2019,6,19
+2019-06-20,Missed Heavy Trash Pickup,180,1,2019,6,20
+2019-06-20,Nuisance On Property,107,2,2019,6,20
+2019-06-20,SWM Escalation,99,3,2019,6,20
+2019-06-21,Missed Heavy Trash Pickup,121,1,2019,6,21
+2019-06-21,Container Problem,101,2,2019,6,21
+2019-06-21,Missed Garbage Pickup,90,3,2019,6,21
+2019-06-22,Missed Heavy Trash Pickup,63,1,2019,6,22
+2019-06-22,Container Problem,30,2,2019,6,22
+2019-06-22,Missed Garbage Pickup,30,3,2019,6,22
+2019-06-23,Traffic Signal Maintenance,53,1,2019,6,23
+2019-06-23,Missed Heavy Trash Pickup,49,2,2019,6,23
+2019-06-23,Nuisance On Property,46,3,2019,6,23
+2019-06-24,Missed Heavy Trash Pickup,246,1,2019,6,24
+2019-06-24,Traffic Signal Maintenance,135,2,2019,6,24
+2019-06-24,Container Problem,119,3,2019,6,24
+2019-06-25,Container Problem,124,1,2019,6,25
+2019-06-25,Missed Garbage Pickup,118,2,2019,6,25
+2019-06-25,Missed Heavy Trash Pickup,88,3,2019,6,25
+2019-06-26,Missed Heavy Trash Pickup,103,1,2019,6,26
+2019-06-26,Nuisance On Property,95,2,2019,6,26
+2019-06-26,Missed Recycling Pickup,79,3,2019,6,26
+2019-06-27,Missed Heavy Trash Pickup,128,1,2019,6,27
+2019-06-27,Nuisance On Property,91,2,2019,6,27
+2019-06-27,Container Problem,90,3,2019,6,27
+2019-06-28,Missed Heavy Trash Pickup,109,1,2019,6,28
+2019-06-28,Missed Garbage Pickup,106,2,2019,6,28
+2019-06-28,Container Problem,104,3,2019,6,28
+2019-06-29,Missed Heavy Trash Pickup,89,1,2019,6,29
+2019-06-29,Traffic Signal Maintenance,65,2,2019,6,29
+2019-06-29,Missed Garbage Pickup,43,3,2019,6,29
+2019-06-30,Missed Heavy Trash Pickup,48,1,2019,6,30
+2019-06-30,Traffic Signal Maintenance,35,2,2019,6,30
+2019-06-30,Water Leak,30,3,2019,6,30
+2019-07-01,Missed Heavy Trash Pickup,170,1,2019,7,1
+2019-07-01,Nuisance On Property,167,2,2019,7,1
+2019-07-01,Container Problem,129,3,2019,7,1
+2019-07-02,Missed Heavy Trash Pickup,177,1,2019,7,2
+2019-07-02,Missed Garbage Pickup,147,2,2019,7,2
+2019-07-02,Missed Recycling Pickup,142,3,2019,7,2
+2019-07-03,Missed Heavy Trash Pickup,175,1,2019,7,3
+2019-07-03,Missed Garbage Pickup,94,2,2019,7,3
+2019-07-03,Nuisance On Property,82,3,2019,7,3
+2019-07-04,Traffic Signal Maintenance,46,1,2019,7,4
+2019-07-04,Nuisance On Property,29,2,2019,7,4
+2019-07-04,Water Leak,28,3,2019,7,4
+2019-07-05,Missed Heavy Trash Pickup,148,1,2019,7,5
+2019-07-05,Missed Garbage Pickup,81,2,2019,7,5
+2019-07-05,Water Leak,76,3,2019,7,5
+2019-07-06,Missed Garbage Pickup,90,1,2019,7,6
+2019-07-06,Missed Heavy Trash Pickup,48,2,2019,7,6
+2019-07-06,Nuisance On Property,46,3,2019,7,6
+2019-07-07,Parking Violation,57,1,2019,7,7
+2019-07-07,Missed Garbage Pickup,40,2,2019,7,7
+2019-07-07,Missed Heavy Trash Pickup,40,3,2019,7,7
+2019-07-08,Missed Heavy Trash Pickup,159,1,2019,7,8
+2019-07-08,Container Problem,116,2,2019,7,8
+2019-07-08,Missed Garbage Pickup,96,3,2019,7,8
+2019-07-09,Missed Heavy Trash Pickup,167,1,2019,7,9
+2019-07-09,Nuisance On Property,153,2,2019,7,9
+2019-07-09,Missed Garbage Pickup,150,3,2019,7,9
+2019-07-10,Missed Heavy Trash Pickup,183,1,2019,7,10
+2019-07-10,Missed Recycling Pickup,135,2,2019,7,10
+2019-07-10,Nuisance On Property,89,3,2019,7,10
+2019-07-11,Missed Heavy Trash Pickup,150,1,2019,7,11
+2019-07-11,Missed Recycling Pickup,87,2,2019,7,11
+2019-07-11,Container Problem,81,3,2019,7,11
+2019-07-12,Missed Garbage Pickup,121,1,2019,7,12
+2019-07-12,Missed Heavy Trash Pickup,119,2,2019,7,12
+2019-07-12,Missed Recycling Pickup,99,3,2019,7,12
+2019-07-13,Missed Heavy Trash Pickup,68,1,2019,7,13
+2019-07-13,Water Leak,46,2,2019,7,13
+2019-07-13,Missed Recycling Pickup,43,3,2019,7,13
+2019-07-14,Nuisance On Property,43,1,2019,7,14
+2019-07-14,Water Leak,38,2,2019,7,14
+2019-07-14,Unclassified 311 Web Request,31,3,2019,7,14
+2019-07-15,Missed Heavy Trash Pickup,127,1,2019,7,15
+2019-07-15,Container Problem,127,2,2019,7,15
+2019-07-15,Nuisance On Property,100,3,2019,7,15
+2019-07-16,Missed Garbage Pickup,131,1,2019,7,16
+2019-07-16,Missed Recycling Pickup,108,2,2019,7,16
+2019-07-16,Container Problem,102,3,2019,7,16
+2019-07-17,Nuisance On Property,117,1,2019,7,17
+2019-07-17,Missed Heavy Trash Pickup,98,2,2019,7,17
+2019-07-17,Container Problem,84,3,2019,7,17
+2019-07-18,Nuisance On Property,111,1,2019,7,18
+2019-07-18,Missed Heavy Trash Pickup,104,2,2019,7,18
+2019-07-18,Water Leak,90,3,2019,7,18
+2019-07-19,Missed Garbage Pickup,100,1,2019,7,19
+2019-07-19,Missed Heavy Trash Pickup,89,2,2019,7,19
+2019-07-19,Water Leak,87,3,2019,7,19
+2019-07-20,Missed Garbage Pickup,52,1,2019,7,20
+2019-07-20,Water Leak,32,2,2019,7,20
+2019-07-20,Sewer Wastewater,29,3,2019,7,20
+2019-07-21,Water Leak,41,1,2019,7,21
+2019-07-21,Traffic Signal Maintenance,33,2,2019,7,21
+2019-07-21,Heavy Trash Violation,21,3,2019,7,21
+2019-07-22,Nuisance On Property,130,1,2019,7,22
+2019-07-22,Missed Garbage Pickup,106,2,2019,7,22
+2019-07-22,Container Problem,102,3,2019,7,22
+2019-07-23,Container Problem,128,1,2019,7,23
+2019-07-23,Missed Garbage Pickup,106,2,2019,7,23
+2019-07-23,Nuisance On Property,88,3,2019,7,23
+2019-07-24,Container Problem,82,1,2019,7,24
+2019-07-24,Water Leak,68,2,2019,7,24
+2019-07-24,Missed Heavy Trash Pickup,67,3,2019,7,24
+2019-07-25,Nuisance On Property,81,1,2019,7,25
+2019-07-25,Traffic Signal Maintenance,75,2,2019,7,25
+2019-07-25,Water Leak,74,3,2019,7,25
+2019-07-26,Missed Garbage Pickup,114,1,2019,7,26
+2019-07-26,Water Leak,94,2,2019,7,26
+2019-07-26,Container Problem,79,3,2019,7,26
+2019-07-27,Water Leak,51,1,2019,7,27
+2019-07-27,Missed Garbage Pickup,46,2,2019,7,27
+2019-07-27,Traffic Signal Maintenance,40,3,2019,7,27
+2019-07-28,Water Leak,39,1,2019,7,28
+2019-07-28,Nuisance On Property,34,2,2019,7,28
+2019-07-28,Traffic Signal Maintenance,29,3,2019,7,28
+2019-07-29,Container Problem,97,1,2019,7,29
+2019-07-29,Water Leak,96,2,2019,7,29
+2019-07-29,Nuisance On Property,93,3,2019,7,29
+2019-07-30,Missed Recycling Pickup,157,1,2019,7,30
+2019-07-30,Missed Garbage Pickup,120,2,2019,7,30
+2019-07-30,Traffic Signal Maintenance,98,3,2019,7,30
+2019-07-31,Missed Recycling Pickup,100,1,2019,7,31
+2019-07-31,Missed Garbage Pickup,92,2,2019,7,31
+2019-07-31,Water Leak,90,3,2019,7,31
+2019-08-01,Container Problem,95,1,2019,8,1
+2019-08-01,Water Leak,87,2,2019,8,1
+2019-08-01,Missed Garbage Pickup,85,3,2019,8,1
+2019-08-02,Water Leak,89,1,2019,8,2
+2019-08-02,Missed Garbage Pickup,86,2,2019,8,2
+2019-08-02,Container Problem,78,3,2019,8,2
+2019-08-03,Water Leak,44,1,2019,8,3
+2019-08-03,Sewer Wastewater,31,2,2019,8,3
+2019-08-03,Water Service,30,3,2019,8,3
+2019-08-04,Water Leak,35,1,2019,8,4
+2019-08-04,Traffic Signal Maintenance,30,2,2019,8,4
+2019-08-04,Dead Animal Collection,22,3,2019,8,4
+2019-08-05,Container Problem,97,1,2019,8,5
+2019-08-05,Water Leak,86,2,2019,8,5
+2019-08-05,Nuisance On Property,84,3,2019,8,5
+2019-08-06,Missed Garbage Pickup,123,1,2019,8,6
+2019-08-06,Container Problem,106,2,2019,8,6
+2019-08-06,Water Leak,87,3,2019,8,6
+2019-08-07,Nuisance On Property,92,1,2019,8,7
+2019-08-07,Water Leak,85,2,2019,8,7
+2019-08-07,Container Problem,73,3,2019,8,7
+2019-08-08,Water Leak,93,1,2019,8,8
+2019-08-08,Container Problem,80,2,2019,8,8
+2019-08-08,Missed Heavy Trash Pickup,77,3,2019,8,8
+2019-08-09,Missed Garbage Pickup,111,1,2019,8,9
+2019-08-09,Container Problem,94,2,2019,8,9
+2019-08-09,Nuisance On Property,89,3,2019,8,9
+2019-08-10,Traffic Signal Maintenance,49,1,2019,8,10
+2019-08-10,Water Leak,48,2,2019,8,10
+2019-08-10,Missed Garbage Pickup,44,3,2019,8,10
+2019-08-11,Water Leak,33,1,2019,8,11
+2019-08-11,Water Quality,28,2,2019,8,11
+2019-08-11,Traffic Signal Maintenance,26,3,2019,8,11
+2019-08-12,Container Problem,111,1,2019,8,12
+2019-08-12,Water Leak,109,2,2019,8,12
+2019-08-12,Nuisance On Property,90,3,2019,8,12
+2019-08-13,Missed Garbage Pickup,129,1,2019,8,13
+2019-08-13,Missed Recycling Pickup,123,2,2019,8,13
+2019-08-13,Container Problem,101,3,2019,8,13
+2019-08-14,Water Leak,97,1,2019,8,14
+2019-08-14,Traffic Signal Maintenance,82,2,2019,8,14
+2019-08-14,Missed Recycling Pickup,79,3,2019,8,14
+2019-08-15,Traffic Signal Maintenance,128,1,2019,8,15
+2019-08-15,Water Leak,113,2,2019,8,15
+2019-08-15,Missed Heavy Trash Pickup,81,3,2019,8,15
+2019-08-16,Water Leak,114,1,2019,8,16
+2019-08-16,Missed Garbage Pickup,112,2,2019,8,16
+2019-08-16,Container Problem,86,3,2019,8,16
+2019-08-17,Water Leak,53,1,2019,8,17
+2019-08-17,Traffic Signal Maintenance,38,2,2019,8,17
+2019-08-17,Missed Recycling Pickup,27,3,2019,8,17
+2019-08-18,Water Leak,35,1,2019,8,18
+2019-08-18,Traffic Signal Maintenance,30,2,2019,8,18
+2019-08-18,Sewer Wastewater,22,3,2019,8,18
+2019-08-19,Container Problem,98,1,2019,8,19
+2019-08-19,Water Leak,95,2,2019,8,19
+2019-08-19,Nuisance On Property,78,3,2019,8,19
+2019-08-20,Missed Garbage Pickup,100,1,2019,8,20
+2019-08-20,Container Problem,97,2,2019,8,20
+2019-08-20,Water Leak,79,3,2019,8,20
+2019-08-21,Nuisance On Property,99,1,2019,8,21
+2019-08-21,Container Problem,84,2,2019,8,21
+2019-08-21,Missed Garbage Pickup,79,3,2019,8,21
+2019-08-22,Water Leak,95,1,2019,8,22
+2019-08-22,Container Problem,89,2,2019,8,22
+2019-08-22,Traffic Signal Maintenance,60,3,2019,8,22
+2019-08-23,Missed Garbage Pickup,89,1,2019,8,23
+2019-08-23,Container Problem,81,2,2019,8,23
+2019-08-23,Nuisance On Property,74,3,2019,8,23
+2019-08-24,Missed Garbage Pickup,43,1,2019,8,24
+2019-08-24,Water Leak,38,2,2019,8,24
+2019-08-24,Missed Recycling Pickup,35,3,2019,8,24
+2019-08-25,Traffic Signal Maintenance,40,1,2019,8,25
+2019-08-25,Water Leak,34,2,2019,8,25
+2019-08-25,Sewer Wastewater,31,3,2019,8,25
+2019-08-26,Water Leak,99,1,2019,8,26
+2019-08-26,Nuisance On Property,90,2,2019,8,26
+2019-08-26,Container Problem,88,3,2019,8,26
+2019-08-27,Missed Recycling Pickup,130,1,2019,8,27
+2019-08-27,Water Leak,107,2,2019,8,27
+2019-08-27,Missed Garbage Pickup,99,3,2019,8,27
+2019-08-28,Traffic Signal Maintenance,141,1,2019,8,28
+2019-08-28,Nuisance On Property,111,2,2019,8,28
+2019-08-28,Street Hazard,103,3,2019,8,28
+2019-08-29,Traffic Signal Maintenance,142,1,2019,8,29
+2019-08-29,Water Leak,88,2,2019,8,29
+2019-08-29,Container Problem,86,3,2019,8,29
+2019-08-30,Missed Garbage Pickup,92,1,2019,8,30
+2019-08-30,Water Leak,82,2,2019,8,30
+2019-08-30,Container Problem,74,3,2019,8,30
+2019-08-31,Missed Recycling Pickup,44,1,2019,8,31
+2019-08-31,Water Leak,42,2,2019,8,31
+2019-08-31,Traffic Signal Maintenance,31,3,2019,8,31
+2019-09-01,Water Leak,44,1,2019,9,1
+2019-09-01,Traffic Signal Maintenance,37,2,2019,9,1
+2019-09-01,Sewer Wastewater,33,3,2019,9,1
+2019-09-02,Nuisance On Property,41,1,2019,9,2
+2019-09-02,Sewer Wastewater,33,2,2019,9,2
+2019-09-02,Traffic Signal Maintenance,32,3,2019,9,2
+2019-09-03,Container Problem,113,1,2019,9,3
+2019-09-03,Water Leak,104,2,2019,9,3
+2019-09-03,Water Service,83,3,2019,9,3
+2019-09-04,Nuisance On Property,120,1,2019,9,4
+2019-09-04,Missed Garbage Pickup,112,2,2019,9,4
+2019-09-04,Container Problem,100,3,2019,9,4
+2019-09-05,Container Problem,105,1,2019,9,5
+2019-09-05,Missed Recycling Pickup,93,2,2019,9,5
+2019-09-05,Nuisance On Property,92,3,2019,9,5
+2019-09-06,Missed Recycling Pickup,130,1,2019,9,6
+2019-09-06,Missed Garbage Pickup,100,2,2019,9,6
+2019-09-06,Container Problem,83,3,2019,9,6
+2019-09-07,Water Leak,49,1,2019,9,7
+2019-09-07,Missed Recycling Pickup,44,2,2019,9,7
+2019-09-07,Sewer Wastewater,37,3,2019,9,7
+2019-09-08,Water Leak,50,1,2019,9,8
+2019-09-08,Traffic Signal Maintenance,27,2,2019,9,8
+2019-09-08,Sewer Wastewater,19,3,2019,9,8
+2019-09-09,Nuisance On Property,101,1,2019,9,9
+2019-09-09,Water Leak,97,2,2019,9,9
+2019-09-09,Container Problem,79,3,2019,9,9
+2019-09-10,Missed Garbage Pickup,123,1,2019,9,10
+2019-09-10,Traffic Signal Maintenance,110,2,2019,9,10
+2019-09-10,Water Leak,105,3,2019,9,10
+2019-09-11,Traffic Signal Maintenance,79,1,2019,9,11
+2019-09-11,Missed Garbage Pickup,77,2,2019,9,11
+2019-09-11,Water Leak,69,3,2019,9,11
+2019-09-12,Water Leak,95,1,2019,9,12
+2019-09-12,Traffic Signal Maintenance,79,2,2019,9,12
+2019-09-12,Missed Garbage Pickup,68,3,2019,9,12
+2019-09-13,Missed Garbage Pickup,99,1,2019,9,13
+2019-09-13,Water Leak,86,2,2019,9,13
+2019-09-13,Container Problem,71,3,2019,9,13
+2019-09-14,Water Leak,45,1,2019,9,14
+2019-09-14,Missed Garbage Pickup,41,2,2019,9,14
+2019-09-14,Sewer Wastewater,36,3,2019,9,14
+2019-09-15,Water Leak,57,1,2019,9,15
+2019-09-15,Sewer Wastewater,37,2,2019,9,15
+2019-09-15,Traffic Signal Maintenance,27,3,2019,9,15
+2019-09-16,Water Leak,114,1,2019,9,16
+2019-09-16,Missed Garbage Pickup,88,2,2019,9,16
+2019-09-16,Nuisance On Property,75,3,2019,9,16
+2019-09-17,Traffic Signal Maintenance,137,1,2019,9,17
+2019-09-17,Missed Garbage Pickup,104,2,2019,9,17
+2019-09-17,Nuisance On Property,100,3,2019,9,17
+2019-09-18,Traffic Signal Maintenance,164,1,2019,9,18
+2019-09-18,Sewer Wastewater,104,2,2019,9,18
+2019-09-18,Street Hazard,98,3,2019,9,18
+2019-09-19,Drainage,168,1,2019,9,19
+2019-09-19,Flooding,162,2,2019,9,19
+2019-09-19,Container Problem,147,3,2019,9,19
+2019-09-20,Container Problem,355,1,2019,9,20
+2019-09-20,Traffic Signal Maintenance,217,2,2019,9,20
+2019-09-20,Recycling Cart Repair or Replace,138,3,2019,9,20
+2019-09-21,Container Problem,104,1,2019,9,21
+2019-09-21,Traffic Signal Maintenance,89,2,2019,9,21
+2019-09-21,Missed Garbage Pickup,78,3,2019,9,21
+2019-09-22,Drainage,53,1,2019,9,22
+2019-09-22,Container Problem,53,2,2019,9,22
+2019-09-22,Traffic Signal Maintenance,47,3,2019,9,22
+2019-09-23,Container Problem,252,1,2019,9,23
+2019-09-23,Drainage,134,2,2019,9,23
+2019-09-23,Storm Debris Collection,122,3,2019,9,23
+2019-09-24,Container Problem,174,1,2019,9,24
+2019-09-24,Nuisance On Property,155,2,2019,9,24
+2019-09-24,Missed Garbage Pickup,121,3,2019,9,24
+2019-09-25,Water Leak,116,1,2019,9,25
+2019-09-25,Container Problem,115,2,2019,9,25
+2019-09-25,Drainage,92,3,2019,9,25
+2019-09-26,Flooding,150,1,2019,9,26
+2019-09-26,Container Problem,140,2,2019,9,26
+2019-09-26,Nuisance On Property,90,3,2019,9,26
+2019-09-27,Container Problem,106,1,2019,9,27
+2019-09-27,Missed Garbage Pickup,96,2,2019,9,27
+2019-09-27,Nuisance On Property,76,3,2019,9,27
+2019-09-28,Sewer Wastewater,39,1,2019,9,28
+2019-09-28,Water Leak,36,2,2019,9,28
+2019-09-28,Traffic Signal Maintenance,32,3,2019,9,28
+2019-09-29,Water Leak,47,1,2019,9,29
+2019-09-29,Sewer Wastewater,25,2,2019,9,29
+2019-09-29,Container Problem,25,3,2019,9,29
+2019-09-30,Nuisance On Property,100,1,2019,9,30
+2019-09-30,Container Problem,98,2,2019,9,30
+2019-09-30,Water Leak,85,3,2019,9,30

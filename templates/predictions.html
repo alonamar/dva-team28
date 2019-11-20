@@ -1,0 +1,46 @@
+{% extends "layout.html" %}
+{% block title %}Prediction{% endblock %}
+{% block body %}
+    {{ super() }}
+    <script type="text/javascript" src="/static/js/predictions.js"></script>
+
+    <div class="ui container">
+        <h1 class="ui header center aligned">Overdue Prediction</h1>
+        <form class="ui equal width form" method="post">
+            {{ predForm.hidden_tag() }}
+            {% for form_row in predForm.getDict() | batch(4) %}
+                <div class="fields">
+                    {% for key in form_row %}
+                        <div class="field">
+                            {{ predForm[key].label }}
+                            {{ predForm[key]() }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endfor %}
+            <div>{{ predForm.submit(class_="ui submit button") }}</div>
+        </form>
+        <div id="answer">
+            <strong>Answer:</strong> {{ answer[0] }} <br>
+            {{ answer[1] }}
+        </div>
+        <h4 class="ui horizontal divider">Or</h4>
+        <form class="ui equal width form" method="post" enctype="multipart/form-data">
+            {{ fileForm.hidden_tag() }}
+            {% for key in fileForm.getDict() %}
+                <div class="field">
+                    {{ fileForm[key].label }}
+                    {{ fileForm[key]() }}
+                </div>
+            {% endfor %}
+            <div>{{ fileForm.submit(class_="ui submit button") }}</div>
+        {% if file_link != "" %}
+            <br>
+            <a download="results.csv" href="{{ file_link }}" target="_blank">Download Results</a>
+        {% endif %}
+        </form>
+    </div>
+{% endblock %}
+
+
+

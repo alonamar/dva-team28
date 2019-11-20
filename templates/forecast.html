@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+{% block title %}Forecasting{% endblock %}
+
+{% block body %}
+    {{ super() }}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js"></script>
+    <script>
+    $(document).ready(function(){
+    $('.ui.dropdown').dropdown();
+});
+
+    </script>
+
+
+
+    <form class="ui equal width form" method="post">
+        {{ foreForm.hidden_tag() }}
+        <div class="fields">
+            <div class="field">
+                {{ foreForm['page'].label }}
+                {{ foreForm['page']() }}
+            </div>
+        </div>
+    </form>
+
+
+    <iframe src="{{ iframe }}"></iframe>
+
+{% endblock %}
+

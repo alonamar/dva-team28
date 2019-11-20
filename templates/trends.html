@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block title %}Trend Analysis{% endblock %}
+
+{% block body %}
+    {{ super() }}
+    <link rel="stylesheet" href="/static/css/houston311_Trend.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="module" src="/static/js/genD3.js"></script>
+
+    <div id="d3Container" class="ui container"></div>
+
+{% endblock %}
+
+
+

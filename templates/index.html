@@ -1,0 +1,67 @@
+{% extends "layout.html" %}
+{% block title %}Home{% endblock %}
+{% block body %}
+    <script type="text/javascript" src="/static/js/index.js"></script>
+    {{ super() }}
+    <div class="ui main container">
+        <h1 class="ui header centered">Houston311 Interactive Dashboard</h1>
+        <h3 class="ui header centered">Interactive Visualization to analyze and predict patterns in 311 data for better
+            optimization of services, resource planning and to improve customer satisfaction.</h3>
+        <div id="index" class="ui centered very relaxed grid">
+            <div class="row">
+                <div class="three wide column">
+                    <a href="{{url_for('exploratory')}}" class="ui medium centered image" >
+                        <img src="/static/img/explorative_analysis.png">
+                        <h3 class="ui header subHeader" style="color: #2e75b5;">Exploratory Analysis</h3>
+                    </a>
+                </div>
+                <div class="three wide column">
+                    <a href="{{url_for('trends')}}" class="ui medium centered image" >
+                        <img src="/static/img/trend_analysis.png">
+                        <h3 class="ui header subHeader" style="color: #eb223d;">Trend Analysis</h3>
+                    </a>
+                </div>
+                <div class="three wide column">
+                    <a href="{{url_for('forecast')}}" class="ui medium centered image" >
+                        <img src="/static/img/forecasting.png">
+                        <h3 class="ui header subHeader" style="color: #7fb34c;">Forecasting</h3>
+                    </a>
+                </div>
+                <div class="three wide column">
+                    <a href="{{ url_for('predictions') }}" class="ui medium centered image" >
+                        <img src="/static/img/prediction.png">
+                        <h3 class="ui header subHeader" style="color: #ffbf00;">Prediction</h3>
+                    </a>
+                </div>
+            </div>
+            <div class="row subrow">
+                <div class="three wide column">
+                    <p class="ui subHeader">
+                        Provides the current insights to the total volume of tickets created over the period of three
+                        years for different Service Type
+                    </p>
+                </div>
+                <div class="three wide column">
+                    <p class="ui subHeader">
+                        Trend of ticket volume
+                    </p>
+                </div>
+                <div class="three wide column">
+                    <p class="ui subHeader">
+                        Forecast by Division for total volume of tickets for upcoming six months to plan resources and
+                        activities ahead of time
+                    </p>
+                </div>
+                <div class="three wide column">
+                    <p class="ui subHeader">
+                        Interactive tool for 311 Customers and 311 Houston Management to predict the service ticket
+                        resolution time
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+
+
