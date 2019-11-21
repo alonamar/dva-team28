@@ -2,11 +2,9 @@
 {% block title %}Prediction{% endblock %}
 {% block body %}
     {{ super() }}
-    <script type="text/javascript" src="/static/js/predictions.js"></script>
-
     <div class="ui container">
         <h1 class="ui header center aligned">Overdue Prediction</h1>
-        <form class="ui equal width form" method="post">
+        <form id='pred' class="ui equal width form" method="post">
             {{ predForm.hidden_tag() }}
             {% for form_row in predForm.getDict() | batch(4) %}
                 <div class="fields">
@@ -34,10 +32,10 @@
                 </div>
             {% endfor %}
             <div>{{ fileForm.submit(class_="ui submit button") }}</div>
-        {% if file_link != "" %}
-            <br>
-            <a download="results.csv" href="{{ file_link }}" target="_blank">Download Results</a>
-        {% endif %}
+            {% if file_link != "" %}
+                <br>
+                <a download="results.csv" href="{{ file_link }}" target="_blank">Download Results</a>
+            {% endif %}
         </form>
     </div>
 {% endblock %}
