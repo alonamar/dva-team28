@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, url_for, request
 from config import Config
 import predict
-from forms import PredictForm, PredictFile, ForecastForm
+from forms import PredictForm, PredictFile, ForecastForm, getChoices, sr_names
 
 app = Flask(__name__)
 app.config.from_object(Config)
@@ -16,6 +16,7 @@ def index():
 @app.route('/predictions', methods=['GET', 'POST'])
 def predictions():
     predForm = PredictForm()
+    predForm['SR_TYPE'].choices = getChoices(sr_names)
     fileForm = PredictFile()
     answer = request.args.getlist("answer") or ""
     file_link = request.args.get("file_link") or ""
