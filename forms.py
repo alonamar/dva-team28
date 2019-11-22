@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import StringField, FloatField, SubmitField, SelectField
+from wtforms import BooleanField, FloatField, SubmitField, SelectField
 from flask_wtf.file import FileField, FileRequired, FileAllowed
 from wtforms.validators import DataRequired, InputRequired
 from os import listdir
@@ -8,7 +8,7 @@ forecast_pages = listdir('templates/forecast')
 
 
 def getPages():
-    choices = [("", 'SR Type')]
+    choices = [("", 'Division')]
     for page in forecast_pages:
         name = page[:-5]
         choices.append((name, name))
@@ -60,26 +60,19 @@ class PredictForm(FlaskForm):
     DISTRICT = SelectField('District', choices=getChoices(dist_names))
     DEPARTMENT = SelectField('Department', choices=getChoices(dep_names))
     DIVISION = SelectField('Division', choices=getChoices(div_names))
-    SR_TYPE = SelectField('SR Type', choices=[], validators=[DataRequired()])
+    SR_TYPE = SelectField('Service Request', choices=[], validators=[DataRequired()])
     QUEUE = SelectField('Queue', choices=getChoices(queue_names))
-    # DISTRICT = StringField('District')
-    # DEPARTMENT = StringField('Department')
-    # DIVISION = StringField('Division')
-    # SR_TYPE = StringField('SR Type', validators=[DataRequired()])
-    # QUEUE = StringField('Queue')
-    # Channel_Type = StringField('Channel Type')
-    # eventType = StringField('Event Type')
-    SLA = FloatField('SLA', validators=[InputRequired()], render_kw={'type':'number', 'step':'any'})
+    SLA = FloatField('SLA (Days)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
     LATITUDE = FloatField('Latitude', validators=[InputRequired()],
                           render_kw={'type':'number', 'step':'any', 'max':'31', 'min':'29'})
     LONGITUDE = FloatField('Longitude', validators=[InputRequired()],
                            render_kw={'type':'number', 'step':'any', 'max':'-94', 'min':'-96'})
     Channel_Type = SelectField('Channel Type', choices=getChoices(channel_names))
-    weatherflag = FloatField('Weather Flag', validators=[InputRequired()], render_kw={'type':'number', 'step':'any'})
     eventType = SelectField('Event Type', choices=getChoices(event_names))
-    Nearest_facility = FloatField('Nearest facility', validators=[InputRequired()], render_kw={'type':'number', 'step':'any'})
-    disnearestpolst = FloatField('Nearest Police Station', validators=[InputRequired()], render_kw={'type':'number', 'step':'any'})
-    polStLessThan2km = FloatField('Police Station less than 2km', validators=[InputRequired()], render_kw={'type':'number', 'step':'any'})
+    Nearest_facility = FloatField('Nearest facility (km)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
+    disnearestpolst = FloatField('Nearest Police Station (km)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
+    weatherflag = BooleanField('Weather Flag')
+    polStLessThan2km = BooleanField('Police Station less than 2km')
     submit = SubmitField('Predict')
 
     def getDict(self):
@@ -98,7 +91,7 @@ class PredictFile(FlaskForm):
 
 
 class ForecastForm(FlaskForm):
-    page = SelectField('Select Call Type',
+    page = SelectField('Select Division',
                        choices=getPages(),
                        render_kw={'class': 'ui dropdown',
                                   'onchange': 'this.form.submit(); getLoader()'})

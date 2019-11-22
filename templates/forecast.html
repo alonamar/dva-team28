@@ -15,7 +15,19 @@
         }
     </script>
 
+    <h1 class="ui header centered">
+        <div class="content">
+            Forecasting
+            <div class="sub header">
+                This dashboard displays ticket volume by division in the past and the forecasted ticket volumes in the future.<br>
+                The graphic contains tooltips for further details on the presented data.
+            </div>
+        </div>
+    </h1>
 
+    <a download="forecast.pdf" href="/static/data/division_model_forecast_plots.pdf" target="_blank">
+        Download Full Forecast Plots
+    </a>
 
     <form class="ui equal width form" method="post">
         {{ foreForm.hidden_tag() }}
