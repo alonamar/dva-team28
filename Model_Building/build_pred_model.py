@@ -6,32 +6,21 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.linear_model import LogisticRegression
 from sklearn import linear_model
-from joblib import dump
+from joblib import dump, load
 import sys
 import matplotlib.pyplot as plt
 from sklearn.model_selection import validation_curve
 
 from sklearn.neighbors import KNeighborsClassifier
-from sklearn.svm import SVC
-from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.gaussian_process.kernels import RBF
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier
-from sklearn.naive_bayes import GaussianNB
-from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.neural_network import MLPClassifier
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import confusion_matrix
-#from sklearn.metrics import plot_roc_curve
 import scikitplot as skplt
 
 cols_names = [
-    'DISTRICT',  # - cat
-    # 'TRASH QUAD',  # - cat
-    # 'RECYCLE QUAD',  # - cat
-    # 'TRASH DAY',  # - cat
-    # 'HEAVY TRASH.DAY',  # - cat
-    # 'RECYCLE DAY',  # - cat
+    'DISTRICT',
     'DEPARTMENT',  # - cat
     'DIVISION',  # - cat
     'SR_TYPE',  # - cat
@@ -44,7 +33,6 @@ cols_names = [
     'weatherflag',  # - num
     'eventType',  # - cat
     'Nearest_facility',  # - num
-    'disnearestpolst',  # - num
     'polStLessThan2km'  # - num
 ]
 
@@ -107,18 +95,21 @@ def pca_data(X_train, X_test):
 #run classifiers
 def classify(X_train, X_test, y_train, y_test, clf, key):
     clf.fit(X_train, y_train)
+    show_res(clf, X_test, y_test, key)
+    return
+
+
+def show_res(clf, X_test, y_test, key):
     print("####################################")
     print(clf)
     print(str(clf.score(X_test, y_test)))
     print("####################################")
-    if key=='logReg':
+    if key == 'logReg':
         print(confusion_matrix(y_test, clf.predict(X_test)))
         skplt.metrics.plot_roc_curve(y_test, clf.predict_proba(X_test))
-        plt.savefig("roc_curve.png", dpi=300)
+        plt.savefig(clf.__module__ + "roc_curve.png", dpi=300)
         plt.show()
-    dump(clf, '../joblib/' + key + 'Clf.joblib')
-    return
-
+    dump(clf, '../joblib/' + clf.__module__ + 'Clf.joblib')
 
 def plot_curve(plot_method, train_scores, test_scores, param_range, title, xlabel, ylim=None):
     train_scores_mean = np.mean(train_scores, axis=1)
@@ -142,10 +133,29 @@ def plot_curve(plot_method, train_scores, test_scores, param_range, title, xlabe
     plt.savefig(fileName, dpi=300)
 
 
+def tune_clf(tuned_parameters, X_train, y_train, clf):
+    print("####################################")
+    print(clf.__module__)
+    print("####################################")
+    X, y = X_train, y_train
+    gridClf = GridSearchCV(clf, tuned_parameters, n_jobs=-1)
+    gridClf.fit(X, y)
+    print(gridClf.best_params_)
+    return gridClf.best_estimator_
+
+'''
+this code takes the 3 datasets as input and finds the best clasiffiers
+while providing the graphs and results
+'''
 def run():
+
     files = [sys.argv[1], sys.argv[2], sys.argv[3]]  # "../data/Merged_Houston311_Storm_rec_2019.csv"
     data = clean_data(files, cols_names)
     data = preprocessing_data(data)
+
+    ### change to tune the classifieres
+    tune = False
+    val_curve = False
 
     keys = ['logReg', 'sgdReg']
     X = data.drop(columns='OVERDUE')
@@ -161,51 +171,54 @@ def run():
     X_train, X_test = standard_data(X_train, X_test)
     X_train, X_test = pca_data(X_train, X_test)
 
-    clf = {'sgdReg': [linear_model.RidgeCV(alphas=np.logspace(-6, 6, 13))],
-                      #   linear_model.SGDRegressor(max_iter=5000, loss='huber'),
-                      # linear_model.Lasso(alpha=0.1)],
-           'logReg': [#LogisticRegression(solver='lbfgs'),
-                        #KNeighborsClassifier(3),
-                        # SVC(kernel="linear", C=0.025),
-                        # SVC(gamma=2, C=1),
-                        # GaussianProcessClassifier(1.0 * RBF(1.0)),
-                        #DecisionTreeClassifier(max_depth=5),
-                        #RandomForestClassifier(max_depth=5, n_estimators=10, max_features=1),
-                        MLPClassifier(alpha=1, solver='sgd')]}#,
-                        #AdaBoostClassifier(),
-                        #GaussianNB(),
-                        #QuadraticDiscriminantAnalysis(),
-                        # linear_model.SGDClassifier(max_iter=5000, loss='huber')]}
+    clf = {'sgdReg': [linear_model.RidgeCV(alphas=(0.001, 1, 1000)),
+                      linear_model.SGDRegressor(max_iter=5000, loss='huber', penalty='l1'),
+                      linear_model.Lasso(alpha=0.3)],
+            'logReg': [LogisticRegression(solver='lbfgs', multi_class='ovr'),
+                        KNeighborsClassifier(3),
+                        DecisionTreeClassifier(max_depth=5),
+                        RandomForestClassifier(max_depth=5, n_estimators=10, max_features=1),
+                        MLPClassifier(alpha=1, solver='sgd'),
+                        linear_model.SGDClassifier(max_iter=5000, loss='huber')]}
 
-    # tuned_parameters =  {
-    #                         'hidden_layer_sizes': [(50,50,50), (50,100,50), (100,)],
-    #                         'activation': ['tanh', 'relu'],
-    #                         'solver': ['sgd'],
-    #                         'alpha': [1],
-    #                         'learning_rate': ['constant','adaptive'],
-    #                     }
-    # # tuned_parameters = {'hidden_layer_sizes': [(5,), (10,), (5, 2), (10, 5)]}#,
-    #                           # 'solver': ['lbfgs', 'sgd', 'adam'],
-    #                           # 'alpha': [1e-3, 1e-2, 1e-1, 1, 10]}
-    # param_range = {'range': ['lbfgs', 'sgd', 'adam'], 'param': 'solver', "plot": plt.semilogx}
-    # #{'range': [(5,), (10,), (5, 2), (10, 5)], 'param': 'hidden_layer_sizes', "plot": plt.semilogx}
-    # #{'range': [1e-3, 1e-2, 1e-1, 1, 10], 'param': 'alpha', "plot": plt.semilogx}
-    #
-    # X, y = X_train, y_train['logReg']
-    # gridClf = GridSearchCV(clf['logReg'][0], tuned_parameters, n_jobs=-1)
-    # gridClf.fit(X, y)
-    # print(gridClf.best_params_)
-    # nnClf = gridClf.best_estimator_
+    tuned_parameters = {'sgdReg':[{'alphas': [(0.1, 1.0, 10.0), (0.01, 10, 100), (0.001, 1, 1000)]},
+                                  {'loss': ['squared_loss', 'huber', 'epsilon_insensitive'], 'penalty': ['l1', 'l2']},
+                                  {'alpha': [0.3, 0.5, 1]}],
+                        'logReg': [#{'C': [0.01, 1, 100], 'solver': ['lbfgs', 'liblinear']},
+                            {'n_neighbors': range(3, 50, 5), 'weights': ['uniform', 'distance']},
+                            {'max_features': np.linspace(0.1,1,10), 'max_depth': range(5, 50, 12)},
+                            {'n_estimators': [10, 50, 100], 'max_depth': [None, 2, 6]},
+                            {'solver': ['lbfgs', 'sgd', 'adam'], 'alpha': [1e-3, 1e-2, 1e-1, 1, 10]},
+                            {'penalty': ['l1', 'l2'], 'loss': ['hinge', 'modified_huber', 'log']}
+                        ]}
 
-    # myRange = param_range['range']
-    # param = param_range['param']
-    # train_scores, test_scores = validation_curve(clf['logReg'][0], X, y, param, myRange, n_jobs=-1)
-    # title = "Validation Curve"
-    # plot_curve(param_range['plot'], train_scores, test_scores, myRange, title, param)
+    clf = {'sgdReg': [linear_model.RidgeCV(alphas=(0.001, 1, 1000))], 'logReg': [MLPClassifier(alpha=1, solver='sgd')]}
 
-    for k in keys:
-        for clf_cl in clf[k]:
-            classify(X_train, X_test, y_train[k], y_test[k], clf_cl, k)
+    if tune:
+        ## tunning
+        tuned_clf = {'sgdReg': [], 'logReg': []}
+        for k in keys:
+            for tune, clfLog in zip(tuned_parameters[k], clf[k]):
+                tuned_clf[k].append(tune_clf(tune, X_train, y_train['logReg'], clfLog))
+        for k in keys:
+            for clf_cl in tuned_clf[k]:
+                show_res(clf_cl, X_test, y_test[k], k)
+    else:
+        for k in keys:
+            for clf_cl in clf[k]:
+                classify(X_train, X_test, y_train[k], y_test[k], clf_cl, k)
+
+
+    if val_curve:
+        param_range = [{'range': ['lbfgs', 'sgd', 'adam'], 'param': 'solver', "plot": plt.semilogx},
+                      {'range': [1e-3, 1e-2, 1e-1, 1, 10], 'param': 'alpha', "plot": plt.semilogx}]
+        nnClf = load('../joblib/sklearn.neural_network.multilayer_perceptronClf.joblib')
+        for par_range in param_range:
+            myRange = par_range['range']
+            param = par_range['param']
+            train_scores, test_scores = validation_curve(nnClf, X, y['logReg'], param, myRange, n_jobs=-1)
+            title = "Validation Curve"
+            plot_curve(par_range['plot'], train_scores, test_scores, myRange, title, param)
 
 
 if __name__ == '__main__':
