@@ -1,5 +1,5 @@
 from flask_wtf import FlaskForm
-from wtforms import BooleanField, FloatField, SubmitField, SelectField
+from wtforms import BooleanField, FloatField, SubmitField, SelectField, StringField
 from flask_wtf.file import FileField, FileRequired, FileAllowed
 from wtforms.validators import DataRequired, InputRequired
 from os import listdir
@@ -62,15 +62,14 @@ class PredictForm(FlaskForm):
     DIVISION = SelectField('Division', choices=getChoices(div_names))
     SR_TYPE = SelectField('Service Request', choices=[], validators=[DataRequired()])
     QUEUE = SelectField('Queue', choices=getChoices(queue_names))
-    SLA = FloatField('SLA (Days)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
+    SLA = StringField('SLA (Days)', render_kw={'type':'number', 'step':'any', 'min':0}) #  , validators=[InputRequired()])
     LATITUDE = FloatField('Latitude', validators=[InputRequired()],
                           render_kw={'type':'number', 'step':'any', 'max':'31', 'min':'29'})
     LONGITUDE = FloatField('Longitude', validators=[InputRequired()],
                            render_kw={'type':'number', 'step':'any', 'max':'-94', 'min':'-96'})
     Channel_Type = SelectField('Channel Type', choices=getChoices(channel_names))
     eventType = SelectField('Event Type', choices=getChoices(event_names))
-    Nearest_facility = FloatField('Nearest facility (km)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
-    disnearestpolst = FloatField('Nearest Police Station (km)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
+    Nearest_facility = FloatField('Nearest recycling Facility (km)', validators=[InputRequired()], render_kw={'type':'number', 'step':'any', 'min':0})
     weatherflag = BooleanField('Weather Flag')
     polStLessThan2km = BooleanField('Police Station less than 2km')
     submit = SubmitField('Predict')
