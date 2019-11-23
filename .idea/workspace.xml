@@ -3,16 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="13cb4e36-cae7-41f7-a79f-eae2819aa1b1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/build_pred_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis/parse_fac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/data/division_model_forecast_plots.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/static/data/division_model_forecast_plots.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/model/logRegClf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/static/model/logRegClf.joblib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/model/pca.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/static/model/pca.joblib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/model/scaler.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/static/model/scaler.joblib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/model/sgdRegClf.joblib" beforeDir="false" afterPath="$PROJECT_DIR$/static/model/sgdRegClf.joblib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/predictions.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/predictions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/trends.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/trends.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/311 Call Handling arima.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/311 Call Handling arima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Community Improvement arima.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Community Improvement arima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Community Services arima.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Community Services arima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Environmental Health ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Environmental Health ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Evacuation ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Evacuation ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/FM Facilities and Maintenance arima.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/FM Facilities and Maintenance arima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/General Support Services ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/General Support Services ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Liaison Assistance ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Liaison Assistance ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Mental Health ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Mental Health ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/PDS Planning Development Services ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/PDS Planning Development Services ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Parking Enforcement ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Parking Enforcement ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Parking Meter Maintenance ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Parking Meter Maintenance ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Recreation Operations arima.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Recreation Operations arima.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Recycling ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Recycling ets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/forecast/Transportation Regulation ets.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/forecast/Transportation Regulation ets.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,14 +62,14 @@
         <counts>
           <entry key="Python Console" value="78" />
           <entry key="css" value="4" />
-          <entry key="html" value="999" />
+          <entry key="html" value="1004" />
           <entry key="py" value="1644" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="4" />
-          <entry key="HTML" value="999" />
+          <entry key="HTML" value="1004" />
           <entry key="Python" value="1722" />
         </counts>
       </usages-collector>
@@ -72,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="428">
-              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -89,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/predict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="372">
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -102,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+              <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -123,8 +132,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/predictions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -133,7 +142,7 @@
         <entry file="file://$PROJECT_DIR$/templates/trends.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -162,9 +171,9 @@
         <option value="$PROJECT_DIR$/templates/layout.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/trends.html" />
-        <option value="$PROJECT_DIR$/templates/predictions.html" />
         <option value="$PROJECT_DIR$/forms.py" />
         <option value="$PROJECT_DIR$/predict.py" />
+        <option value="$PROJECT_DIR$/templates/predictions.html" />
       </list>
     </option>
   </component>
@@ -296,6 +305,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -468,7 +478,7 @@
     <entry file="file://$PROJECT_DIR$/templates/trends.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -482,7 +492,7 @@
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -493,20 +503,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="25" column="38" lean-forward="true" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -521,10 +521,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/predictions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
