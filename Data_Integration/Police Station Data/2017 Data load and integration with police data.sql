@@ -84,8 +84,6 @@ square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat18*PI()
 into police_2017_cleaned
 from hou311_2017_cleaned d cross join latlongpolicestations l
 
-
-
 SELECT h.*, disnearestpolst
 into police_2017_cleaned_distince
 FROM police_2017_cleaned h
