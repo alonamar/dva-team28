@@ -141,3 +141,4 @@ SELECT [CASE NUMBER]
       ,[polStLessThan2km]
   FROM [dbo].[Merged_Houston311_Storm_rec_PoliceDistance_2018]
   where 1=2
+							     
