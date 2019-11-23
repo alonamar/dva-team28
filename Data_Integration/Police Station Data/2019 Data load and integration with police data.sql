@@ -39,6 +39,7 @@ GO
 insert into Merged_Houston311_Storm_rec_Police_2019
 select * from Merged_Houston311_Storm_rec_2019
 		     
+		     
 
 select  d.*
 ,sqrt(square(6371*cos(latitude*PI()/180)*cos(longitude*PI()/180)- 6371*cos(lat1*PI()/180)*cos(long1*PI()/180))+
