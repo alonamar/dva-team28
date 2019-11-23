@@ -3,10 +3,18 @@
 {% block body %}
     {{ super() }}
     <div class="ui container">
-        <h1 class="ui header center aligned">Overdue Prediction</h1>
+        <h1 class="ui header centered">
+            <div class="content">
+                Overdue Prediction
+                <div class="sub header">
+                    UI to predict time to close a ticket using our trained models.<br>
+                    Optionally, user can upload a file for prediction and use download option to save the results per call.
+                </div>
+            </div>
+        </h1>
         <form id='pred' class="ui equal width form" method="post">
             {{ predForm.hidden_tag() }}
-            {% for form_row in predForm.getDict() | batch(4) %}
+            {% for form_row in predForm.getDict() | batch(5) %}
                 <div class="fields">
                     {% for key in form_row %}
                         <div class="field">

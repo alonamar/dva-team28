@@ -1,11 +1,12 @@
-body { font: 14px Arial;}
+body { 
+	font: 14px Arial;
+}
 
-path {
+path { 
     stroke: steelblue;
     stroke-width: 2;
     fill: none;
 }
-
 .axis path,
 .axis line {
     fill: none;
@@ -14,5 +15,5 @@ path {
     shape-rendering: crispEdges;
 }
 .bar {
-        fill: #900C3F;
+        fill: #021d96;
     }

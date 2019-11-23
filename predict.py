@@ -20,7 +20,6 @@ cols_names = [
     'weatherflag',  # - num
     'eventType',  # - cat
     'Nearest_facility',  # - num
-    'disnearestpolst',  # - num
     'polStLessThan2km'  # - num
 ]
 
@@ -38,7 +37,8 @@ def getResults(X_test, file=False):
     else:
         data = dict2DF(X_test)
 
-    numbers = ['SLA', 'LATITUDE', 'LONGITUDE', 'weatherflag', 'Nearest_facility', 'disnearestpolst', 'polStLessThan2km']
+    data.loc[data['SLA'] == "", ['SLA']] = 0
+    numbers = ['SLA', 'LATITUDE', 'LONGITUDE', 'weatherflag', 'Nearest_facility', 'polStLessThan2km']
     data[numbers] = data[numbers].astype(dtype='float64')
     catDF = data.select_dtypes(include=['object'])
     numDF = data.select_dtypes(include=['float64'])
