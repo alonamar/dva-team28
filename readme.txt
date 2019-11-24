@@ -20,7 +20,7 @@ If you would like to run it yourself locally, follow these steps:
 EXECUTION:
 Open a web browser and go to http://127.0.0.1:5000/
 You can now interact with every user-related aspect of our project.
-If you would like to upload a test data in the "Prediction" part, it is located under "[project_dir]/test data"
+Prediction UI can be used to predict the ticket closing time. You can either enter the values in the UI directly and click Predict or upload a test data in the "Prediction" part, a sample of which is located under "[project_dir]/test data". If you manually load a file to predict, there will be an output file generated with predicted values.
 To close the server, go to the the terminal and press CTRL+C.
 
 
