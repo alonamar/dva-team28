@@ -1,5 +1,6 @@
 select count(*) from [dbo].[311-Public-Data-Extract-2017-clean]
 
+--Loading only harris county data
 select * into data311_2017 
 from [dbo].[311-Public-Data-Extract-2017-clean]
 where lower(county) like 'harris%' 
@@ -21,11 +22,13 @@ select count(*) from data311_2017
 select count(*) from data311_2017   where  sla='' or overdue='' or "due date"=''
 select count(*) from data311_2017   where  latitude ='' or longitude='' or "SR Type"='' or "SR Create DATE"='' or STATUS=''
 
+--removing data where latitude, longitude, sr type, sr create date or status is blank
 select * into data311_2017_v1 from data311_2017   where not(latitude ='' or longitude='' or "SR Type"='' or "SR Create DATE"='' or STATUS='' )
 
 insert into [dbo].[hou311_2017_cleaned]
 select * from data311_2017_v1
 
+--calculating eucledean distance to all police stations
 select  d.*
 ,sqrt(square(6371*cos(latitude*PI()/180)*cos(longitude*PI()/180)- 6371*cos(lat1*PI()/180)*cos(long1*PI()/180))+
 square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat1*PI()/180)*sin(long1*PI()/180))
@@ -84,6 +87,7 @@ square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat18*PI()
 into police_2017_cleaned
 from hou311_2017_cleaned d cross join latlongpolicestations l
 
+--finding nearest police station
 SELECT h.*, disnearestpolst
 into police_2017_cleaned_distince
 FROM police_2017_cleaned h
