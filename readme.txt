@@ -26,4 +26,4 @@ To close the server, go to the the terminal and press CTRL+C.
 
 NOTES:
 * The website is best seen on a large monitor screen.
-* The analysis code is not part of the deployment. In order to run that code, you should download the data, and run it separately.
+* The Data_Integration and Model_Building dirs conbsists the code that is not part of the deployment. In order to run that code, you should download the data, and run it separately.
