@@ -36,11 +36,12 @@ CREATE TABLE [dbo].[Merged_Houston311_Storm_rec_Police_2019](
 ) ON [PRIMARY]
 GO
 
+
 insert into Merged_Houston311_Storm_rec_Police_2019
 select * from Merged_Houston311_Storm_rec_2019
 		     
 		     
-
+--claulcting eucldean distance to all police stations from compliant type location based on latitude nad longitude
 select  d.*
 ,sqrt(square(6371*cos(latitude*PI()/180)*cos(longitude*PI()/180)- 6371*cos(lat1*PI()/180)*cos(long1*PI()/180))+
 square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat1*PI()/180)*sin(long1*PI()/180))
@@ -99,46 +100,10 @@ square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat18*PI()
 into #police_2019_cleaned
 from Merged_Houston311_Storm_rec_Police_2019 d cross join latlongpolicestations l
 
-
+--finding distance to nearest police station and addinga binary flag for police station less than 2km
 SELECT h.*, disnearestpolst, case when disnearestpolst<=2 then 1 else 0 end as "polStLessThan2km"
 into Merged_Houston311_Storm_rec_PoliceDistance_2019
 FROM #police_2019_cleaned h
 CROSS APPLY (SELECT MIN(d) disnearestpolst FROM (VALUES (d1), (d2), (d3), (d4), (d5), (d6), (d7), (d8), (d9), (d10), 
 (d11), (d12), (d13), (d14), (d15), (d16), (d17), (d18)) AS a(d)) A
 
-SELECT [CASE NUMBER]
-      ,[SR LOCATION]
-      ,[COUNTY]
-      ,[DISTRICT]
-      ,[NEIGHBORHOOD]
-      ,[TAX ID]
-      ,[TRASH QUAD]
-      ,[RECYCLE QUAD]
-      ,[TRASH DAY]
-      ,[HEAVY TRASH DAY]
-      ,[RECYCLE DAY]
-      ,[KEY MAP]
-      ,[MANAGEMENT DISTRICT]
-      ,[DEPARTMENT]
-      ,[DIVISION]
-      ,[SR TYPE]
-      ,[QUEUE]
-      ,[SLA]
-      ,[STATUS]
-      ,[SR CREATE DATE]
-      ,[DUE DATE]
-      ,[DATE CLOSED]
-      ,[OVERDUE]
-      ,[Title]
-      ,[x]
-      ,[y]
-      ,[LATITUDE]
-      ,[LONGITUDE]
-      ,[Channel Type]
-      ,[weatherflag]
-      ,[eventType]
-      ,[Nearest_facility]
-      ,[disnearestpolst]
-      ,[polStLessThan2km]
-  FROM [dbo].[Merged_Houston311_Storm_rec_PoliceDistance_2019]
-  where 1=2
