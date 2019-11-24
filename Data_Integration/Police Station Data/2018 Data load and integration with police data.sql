@@ -1,5 +1,6 @@
 select count(*) from [dbo].[Merged_Houston311_Storm_rec_2018]
 
+--removing data where latitude and longitude doesnot have numeric value
 delete from Merged_Houston311_Storm_rec_2018 where isnumeric(latitude) <>1 or isnumeric(longitude)<>1
 CREATE TABLE [dbo].[Merged_Houston311_Storm_rec_Police_2018](
 	[CASE NUMBER] [varchar](50) NULL,
@@ -40,6 +41,7 @@ GO
 insert into Merged_Houston311_Storm_rec_Police_2018
 select * from Merged_Houston311_Storm_rec_2018
 
+--calculating eucledean distance to all police stations from compliant type location
 select  d.*
 ,sqrt(square(6371*cos(latitude*PI()/180)*cos(longitude*PI()/180)- 6371*cos(lat1*PI()/180)*cos(long1*PI()/180))+
 square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat1*PI()/180)*sin(long1*PI()/180))
@@ -98,7 +100,7 @@ square(6371*cos(latitude*PI()/180)*sin(longitude*PI()/180) - 6371*cos(lat18*PI()
 into #police_2018_cleaned
 from Merged_Houston311_Storm_rec_Police_2018 d cross join latlongpolicestations l
 
-
+--finding distance to nearest police station and adding binary field for distnace less than 2km
 SELECT h.*, disnearestpolst, case when disnearestpolst<=2 then 1 else 0 end as "polStLessThan2km"
 into Merged_Houston311_Storm_rec_PoliceDistance_2018
 FROM #police_2018_cleaned h
