@@ -106,41 +106,4 @@ into Merged_Houston311_Storm_rec_PoliceDistance_2018
 FROM #police_2018_cleaned h
 CROSS APPLY (SELECT MIN(d) disnearestpolst FROM (VALUES (d1), (d2), (d3), (d4), (d5), (d6), (d7), (d8), (d9), (d10), 
 (d11), (d12), (d13), (d14), (d15), (d16), (d17), (d18)) AS a(d)) A
-
-SELECT [CASE NUMBER]
-      ,[SR LOCATION]
-      ,[COUNTY]
-      ,[DISTRICT]
-      ,[NEIGHBORHOOD]
-      ,[TAX ID]
-      ,[TRASH QUAD]
-      ,[RECYCLE QUAD]
-      ,[TRASH DAY]
-      ,[HEAVY TRASH DAY]
-      ,[RECYCLE DAY]
-      ,[KEY MAP]
-      ,[MANAGEMENT DISTRICT]
-      ,[DEPARTMENT]
-      ,[DIVISION]
-      ,[SR TYPE]
-      ,[QUEUE]
-      ,[SLA]
-      ,[STATUS]
-      ,[SR CREATE DATE]
-      ,[DUE DATE]
-      ,[DATE CLOSED]
-      ,[OVERDUE]
-      ,[Title]
-      ,[x]
-      ,[y]
-      ,[LATITUDE]
-      ,[LONGITUDE]
-      ,[Channel Type]
-      ,[weatherflag]
-      ,[eventType]
-      ,[Nearest_facility]
-      ,[disnearestpolst]
-      ,[polStLessThan2km]
-  FROM [dbo].[Merged_Houston311_Storm_rec_PoliceDistance_2018]
-  where 1=2
-							     
+					     
